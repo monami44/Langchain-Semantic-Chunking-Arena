@@ -1,0 +1,20 @@
+# docker-compose.yml
+
+version: '3.8'
+
+services:
+  benchmark:
+    build: .
+    volumes:
+      - ./data:/app/data
+      - ./logs:/app/logs
+      - ./config:/app/config
+    environment:
+      - PYTHONPATH=/app
+    command: python src/main.py
+    restart: on-failure
+    healthcheck:
+      test: ["CMD", "python", "-c", "import src.main"]
+      interval: 30s
+      timeout: 10s
+      retries: 3

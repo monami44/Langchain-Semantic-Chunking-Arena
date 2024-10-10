@@ -1,0 +1,58 @@
+65. Front Educ (Lausanne). 2024;9:1295910. doi: 10.3389/feduc.2024.1295910. Epub 
+2024 Mar 27.
+
+The impact of COVID-19 school disruptions on children's learning.
+
+Blackwell CK(1), Mansolf M(1), Deoni SCL(2), Ganiban JM(3), Leve LD(4), Margolis 
+AE(5), McGrath M(6), Nozadi SS(7), O'Shea TM(8), Sherlock P(9), Zhao Q(10), 
+LeWinn KZ(11).
+
+Author information:
+(1)Department of Medical Social Sciences, Northwestern University Feinberg 
+School of Medicine, Chicago, IL, United States.
+(2)Bill & Melinda Gates Foundation, Seattle, WA, United States.
+(3)Department of Psychological and Brain Sciences, George Washington University, 
+Washington, DC, United States.
+(4)Counseling Psychology and Human Services, University of Oregon College of 
+Education, Eugene, OR, United States.
+(5)Irving Medical Center, New York State Psychiatric Institute, Columbia 
+University, New York, NY, United States.
+(6)Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, United 
+States.
+(7)Community Environmental Health Program, College of Pharmacy, University of 
+New Mexico Health Sciences Center, Albuquerque, NM, United States.
+(8)University of North Carolina School of Medicine, Chapel Hill, NC, United 
+States.
+(9)Anita Zucker Center for Excellence in Early Childhood Studies, University of 
+Florida, Gainesville, FL, United States.
+(10)Department of Preventative Medicine, University of Tennessee Health Science 
+Center, Memphis, TN, United States.
+(11)Department of Psychiatry, University of California, San Francisco, San 
+Francisco, CA, United States.
+
+INTRODUCTION: National health policies to stop the spread of the COVID-19 virus 
+in the US resulted in widespread school closures and disrupted learning in 
+Spring 2020.
+METHODS: This study draws on unique individual-level data from n = 282 5-12 year 
+olds enrolled in the NIH Environmental influences on Child Health Outcomes 
+(ECHO) Research Program to investigate associations between caregiver-reported 
+duration of Spring 2020 learning disruptions and academic achievement.
+RESULTS: Linear regression analyses estimated that children who experienced more 
+than 4 weeks of instruction disruptions in Spring 2020 scored 4.5 points [95% 
+CI: -8.77, -0.22] lower on age-normed math assessments compared to peers who had 
+four or fewer weeks of disruption, adjusting for sociodemographic variables, 
+pre-pandemic vocabulary, and COVID-19 family hardships and stress. No 
+differences were found for reading. Children whose caregivers had higher levels 
+of pandemic-related traumatic stress and lower educational attainment also had 
+lower math scores, adjusting for all other covariates.
+DISCUSSION: Results suggest educators and schools focus additional attention on 
+supporting math instruction for children who experienced extended learning 
+disruptions.
+
+DOI: 10.3389/feduc.2024.1295910
+PMCID: PMC11460541
+PMID: 39380930
+
+Conflict of interest statement: Conflict of interest The authors declare that 
+the research was conducted in the absence of any commercial or financial 
+relationships that could be construed as a potential conflict of interest.

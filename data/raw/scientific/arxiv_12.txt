@@ -1,0 +1,18 @@
+Machine learning is disruptive. At the same time, machine learning can only
+succeed by collaboration among many parties in multiple steps naturally as
+pipelines in an eco-system, such as collecting data for possible machine
+learning applications, collaboratively training models by multiple parties and
+delivering machine learning services to end users. Data is critical and
+penetrating in the whole machine learning pipelines. As machine learning
+pipelines involve many parties and, in order to be successful, have to form a
+constructive and dynamic eco-system, marketplaces and data pricing are
+fundamental in connecting and facilitating those many parties. In this article,
+we survey the principles and the latest research development of data pricing in
+machine learning pipelines. We start with a brief review of data marketplaces
+and pricing desiderata. Then, we focus on pricing in three important steps in
+machine learning pipelines. To understand pricing in the step of training data
+collection, we review pricing raw data sets and data labels. We also
+investigate pricing in the step of collaborative training of machine learning
+models, and overview pricing machine learning models for end users in the step
+of machine learning deployment. We also discuss a series of possible future
+directions.

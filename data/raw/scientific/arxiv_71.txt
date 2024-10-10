@@ -1,0 +1,3 @@
+Based on 46 in-depth interviews with scientists, engineers, and CEOs, this
+document presents a list of concrete machine research problems, progress on
+which would directly benefit tech ventures in East Africa.

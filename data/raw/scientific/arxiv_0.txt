@@ -1,0 +1,3 @@
+Lecture notes on optimization for machine learning, derived from a course at
+Princeton University and tutorials given in MLSS, Buenos Aires, as well as
+Simons Foundation, Berkeley.

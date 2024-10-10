@@ -1,0 +1,1 @@
+In this chapter, we provide a brief overview of applying machine learning techniques for clinical prediction tasks. We begin with a quick introduction to the concepts of machine learning and outline some of the most common machine learning algorithms.

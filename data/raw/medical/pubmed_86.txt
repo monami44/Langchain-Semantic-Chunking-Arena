@@ -1,0 +1,40 @@
+88. Nurs Crit Care. 2024 Oct 8. doi: 10.1111/nicc.13185. Online ahead of print.
+
+Prone position applied to COVID-19 patients: Systematic review-meta-analysis.
+
+Tülüce D(1), Kaplan Serin E(2), Yıldız Karadeniz E(3).
+
+Author information:
+(1)Nursing Department, Faculty of Health Sciences, Osmaniye Korkut Ata 
+University, Osmaniye, Turkey.
+(2)Department of Internal Medicine Nursing, Faculty of Nursing, Mersin 
+University, Mersin, Turkey.
+(3)Department of Fundamentals of Nursing, Faculty of Nursing, Mersin University, 
+Mersin, Turkey.
+
+BACKGROUND: Position change and interventions to increase lung capacity should 
+be considered in mechanically ventilated patients. The most effective of these 
+is the prone position.
+AIM: This systematic review and meta-analysis aimed to determine the effects of 
+the prone position on respiratory parameters and outcomes and to guide nurses 
+working in the intensive care unit.
+STUDY DESIGN AND METHODS: This systematic review-meta-analysis was conducted in 
+accordance with the Preferred Reporting in Systematic Reviews and Meta-Analyses 
+guideline. ScienceDirect, CINAHL, Academic Search Complete (EBSCOhost), MEDLINE, 
+EMBASE, Web of Science, Cochrane and PubMed databases were searched between 
+January 2022 and January 2023 to access studies related to prone position in 
+COVID-19 patients.
+RESULTS: Twenty-three studies were included. This meta-analysis shows that a 
+prone position is feasible and can achieve improvements in gas exchange. Prone 
+position increases PaO2/FiO2 in the majority of patients followed with a 
+diagnosis of COVID-19 and severe hypoxemic.
+CONCLUSIONS: The study has shown that the prone position is effective in 
+improving patients' respiratory function and oxygenation.
+RELEVANCE TO CLINICAL PRACTICE: The results presented in this article support 
+the notion that the prone position can be an effective strategy in the clinical 
+management of COVID-19 patients.
+
+© 2024 British Association of Critical Care Nurses.
+
+DOI: 10.1111/nicc.13185
+PMID: 39380309

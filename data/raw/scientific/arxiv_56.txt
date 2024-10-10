@@ -1,0 +1,10 @@
+Many modern research fields increasingly rely on collecting and analysing
+massive, often unstructured, and unwieldy datasets. Consequently, there is
+growing interest in machine learning and artificial intelligence applications
+that can harness this `data deluge'. This broad nontechnical overview provides
+a gentle introduction to machine learning with a specific focus on medical and
+biological applications. We explain the common types of machine learning
+algorithms and typical tasks that can be solved, illustrating the basics with
+concrete examples from healthcare. Lastly, we provide an outlook on open
+challenges, limitations, and potential impacts of machine-learning-powered
+medicine.

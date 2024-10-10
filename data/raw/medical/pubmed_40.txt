@@ -1,0 +1,37 @@
+41. Front Public Health. 2024 Sep 24;12:1494917. doi: 10.3389/fpubh.2024.1494917.
+ eCollection 2024.
+
+Corrigendum: Risk of SARS-CoV-2 infection among people living with HIV in Wuhan, 
+China.
+
+Wu M(#)(1)(2), Ming F(#)(3), Wu S(#)(4), Liu Y(1), Zhang X(1), Guo W(5)(6), 
+Marley G(7), Tang W(8)(9), Liang K(1)(2)(4)(10).
+
+Author information:
+(1)Department of Infectious Diseases, Zhongnan Hospital of Wuhan University, 
+Wuhan, China.
+(2)Wuhan Research Center for Infectious Diseases and Cancer, Chinese Academy of 
+Medical Sciences, Wuhan, China.
+(3)Wuchang District Center for Disease Control and Prevention, Wuhan, China.
+(4)Department of Nosocomial Infection Management, Zhongnan Hospital of Wuhan 
+University, Wuhan, China.
+(5)Department of Pathology, Zhongnan Hospital of Wuhan University, Wuhan, China.
+(6)Department of Pathology, School of Basic Medical Sciences, Wuhan University, 
+Wuhan, China.
+(7)School of Public Health of Nanjing Medical University, Nanjing, China.
+(8)Guangdong Second Provincial General Hospital, Guangzhou, China.
+(9)University of North Carolina at Chapel Hill Project-China, Guangzhou, China.
+(10)Hubei Engineering Center for Infectious Disease Prevention, Control and 
+Treatment, Wuhan, China.
+(#)Contributed equally
+
+Erratum for
+    Front Public Health. 2022 Apr 29;10:833783. doi: 10.3389/fpubh.2022.833783.
+
+[This corrects the article DOI: 10.3389/fpubh.2022.833783.].
+
+Copyright © 2024 Wu, Ming, Wu, Liu, Zhang, Guo, Marley, Tang and Liang.
+
+DOI: 10.3389/fpubh.2024.1494917
+PMCID: PMC11459133
+PMID: 39381761

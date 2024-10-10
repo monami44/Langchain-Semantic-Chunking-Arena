@@ -1,0 +1,7 @@
+We present two related Stata modules, r_ml_stata and c_ml_stata, for fitting
+popular Machine Learning (ML) methods both in regression and classification
+settings. Using the recent Stata/Python integration platform (sfi) of Stata 16,
+these commands provide hyper-parameters' optimal tuning via K-fold
+cross-validation using greed search. More specifically, they make use of the
+Python Scikit-learn API to carry out both cross-validation and outcome/label
+prediction.

@@ -1,0 +1,2 @@
+This report assesses different machine learning approaches to 10-year
+survival prediction of breast cancer patients.

@@ -1,0 +1,7 @@
+Machine learning techniques have influenced the field of computer
+architecture like many other fields. This paper studies how the fundamental
+machine learning techniques can be applied towards computer architecture
+problems. We also provide a detailed survey of computer architecture research
+that employs different machine learning methods. Finally, we present some
+future opportunities and the outstanding challenges that need to be overcome to
+exploit full potential of machine learning for computer architecture.

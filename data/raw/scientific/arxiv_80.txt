@@ -1,0 +1,8 @@
+We critically review three major theories of machine learning and provide a
+new theory according to which machines learn a function when the machines
+successfully compute it. We show that this theory challenges common assumptions
+in the statistical and the computational learning theories, for it implies that
+learning true probabilities is equivalent neither to obtaining a correct
+calculation of the true probabilities nor to obtaining an almost-sure
+convergence to them. We also briefly discuss some case studies from natural
+language processing and macroeconomics from the perspective of the new theory.

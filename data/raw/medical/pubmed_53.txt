@@ -1,0 +1,43 @@
+54. Antib Ther. 2024 Sep 26;7(4):307-323. doi: 10.1093/abt/tbae025. eCollection
+2024  Oct.
+
+AI-based antibody discovery platform identifies novel, diverse, and 
+pharmacologically active therapeutic antibodies against multiple SARS-CoV-2 
+strains.
+
+Loomis CM(1), Lahlali T(2), Van Citters D(1), Sprague M(1), Neveu G(2), Somody 
+L(2), Siska CC(1), Deming D(1), Asakawa AJ(1), Amimeur T(1), Shaver JM(1), 
+Carbonelle C(2), Ketchem RR(1), Alam A(2), Clark RH(1).
+
+Author information:
+(1)Department of Discovery & Molecular Design, Just-Evotec Biologics Inc., 401 
+Terry Avenue N., Seattle, WA 98109, USA.
+(2)Department of Virology, Evotec ID, 40, Avenue Tony Garnier, 69007 Lyon, 
+France.
+
+BACKGROUND: We are entering a new era of antibody discovery and optimization 
+where machine learning (ML) processes will become indispensable for the design 
+and development of therapeutics.
+METHODS: We have constructed a Humanoid Antibody Library for the discovery of 
+therapeutics that is an initial step towards leveraging the utility of 
+artificial intelligence and ML. We describe how we began our validation of the 
+library for antibody discovery by isolating antibodies against a target of 
+pandemic concern, SARS-CoV-2. The two main antibody quality aspects that we 
+focused on were functional and biophysical characterization.
+RESULTS: The applicability of our platform for effective therapeutic antibody 
+discovery is demonstrated here with the identification of a panel of human 
+monoclonal antibodies that are novel, diverse, and pharmacologically active.
+CONCLUSIONS: These first-generation antibodies, without the need for affinity 
+maturation, exhibited neutralization of SARS-CoV-2 viral infectivity across 
+multiple strains and indicated high developability potential.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of Antibody 
+Therapeutics.
+
+DOI: 10.1093/abt/tbae025
+PMCID: PMC11456866
+PMID: 39381135
+
+Conflict of interest statement: All authors were employees of Just-Evotec 
+Biologics/Evotec at the time all work was performed. All work was performed by 
+employees of Just-Evotec Biologics/Evotec.

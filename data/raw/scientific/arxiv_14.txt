@@ -1,0 +1,9 @@
+With the advance of the powerful heterogeneous, parallel and distributed
+computing systems and ever increasing immense amount of data, machine learning
+has become an indispensable part of cutting-edge technology, scientific
+research and consumer products. In this study, we present a review of modern
+machine and deep learning. We provide a high-level overview for the latest
+advanced machine learning algorithms, applications, and frameworks. Our
+discussion encompasses parallel distributed learning, deep learning as well as
+federated learning. As a result, our work serves as an introductory text to the
+vast field of modern machine learning.

@@ -1,0 +1,46 @@
+83. Nucleic Acids Res. 2024 Oct 9:gkae874. doi: 10.1093/nar/gkae874. Online ahead
+of  print.
+
+A compact stem-loop DNA aptamer targets a uracil-binding pocket in the 
+SARS-CoV-2 nucleocapsid RNA-binding domain.
+
+Esler MA(1)(2)(3), Belica CA(1)(2)(3), Rollie JA(1)(2)(3), Brown WL(1)(2)(3), 
+Moghadasi SA(1)(2)(3), Shi K(1)(2)(3), Harki DA(2)(3)(4), Harris RS(5)(6), 
+Aihara H(1)(2)(3).
+
+Author information:
+(1)Department of Biochemistry, Molecular Biology and Biophysics, University of 
+Minnesota, Minneapolis, MN 55455, USA.
+(2)Institute for Molecular Virology, University of Minnesota, Minneapolis, 
+MN 55455, USA.
+(3)Masonic Cancer Center, University of Minnesota, Minneapolis, MN 55455, USA.
+(4)Department of Medicinal Chemistry, University of Minnesota, Minneapolis, 
+MN 55455, USA.
+(5)Department of Biochemistry and Structural Biology, University of Texas Health 
+San Antonio, San Antonio, TX 78229, USA.
+(6)Howard Hughes Medical Institute, University of Texas Health San Antonio, San 
+Antonio, TX 78229, USA.
+
+SARS-CoV-2 nucleocapsid (N) protein is a structural component of the virus with 
+essential roles in the replication and packaging of the viral RNA genome. The N 
+protein is also an important target of COVID-19 antigen tests and a promising 
+vaccine candidate along with the spike protein. Here, we report a compact 
+stem-loop DNA aptamer that binds tightly to the N-terminal RNA-binding domain of 
+SARS-CoV-2 N protein. Crystallographic analysis shows that a hexanucleotide DNA 
+motif (5'-TCGGAT-3') of the aptamer fits into a positively charged concave 
+surface of N-NTD and engages essential RNA-binding residues including Tyr109, 
+which mediates a sequence-specific interaction in a uracil-binding pocket. Avid 
+binding of the DNA aptamer allows isolation and sensitive detection of 
+full-length N protein from crude cell lysates, demonstrating its selectivity and 
+utility in biochemical applications. We further designed a chemically modified 
+DNA aptamer and used it as a probe to examine the interaction of N-NTD with 
+various RNA motifs, which revealed a strong preference for uridine-rich 
+sequences. Our studies provide a high-affinity chemical probe for the SARS-CoV-2 
+N protein RNA-binding domain, which may be useful for diagnostic applications 
+and investigating novel antiviral agents.
+
+© The Author(s) 2024. Published by Oxford University Press on behalf of Nucleic 
+Acids Research.
+
+DOI: 10.1093/nar/gkae874
+PMID: 39380503

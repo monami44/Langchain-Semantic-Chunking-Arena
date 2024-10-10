@@ -1,0 +1,1 @@
+One of the pillars of any machine learning model is its concepts. Using software engineering, we can engineer these concepts and then develop and expand them. In this article, we present a SELM framework for Software Engineering of machine Learning Models. We then evaluate this framework through a case study.

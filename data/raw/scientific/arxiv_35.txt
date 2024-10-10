@@ -1,0 +1,7 @@
+This paper introduces a machine learning potential repository that includes
+Pareto optimal machine learning potentials. It also shows the systematic
+development of accurate and fast machine learning potentials for a wide range
+of elemental systems. As a result, many Pareto optimal machine learning
+potentials are available in the repository from a website. Therefore, the
+repository will help many scientists to perform accurate and fast atomistic
+simulations.

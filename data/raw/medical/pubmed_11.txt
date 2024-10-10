@@ -1,0 +1,57 @@
+12. Bioprocess Biosyst Eng. 2024 Oct 9. doi: 10.1007/s00449-024-03094-1. Online 
+ahead of print.
+
+Inline Raman spectroscopy as process analytical technology for SARS-CoV-2 VLP 
+production.
+
+Moura Dias F(#)(1)(2), Teruya MM(#)(1), Omae Camalhonte S(2), Aragão Tejo Dias 
+V(1), de Oliveira Guardalini LG(2), Leme J(2), Consoni Bernardino T(2), Sposito 
+FS(3), Dias E(3), Manciny Astray R(4), Tonso A(5), Attie Calil Jorge S(2), 
+Fernández Núñez EG(6).
+
+Author information:
+(1)Laboratório de Engenharia de Bioprocessos. Escola de Artes, Ciências E 
+Humanidades (EACH), Universidade de São Paulo, Rua Arlindo Béttio, 1000, São 
+Paulo, SP, CEP 03828-000, Brazil.
+(2)Laboratório de Biotecnologia Viral, Instituto Butantan, Av Vital Brasil 1500, 
+São Paulo, SP, CEP 05503-900, Brazil.
+(3)Merck Brasil, Alameda Xingu, 350, Alphaville Industrial, São Paulo, SP, CEP 
+06455-030, Brazil.
+(4)Laboratório Multipropósito, Instituto Butantan, Av. Vital Brasil 1500, São 
+Paulo, SP, CEP 05503-900, Brazil.
+(5)Laboratório de Células Animais, Departamento de Engenharia Química, Escola 
+Politécnica, Universidade de São Paulo. Av. Prof. Luciano Gualberto, Travessa Do 
+Politécnico, 380, São Paulo, SP, 05508-010, Brazil.
+(6)Laboratório de Engenharia de Bioprocessos. Escola de Artes, Ciências E 
+Humanidades (EACH), Universidade de São Paulo, Rua Arlindo Béttio, 1000, São 
+Paulo, SP, CEP 03828-000, Brazil. egfnunez@usp.br.
+(#)Contributed equally
+
+The present work focused on inline Raman spectroscopy monitoring of SARS-CoV-2 
+VLP production using two culture media by fitting chemometric models for 
+biochemical parameters (viable cell density, cell viability, glucose, lactate, 
+glutamine, glutamate, ammonium, and viral titer). For that purpose, linear, 
+partial least square (PLS), and nonlinear approaches, artificial neural network 
+(ANN), were used as correlation techniques to build the models for each 
+variable. ANN approach resulted in better fitting for most parameters, except 
+for viable cell density and glucose, whose PLS presented more suitable models. 
+Both were statistically similar for ammonium. The mean absolute error of the 
+best models, within the quantified value range for viable cell density 
+(375,000-1,287,500 cell/mL), cell viability (29.76-100.00%), glucose 
+(8.700-10.500 g/), lactate (0.019-0.400 g/L), glutamine (0.925-1.520 g/L), 
+glutamate (0.552-1.610 g/L), viral titer (no virus quantified-7.505 log10 
+PFU/mL) and ammonium (0.0074-0.0478 g/L) were, respectively, 
+41,533 ± 45,273 cell/mL (PLS), 1.63 ± 1.54% (ANN), 0.058 ± 0.065 g/L (PLS), 
+0.007 ± 0.007 g/L (ANN), 0.007 ± 0.006 g/L (ANN), 0.006 ± 0.006 g/L (ANN), 
+0.211 ± 0.221 log10 PFU/mL (ANN), and 0.0026 ± 0.0026 g/L (PLS) or 
+0.0027 ± 0.0034 g/L (ANN). The correlation accuracy, errors, and best models 
+obtained are in accord with studies, both online and offline approaches while 
+using the same insect cell/baculovirus expression system or different cell host. 
+Besides, the biochemical tracking throughout bioreactor runs using the models 
+showed suitable profiles, even using two different culture media.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Germany, 
+part of Springer Nature.
+
+DOI: 10.1007/s00449-024-03094-1
+PMID: 39382655

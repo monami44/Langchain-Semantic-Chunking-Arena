@@ -1,0 +1,58 @@
+53. J Trauma Inj. 2024 Mar;37(1):60-66. doi: 10.20408/jti.2023.0064. Epub 2024
+Feb  26.
+
+Changes in interpersonal violence and utilization of trauma recovery services at 
+an urban trauma center in the United States during the COVID-19 pandemic: a 
+retrospective, comparative study.
+
+Zhu KY(1), Sun KJ(1), Breslin MA(2), Kalina M Jr(3), Moon T(4), Furdock R(4), 
+Vallier HA(1).
+
+Author information:
+(1)Department of Orthopedic Surgery, Case Western Reserve University School of 
+Medicine, Cleveland, OH, USA.
+(2)Evellere Group, Cleveland, OH, USA.
+(3)Department of Orthopedic Surgery, MetroHealth System, Cleveland, OH, USA.
+(4)Department of Orthopedic Surgery, University Hospitals, Case Western Reserve 
+University, Cleveland, OH, USA.
+
+PURPOSE: This study investigated changes in interpersonal violence and 
+utilization of trauma recovery services during the COVID-19 pandemic. At an 
+urban level I trauma center, trauma recovery services (TRS) provide education, 
+counseling, peer support, and coordination of rehabilitation and recovery to 
+address social and mental health needs. The COVID-19 pandemic prompted 
+considerable changes in hospital services and increases in interpersonal 
+victimization.
+METHODS: A retrospective analysis was conducted between September 6, 2018 and 
+December 20, 2020 for 1,908 victim-of-crime patients, including 574 victims of 
+interpersonal violence. Outcomes included length of stay associated with initial 
+TRS presentation, number of subsequent emergency department visits, number of 
+outpatient appointments, and utilization of specific specialties within the year 
+following the initial traumatic event.
+RESULTS: Patients were primarily female (59.4%), single (80.1%), non-Hispanic 
+(86.7%), and Black (59.2%). The mean age was 33.0 years, and 247 patients 
+(49.2%) presented due to physical assault, 132 (26.3%) due to gunshot wounds, 
+and 76 (15.1%) due to sexual assault. The perpetrators were primarily partners 
+(27.9%) or strangers (23.3%). During the study period, 266 patients (mean, 14.9 
+patients per month) presented before the declaration of COVID-19 as a national 
+emergency on March 13, 2020, while 236 patients (mean, 25.9 patients per month) 
+presented afterward, representing a 74.6% increase in victim-of-crime patients 
+treated. Interactions with TRS decreased during the COVID-19 period, with an 
+average of 3.0 interactions per patient before COVID-19 versus 1.9 after 
+emergency declaration (P<0.01). Similarly, reductions in length of stay were 
+noted; the pre-COVID-19 average was 3.6 days, compared to 2.1 days post-COVID-19 
+(P=0.01).
+CONCLUSIONS: While interpersonal violence increased, TRS interactions decreased 
+during the COVID-19 pandemic, reflecting interruption of services, COVID-19 
+precautions, and postponement/cancellation of elective visits. Future direction 
+of hospital policy to enable resource and service delivery to this population, 
+despite internal and external challenges, appears warranted.
+
+© 2024 The Korean Society of Traumatology.
+
+DOI: 10.20408/jti.2023.0064
+PMCID: PMC11309218
+PMID: 39381152
+
+Conflict of interest statement: Conflicts of interest The authors have no 
+conflicts of interest to declare.

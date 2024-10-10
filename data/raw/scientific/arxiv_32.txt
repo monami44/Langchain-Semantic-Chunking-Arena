@@ -1,0 +1,6 @@
+We study the problem of distributed multi-task learning with shared
+representation, where each machine aims to learn a separate, but related, task
+in an unknown shared low-dimensional subspaces, i.e. when the predictor matrix
+has low rank. We consider a setting where each task is handled by a different
+machine, with samples for the task available locally on the machine, and study
+communication-efficient methods for exploiting the shared structure.

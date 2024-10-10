@@ -1,0 +1,43 @@
+82. Soa Chongsonyon Chongsin Uihak. 2024 Oct 1;35(4):230-242. doi: 
+10.5765/jkacap.220039.
+
+Depression, Anxiety and Associated Factors Among Korean Adolescent Students 
+During COVID-19.
+
+Jung DY(1), Yoon KH(1), Jo MY(2), Jeong HJ(3), Kweon YS(1)(4).
+
+Author information:
+(1)School Mental Health Resources and Research Center, Korea Educational 
+Environments Protection Agency, Seoul, Korea.
+(2)Korea Educational Environments Protection Agency, Cheongju, Korea.
+(3)Center of School Health Promotion, Korea Educational Environments Protection 
+Agency, Cheongju, Korea.
+(4)Department of Psychiatry, The Catholic University of Korea College of 
+Medicine, Seoul, Korea.
+
+OBJECTIVES: Depression and anxiety are emotional difficulties that are common 
+among adolescents. Adolescents suffering from depression and anxiety can exhibit 
+problems such as antisocial behavior, aggression, and academic slump. This study 
+aimed to explore the factors influencing adolescents' depression and anxiety 
+during the coronavirus disease 2019 (COVID-19) pandemic.
+METHODS: This study examined the data from an online student health survey 
+conducted by the Ministry of Education in 2022. The survey participants were 
+131194 students ranging from the first grade of middle school to the third grade 
+of high school. The influence of each variable on depression and anxiety was 
+examined.
+RESULTS: Factors that predicted depression and anxiety were sex (female), grade 
+level (higher), financial difficulties (existing or unknown), physical activity 
+(higher), sleep time (shorter), media usage time (higher), family/friends 
+relationship (worse), and change in the health status of family, friends, and 
+oneself due to COVID-19 (worse).
+CONCLUSION: These results may help identify patterns of depression and anxiety 
+among adolescents caused by COVID-19 and maximize the intervention effect.
+
+Copyright © 2024 Korean Academy of Child and Adolescent Psychiatry.
+
+DOI: 10.5765/jkacap.220039
+PMCID: PMC11456651
+PMID: 39380563
+
+Conflict of interest statement: Conflicts of Interest The authors have no 
+potential conflicts of interest to disclose.

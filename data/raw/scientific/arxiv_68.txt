@@ -1,0 +1,4 @@
+Compressive learning is a framework where (so far unsupervised) learning
+tasks use not the entire dataset but a compressed summary (sketch) of it. We
+propose a compressive learning classification method, and a novel sketch
+function for images.

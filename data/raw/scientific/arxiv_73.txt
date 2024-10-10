@@ -1,0 +1,7 @@
+In this paper we present applications of different machine learning
+algorithms in aquaculture. Machine learning algorithms learn models from
+historical data. In aquaculture historical data are obtained from farm
+practices, yields, and environmental data sources. Associations between these
+different variables can be obtained by applying machine learning algorithms to
+historical data. In this paper we present applications of different machine
+learning algorithms in aquaculture applications.

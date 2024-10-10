@@ -1,0 +1,59 @@
+74. Front Cell Infect Microbiol. 2024 Sep 24;14:1426200. doi: 
+10.3389/fcimb.2024.1426200. eCollection 2024.
+
+Quantitative real time PCR for distinction between Pneumocystis jirovecii 
+infection/colonization in hospitalized patients.
+
+Rouhi F(1), Erami M(2), Rastgufar S(3), Jahani M(2), Aboutalebian S(1)(4), 
+Soltani S(1), Fakhim H(5), Mirhendi H(1)(4).
+
+Author information:
+(1)Department of Medical Parasitology and Mycology, School of Medicine, Isfahan 
+University of Medical Sciences, Isfahan, Iran.
+(2)Department of Infectious Disease, School of Medicine, Infectious Diseases 
+Research Center, Kashan University of Medical Sciences, Kashan, Iran.
+(3)Department of Pathology and Histology, School of Medicine, Shahid Beheshti 
+Hospital, Kashan University of Medical Sciences, Kashan, Iran.
+(4)Mycology Reference Laboratory, Research Core Facilities Laboratory, Isfahan 
+University of Medical Sciences, Isfahan, Iran.
+(5)Infectious Diseases and Tropical Medicine Research Center, Isfahan University 
+of Medical Sciences, Isfahan, Iran.
+
+BACKGROUND: Identification of the opportunistic fungus Pneumocystis jirovecii in 
+respiratory specimens presents challenges, particularly in differentiating 
+between colonization and active infection. The present study assessed a 
+probe-based real time PCR (qPCR) diagnostic effectiveness in patients with 
+diverse underlying conditions, particularly those with COVID-19 and pulmonary 
+insufficiency.
+METHODS: To set up the qPCR, clinical samples from 281 patients with respiratory 
+ailments were tested. Subsequently, a descriptive study was conducted on 112 
+patients with pulmonary insufficiency with and without COVID-19 suspected of P. 
+jirovecii infection. All specimens were subjected to DNA extraction followed by 
+nested PCR and qPCR targeting the mitochondrial large subunit (mtLSU)-rRNA gene.
+RESULTS: Based on nested PCR and qPCR, P. jirovecii was identified in 40 out of 
+281 patients, with slight variations in positive samples observed across 
+dilutions. Three patients who tested positive in nested PCR yielded negative 
+results in probe-based qPCR. Conversely, three patients who tested positive in 
+probe-based qPCR yielded negative results in nested PCR. Considering nested PCR 
+as the golden standard, probe-based qPCR demonstrated good diagnostic 
+performance, with 92.5% sensitivity and 98.7% specificity. Based on cycle 
+threshold (Ct) values, the positive cases were categorized: ≤32 as infection, 
+>35 as colonization, and a grey zone between these values (32 < X ≤ 35). The 
+analysis of 112 PCP-suspected patients revealed a prevalence ranging from 6.25% 
+(nested PCR) to 7% (probe-based qPCR).
+CONCLUSIONS: This study suggested Ct values to differentiate Pneumocystis 
+pneumonia/colonization in immunocompromised patients. To further augment the 
+diagnostic sensitivity, it is recommended to integrate qPCR results with 
+clinical parameters and biomarkers to offer a more precise understanding of 
+Pneumocystis-related conditions.
+
+Copyright © 2024 Rouhi, Erami, Rastgufar, Jahani, Aboutalebian, Soltani, Fakhim 
+and Mirhendi.
+
+DOI: 10.3389/fcimb.2024.1426200
+PMCID: PMC11458531
+PMID: 39380728 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that the research was 
+conducted without any commercial or financial relationships that could be 
+construed as a potential conflict of interest.

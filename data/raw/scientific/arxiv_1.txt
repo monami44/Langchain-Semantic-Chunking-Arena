@@ -1,0 +1,7 @@
+I describe an optimal control view of adversarial machine learning, where the
+dynamical system is the machine learner, the input are adversarial actions, and
+the control costs are defined by the adversary's goals to do harm and be hard
+to detect. This view encompasses many types of adversarial machine learning,
+including test-item attacks, training-data poisoning, and adversarial reward
+shaping. The view encourages adversarial machine learning researcher to utilize
+advances in control theory and reinforcement learning.

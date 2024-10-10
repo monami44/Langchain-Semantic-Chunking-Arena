@@ -1,0 +1,10 @@
+Despite incredible recent advances in machine learning, building machine
+learning applications remains prohibitively time-consuming and expensive for
+all but the best-trained, best-funded engineering organizations. This expense
+comes not from a need for new and improved statistical models but instead from
+a lack of systems and tools for supporting end-to-end machine learning
+application development, from data preparation and labeling to
+productionization and monitoring. In this document, we outline opportunities
+for infrastructure supporting usable, end-to-end machine learning applications
+in the context of the nascent DAWN (Data Analytics for What's Next) project at
+Stanford.

@@ -1,0 +1,44 @@
+2. J Complement Integr Med. 2024 Oct 10. doi: 10.1515/jcim-2024-0186. Online
+ahead  of print.
+
+A critical review on the active anti-viral metabolites of bioprospecting 
+traditionally used plant species from semi-arid regions of the subcontinent.
+
+Naz A(1), Chowdhury A(2), Pareek S(3), Kumar P(4), Poddar NK(5).
+
+Author information:
+(1)Jindal School of Liberal Arts and Humanities, O.P. Jindal Global University, 
+Sonipat, Haryana, India.
+(2)Jindal School of Environment and Sustainability, O.P. Jindal Global 
+University, Sonipat, Haryana, India.
+(3)Department of Materials Engineering, Indian Institute of Science, Bangalore, 
+India.
+(4)Department of Physics, 385092 Manipal University Jaipur , Jaipur, Rajasthan, 
+India.
+(5)Department of Biosciences, 385092 Manipal University Jaipur , Jaipur, 
+Rajasthan, India.
+
+Plants are crucial medicinal resources, with 80 % of people relying on them for 
+primary healthcare. The search for natural antiviral compounds is increasing, 
+especially in semi-arid ecosystems where abiotic stress promotes the production 
+of beneficial secondary metabolites. This review highlights semi-arid plants 
+with the potential as functional foods to combat viral diseases and other 
+illnesses. Literature was searched in databases like ScienceDirect to gather 
+information on novel compounds from stress-tolerant semi-arid plant species. 
+These compounds have potential uses in treating viral infections and other 
+health issues such as diabetes and high blood pressure. The review screened 61 
+semi-arid plants known for their antiviral metabolites. Eight plants were 
+identified with novel antiviral compounds. Key metabolites include 
+agathisflavone, pectic arabinogalactan, azadirachtin, aloin, aloe-emodin, 
+aloesaponarin I, allicin, terpenoids, chlorogenic acids, curcumin, chromones, 
+β-sitosterol, lupeol, oleuropein, carissol, β-amyrin, and 
+∆-9-tetrahydrocannabinol. Stress-tolerant semi-arid plants are significant 
+sources of metabolites for treating infectious diseases and boosting immune 
+systems. Further research on these metabolites in animal models is needed to 
+verify their efficacy for treating human diseases during endemic and pandemic 
+outbreaks, such as COVID-19.
+
+© 2024 Walter de Gruyter GmbH, Berlin/Boston.
+
+DOI: 10.1515/jcim-2024-0186
+PMID: 39382949

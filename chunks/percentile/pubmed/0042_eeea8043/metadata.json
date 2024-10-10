@@ -1,0 +1,12 @@
+{
+  "source": "pubmed",
+  "unique_id": "eeea8043",
+  "file_name": "pubmed_95.txt",
+  "process_order": 42,
+  "num_chunks": 3,
+  "chunk_sizes": [
+    907,
+    2466,
+    73
+  ]
+}

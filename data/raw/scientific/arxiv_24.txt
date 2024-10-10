@@ -1,0 +1,9 @@
+The study of unsupervised learning can be generally divided into two
+categories: imitation learning and reinforcement learning. In imitation
+learning the machine learns by mimicking the behavior of an expert system
+whereas in reinforcement learning the machine learns via direct environment
+feedback. Traditional deep reinforcement learning takes a significant time
+before the machine starts to converge to an optimal policy. This paper proposes
+Augmented Q-Imitation-Learning, a method by which deep reinforcement learning
+convergence can be accelerated by applying Q-imitation-learning as the initial
+training process in traditional Deep Q-learning.

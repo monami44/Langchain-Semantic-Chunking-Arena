@@ -1,0 +1,4 @@
+We introduce a new method for training deep Boltzmann machines jointly. Prior
+methods require an initial learning pass that trains the deep Boltzmann machine
+greedily, one layer at a time, or do not perform well on classifi- cation
+tasks.

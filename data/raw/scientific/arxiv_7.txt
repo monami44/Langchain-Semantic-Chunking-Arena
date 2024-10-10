@@ -1,0 +1,19 @@
+Recently, the use of machine learning in meteorology has increased greatly.
+While many machine learning methods are not new, university classes on machine
+learning are largely unavailable to meteorology students and are not required
+to become a meteorologist. The lack of formal instruction has contributed to
+perception that machine learning methods are 'black boxes' and thus end-users
+are hesitant to apply the machine learning methods in their every day workflow.
+To reduce the opaqueness of machine learning methods and lower hesitancy
+towards machine learning in meteorology, this paper provides a survey of some
+of the most common machine learning methods. A familiar meteorological example
+is used to contextualize the machine learning methods while also discussing
+machine learning topics using plain language. The following machine learning
+methods are demonstrated: linear regression; logistic regression; decision
+trees; random forest; gradient boosted decision trees; naive Bayes; and support
+vector machines. Beyond discussing the different methods, the paper also
+contains discussions on the general machine learning process as well as best
+practices to enable readers to apply machine learning to their own datasets.
+Furthermore, all code (in the form of Jupyter notebooks and Google Colaboratory
+notebooks) used to make the examples in the paper is provided in an effort to
+catalyse the use of machine learning in meteorology.

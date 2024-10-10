@@ -1,0 +1,77 @@
+100. Antimicrob Resist Infect Control. 2024 Oct 8;13(1):119. doi: 
+10.1186/s13756-024-01474-6.
+
+Can probiotics trigger a paradigm shift for cleaning healthcare environments? A 
+narrative review.
+
+Denkel LA(1)(2), Voss A(3), Caselli E(4), Dancer SJ(5), Leistner R(6)(7)(8), 
+Gastmeier P(6)(7), Widmer AF(9)(10).
+
+Author information:
+(1)Institute of Hygiene and Environmental Medicine, Charité Universitätsmedizin 
+Berlin, Corporate Member of Freie Universität Berlin, Humboldt-Universität zu 
+Berlin and Berlin Institute of Health, Hindenburgdamm 27, 12203, Berlin, 
+Germany. luisa.denkel@charite.de.
+(2)National Reference Center for the Surveillance of Nosocomial Infections, 
+Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität 
+Berlin, Humboldt-Universität zu Berlin and Berlin Institute of Health, Berlin, 
+Germany. luisa.denkel@charite.de.
+(3)Department of Medical Microbiology and Infection Control, University Medical 
+Center Groningen, Groningen, The Netherlands.
+(4)Section of Microbiology, Department of Chemical, Pharmaceutical, and 
+Agricultural Sciences, University of Ferrara, Ferrara, Italy.
+(5)NHS Lanarkshire & Edinburgh Napier University, Edinburgh, UK.
+(6)Institute of Hygiene and Environmental Medicine, Charité Universitätsmedizin 
+Berlin, Corporate Member of Freie Universität Berlin, Humboldt-Universität zu 
+Berlin and Berlin Institute of Health, Hindenburgdamm 27, 12203, Berlin, 
+Germany.
+(7)National Reference Center for the Surveillance of Nosocomial Infections, 
+Charité Universitätsmedizin Berlin, Corporate Member of Freie Universität 
+Berlin, Humboldt-Universität zu Berlin and Berlin Institute of Health, Berlin, 
+Germany.
+(8)Department of Gastroenterology, Infectious Diseases and Rheumatology, Charité 
+Universitätsmedizin Berlin, Corporate Member of Freie Universität Berlin, 
+Humboldt-Universität zu Berlin and Berlin Institute of Health, Berlin, Germany.
+(9)Faculty of Medicine, University of Basel, Basel, Switzerland.
+(10)Swissnoso - Swiss National Center for Infection Prevention, Bern, 
+Switzerland.
+
+BACKGROUND: The environment of healthcare institutions plays a major role in the 
+transmission of multidrug resistant organisms (MDRO) and likely in subsequent 
+healthcare-associated infections (HAIs). Probiotic cleaning products are a novel 
+option for environmental cleaning. They represent a sustainable and 
+biodegradable alternative to conventional chemical disinfectants for controlling 
+microbial bioburden, and preventing pathogen transmission in hospital 
+environments. High-quality studies including randomized clinical trials (RCT) 
+triggered a summary with expert recommendations until further studies allow a 
+critical review and meta-analysis of the data.
+METHODS: Infection control experts from five European countries summarized 
+available data as of June 2023. Authors presented their published RCTs, reviewed 
+the existing literature on probiotic cleaning, summarized the results and 
+identified knowledge gaps and subsequent research needs.
+RESULTS: Probiotic cleaning was similarly effective for reducing HAI-related 
+pathogens, enveloped viruses such as SARS-CoV-2 and MDRO in environmental 
+samples compared to conventional chemical disinfectants. More importantly, 
+probiotic cleaning was non-inferior to disinfectants in terms of preventing HAI 
+in a large RCT. In addition, probiotic cleaning has also been shown to reduce 
+antimicrobial resistance genes (ARG), costs and antimicrobial consumption in 
+other hospital trials. They are biodegradable, do not require any protection for 
+chemical hazards, and are compliant with occupational health. A paradigm shift, 
+however, requires a very strong evidence to justify for such a change. In the 
+past, this evidence was limited by the heterogeneity of study design, products, 
+protocols, and few studies on clinical outcomes used in the trials. Furthermore, 
+the regulatory, safety, and quality aspects of probiotic cleaning products are 
+not, yet, completely defined and require clearing by authorities.
+CONCLUSION: To date, probiotic cleaning is a breakthrough technology and a 
+biological alternative for chemical disinfectant when treating hospital 
+environment. It may also have a positive effect on MDRO transmission. However, 
+the different compositions of probiotic products will require standardization, 
+and more robust data should be generated to support these promising results on 
+different compositions. This may trigger a paradigm shift in cleaning of 
+healthcare institutions from chemical to biological control of the hospital 
+environment.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13756-024-01474-6
+PMID: 39380032 [Indexed for MEDLINE]

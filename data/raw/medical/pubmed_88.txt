@@ -1,0 +1,60 @@
+90. Influenza Other Respir Viruses. 2024 Oct;18(10):e13314. doi:
+10.1111/irv.13314.
+
+Meeting Report From "Correlates of Protection for Next Generation Influenza 
+Vaccines: Lessons Learned From the COVID-19 Pandemic".
+
+Krammer F(1)(2)(3)(4), Katz JM(5), Engelhardt OG(6), Post DJ(7), Roberts PC(7), 
+Sullivan SG(8)(9), Tompkins SM(10)(11)(12), Chiu C(13), Schultz-Cherry S(14), 
+Cox RJ(15)(16).
+
+Author information:
+(1)Department of Microbiology, Icahn School of Medicine at Mount Sinai, New 
+York, New York, USA.
+(2)Center for Vaccine Research and Pandemic Preparedness (C-VaRPP), Icahn School 
+of Medicine at Mount Sinai, New York, New York, USA.
+(3)Department of Pathology, Molecular and Cell Based Medicine, Icahn School of 
+Medicine at Mount Sinai, New York, New York, USA.
+(4)Ignaz Semmelweis Institute, Interuniversity Institute for Infection Research, 
+Medical University of Vienna, Vienna, Austria.
+(5)The Task Force for Global Health, Decatur, Georgia, USA.
+(6)Science Research & Innovation, Medicines and Healthcare products Regulatory 
+Agency, Potters Bar, UK.
+(7)Division of Microbiology and Infectious Diseases, National Institute of 
+Allergy and Infectious Diseases, National Institutes of Health (DMID/NIAID/NIH), 
+Rockville, Maryland, USA.
+(8)WHO Collaborating Centre for Reference and Research on Influenza, Royal 
+Melbourne Hospital, and Department of Infectious Diseases, University of 
+Melbourne at the Peter Doherty Institute for Infection and Immunity, Melbourne, 
+Australia.
+(9)Department of Epidemiology, University of California, Los Angeles, Los 
+Angeles, California, USA.
+(10)Center for Vaccines and Immunology, University of Georgia, Athens, Georgia, 
+USA.
+(11)Center for Influenza Disease and Emergence Response (CIDER), University of 
+Georgia, Athens, Georgia, USA.
+(12)Department of Infectious Diseases, University of Georgia, Athens, Georgia, 
+USA.
+(13)Department of Infectious Diseases, Imperial College London, London, UK.
+(14)Department of Host-Microbe Interactions, St Jude Children's Research 
+Hospital, Memphis, Tennessee, USA.
+(15)Influenza Centre, Department of Clinical Science, University of Bergen, 
+Bergen, Norway.
+(16)Department of Microbiology, Haukeland University Hospital, Bergen, Norway.
+
+BACKGROUND: This report summarizes the discussions and conclusions from the 
+"Correlates of Protection for Next Generation Influenza Vaccines: Lessons 
+Learned from the COVID-19 Pandemic" meeting, which took place in Seattle, USA, 
+from March 1, 2023, to March 3, 2023.
+CONCLUSIONS: Discussions around influenza virus correlates of protection and 
+their use continued from where the discussion had been left off in 2019. While 
+there was not much progress in the influenza field itself, many lessons learned 
+during the coronavirus disease 2019 (COVID-19) pandemic, especially the 
+importance of mucosal immunity, were discussed and can directly be applied to 
+influenza correlates of protection.
+
+© 2024 The Author(s). Influenza and Other Respiratory Viruses published by John 
+Wiley & Sons Ltd.
+
+DOI: 10.1111/irv.13314
+PMID: 39380156 [Indexed for MEDLINE]

@@ -1,0 +1,6 @@
+We introduce a general learning framework for private machine learning based
+on randomised response. Our assumption is that all actors are potentially
+adversarial and as such we trust only to release a single noisy version of an
+individual's datapoint. We discuss a general approach that forms a consistent
+way to estimate the true underlying machine learning model and demonstrate this
+in the case of logistic regression.

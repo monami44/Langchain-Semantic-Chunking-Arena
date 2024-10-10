@@ -1,0 +1,47 @@
+37. Digit Health. 2024 Sep 16;10:20552076241281215. doi:
+10.1177/20552076241281215.  eCollection 2024 Jan-Dec.
+
+Bottom-up actions: Examining perceived influence of pandemic news, information 
+relevance, perceived media credibility, and pro-community participation.
+
+Tu C(1), Li X(1).
+
+Author information:
+(1)School of Journalism and Communication, Shanghai University, Shanghai, China.
+
+OBJECTIVE: When hyper-infectious diseases sweep over the world, pro-community 
+participation has been found to effectively curb the spread of viruses. This 
+study explores the associations among media-related perceptions and media users' 
+pro-community participation during the peak of the 2022 COVID-19 outbreaks in 
+China.
+METHODS: A cross-sectional survey was conducted among 976 Chinese media users in 
+April 2022 to collect data on their pro-community participation and perceptions 
+of pandemic news influence, information relevance, and credibility of 
+traditional media and social media. Hierarchical regression analyses were run to 
+analyze the associations between these perceptual variables and pro-community 
+participation.
+RESULTS: The findings revealed that information relevance was positively 
+associated with perceived news influence on oneself and pro-community 
+participation. Perceived credibility of traditional media was positively 
+associated with perceived news influence on both oneself and others. Perceived 
+credibility of social media was positively associated with perceived news 
+influence on others. Additionally, perceived credibility of traditional media 
+positively moderated the association between information relevance and perceived 
+news influence on others.
+CONCLUSIONS: Information relevance and perceived media credibility play 
+significant roles in shaping media user' perceptions of news influence and their 
+subsequent pro-community behaviors. Higher perceived media credibility can 
+produce a broader impact on perceived news influence on both media users 
+themselves and others, highlighting its importance in public health 
+communication strategies. These insights can inform media practices and public 
+health policies to enhance community participation during public health crises.
+
+© The Author(s) 2024.
+
+DOI: 10.1177/20552076241281215
+PMCID: PMC11459497
+PMID: 39381809
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.

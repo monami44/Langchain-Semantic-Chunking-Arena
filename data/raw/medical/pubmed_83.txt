@@ -1,0 +1,39 @@
+85. Nanoscale. 2024 Oct 9. doi: 10.1039/d4nr02612h. Online ahead of print.
+
+Electrostatic interactions and structural transformations in viral shells.
+
+Golushko IY(1), Roshal DS(1), Konevtsova OV(1), Rochal SB(1), Podgornik 
+R(2)(3)(4)(5).
+
+Author information:
+(1)Faculty of Physics, Southern Federal University, Rostov-on-Don, Russia. 
+rochal_s@yahoo.fr.
+(2)School of Physical Sciences and Kavli Institute for Theoretical Sciences, 
+University of Chinese Academy of Sciences, Beijing 100049, China.
+(3)CAS Key Laboratory of Soft Matter Physics, Institute of Physics, Chinese 
+Academy of Sciences, Beijing 100190, China.
+(4)Wenzhou Institute of the University of Chinese Academy of Sciences, Wenzhou, 
+Zhejiang 325000, China.
+(5)Department of Theoretical Physics, Jozef Stefan Institute, Ljubljana, 
+Slovenia. rudolf.podgornik@ijs.si.
+
+Structural transformations occurring in proteinaceous viral shells (capsids) can 
+be induced by changing the pH of bathing solution, thus modifying the 
+dissociation equilibrium of ionizable amino acids in proteins. To analyze the 
+effects of electrostatic interactions on viral capsids, we construct a model of 
+2D isotropic elastic shells with embedded point charges located in the centers 
+of mass of individual proteins. We find that modification of the electrostatic 
+interactions between proteins affects not only the size and shape of capsids, 
+but in addition induces substantial deformations of hexamers in capsid 
+structures. Using bacteriophage P22 and Nudarelia capensis omega virus (NωV) as 
+examples, we analyze the capsid faceting and propose an explanation as to why 
+the hexamers in spherical procapsid are skewed, while they acquire a regular 
+shape in the faceted state. Also, we examine the electrostatic and elastic 
+effects that can explain different shapes of coronavirus shells decorated with 
+spikes, which are often localized in compact areas over the shell surface. The 
+proposed mechanism of local curvature generation is supported by the remarkable 
+correspondence between the shell shape and the distribution of spikes in model 
+and observed shells.
+
+DOI: 10.1039/d4nr02612h
+PMID: 39380336

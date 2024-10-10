@@ -1,0 +1,1 @@
+The idea of model adaptability has been studied from different perspectives. In this paper, we propose a solution based on reusing the knowledge acquired by the already deployed machine learning models and leveraging it to train future generations. This is the idea behind differential replication of machine learning models.

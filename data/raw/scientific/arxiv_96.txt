@@ -1,0 +1,7 @@
+In this chapter, we present the main classic machine learning methods. A
+large part of the chapter is devoted to supervised learning techniques for
+classification and regression, including nearest-neighbor methods, linear and
+logistic regressions, support vector machines and tree-based algorithms. We
+also describe the problem of overfitting as well as strategies to overcome it.
+We finally provide a brief overview of unsupervised learning methods, namely
+for clustering and dimensionality reduction.

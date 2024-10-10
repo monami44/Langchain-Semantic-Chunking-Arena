@@ -1,0 +1,40 @@
+68. Can Commun Dis Rep. 2024 Oct 3;50(10):338-344. doi: 10.14745/ccdr.v50i10a02. 
+eCollection 2024 Oct.
+
+Evidence brief on facilitators, barriers and hesitancy of COVID-19 booster doses 
+in Canada.
+
+Young KM(1), Corrin T(1), Pussegoda K(1), Baumeister A(1), Waddell LA(1).
+
+Author information:
+(1)National Microbiology Laboratory, Public Health Agency of Canada, GuelphON.
+
+BACKGROUND: Understanding the facilitators, barriers and hesitancy to accepting 
+COVID-19 booster doses is important for encouraging recommended vaccination. 
+This evidence brief summarizes literature on the intention to accept or reject 
+COVID-19 vaccine booster doses and the factors associated with intention/uptake 
+among individuals in Canada.
+METHODS: A database of COVID-19 literature established at the Public Health 
+Agency of Canada was searched for articles referencing vaccination and 
+knowledge, attitudes and behaviours towards COVID-19 boosters. A grey literature 
+search of Canadian governmental and academic institutions was also conducted. 
+Primary research conducted in Canada (n=21) and relevant systematic reviews of 
+the global literature (n=8) were included in this evidence brief.
+RESULTS: Intentions to get a booster dose in the general population have 
+decreased between 2021-2023, with intentions varying across subpopulations. In 
+Canada and within the global systematic reviews, facilitators, barriers and 
+hesitancy were similar. Older age was the most common factor positively 
+associated with intention/uptake of a booster, and the most common motivators 
+were government/healthcare provider recommendations and helping to protect 
+others. The main reasons for hesitancy were concerns about vaccine side effects 
+and a lack of belief in the vaccine's efficacy.
+CONCLUSION: Intentions to get a booster dose have decreased in Canada. 
+Understanding the reasons for vaccine hesitancy and motivators for obtaining a 
+booster can help guide future public health COVID-19 booster vaccination 
+programs.
+
+DOI: 10.14745/ccdr.v50i10a02
+PMCID: PMC11460581
+PMID: 39380803
+
+Conflict of interest statement: Competing interests None.

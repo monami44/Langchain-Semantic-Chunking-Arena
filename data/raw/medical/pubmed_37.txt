@@ -1,0 +1,44 @@
+38. Digit Health. 2024 Oct 7;10:20552076241284773. doi:
+10.1177/20552076241284773.  eCollection 2024 Jan-Dec.
+
+Utilizing deep learning models for ternary classification in COVID-19 infodemic 
+detection.
+
+Luo J(1)(2), El Baz D(3), Shi L(4).
+
+Author information:
+(1)College of Economics and Management, Beijing University of Technology, 
+Beijing, China.
+(2)Chongqing Research Institute, Beijing University of Technology, Chongqing, 
+China.
+(3)LAAS-CNRS, Université de Toulouse, CNRS, Toulouse, France.
+(4)State Key Laboratory of Media Convergence and Communication, Communication 
+University of China, Beijing, China.
+
+OBJECTIVE: To address the complexities of distinguishing truth from falsehood in 
+the context of the COVID-19 infodemic, this paper focuses on utilizing deep 
+learning models for infodemic ternary classification detection.
+METHODS: Eight commonly used deep learning models are employed to categorize 
+collected records as true, false, or uncertain. These models include fastText, 
+three models based on recurrent neural networks, two models based on 
+convolutional neural networks, and two transformer-based models.
+RESULTS: Precision, recall, and F1-score metrics for each category, along with 
+overall accuracy, are presented to establish benchmark results. Additionally, a 
+comprehensive analysis of the confusion matrix is conducted to provide insights 
+into the models' performance.
+CONCLUSION: Given the limited availability of infodemic records and the 
+relatively modest size of the two tested data sets, models with pretrained 
+embeddings or simpler architectures tend to outperform their more complex 
+counterparts. This highlights the potential efficiency of pretrained or simpler 
+models for ternary classification in COVID-19 infodemic detection and 
+underscores the need for further research in this area.
+
+© The Author(s) 2024.
+
+DOI: 10.1177/20552076241284773
+PMCID: PMC11459571
+PMID: 39381806
+
+Conflict of interest statement: The authors declared no potential conflicts of 
+interest with respect to the research, authorship, and/or publication of this 
+article.

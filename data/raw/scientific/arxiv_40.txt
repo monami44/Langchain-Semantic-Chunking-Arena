@@ -1,0 +1,11 @@
+Though technical advance of artificial intelligence and machine learning has
+enabled many promising intelligent systems, many computing tasks are still not
+able to be fully accomplished by machine intelligence. Motivated by the
+complementary nature of human and machine intelligence, an emerging trend is to
+involve humans in the loop of machine learning and decision-making. In this
+paper, we provide a macro-micro review of human-in-the-loop machine learning.
+We first describe major machine learning challenges which can be addressed by
+human intervention in the loop. Then we examine closely the latest research and
+findings of introducing humans into each step of the lifecycle of machine
+learning. Finally, we analyze current research gaps and point out future
+research directions.

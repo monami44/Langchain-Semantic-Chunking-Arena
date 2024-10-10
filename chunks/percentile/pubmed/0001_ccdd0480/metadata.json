@@ -1,0 +1,12 @@
+{
+  "source": "pubmed",
+  "unique_id": "ccdd0480",
+  "file_name": "pubmed_52.txt",
+  "process_order": 1,
+  "num_chunks": 3,
+  "chunk_sizes": [
+    34,
+    26,
+    2996
+  ]
+}

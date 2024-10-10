@@ -1,0 +1,47 @@
+32. Minerva Anestesiol. 2024 Oct;90(10):892-900. doi: 
+10.23736/S0375-9393.24.18074-1.
+
+The prognostic role of Neurologic Pupil Index in COVID-19 patients: a 
+retrospective study.
+
+Garone A(1), Gouvea Bogossian E(1), Peratoner C(1), Minini A(1), Giannì G(1), 
+Migliorino E(1), Donadello K(2), Taccone FS(1), Peluso L(3)(4)(5).
+
+Author information:
+(1)Department of Intensive Care, Erasme Hospital, Université Libre de Bruxelles, 
+Brussels, Belgium.
+(2)Department of Anesthesia and Intensive Care B, Department of Surgery, 
+Dentistry, Gynecology and Pediatrics, University of Verona, AOUI-University 
+Hospital Integrated Trust of Verona, Policlinico G.B. Rossi, Verona, Italy.
+(3)Department of Intensive Care, Erasme Hospital, Université Libre de Bruxelles, 
+Brussels, Belgium - lorenzopeluso80@gmail.com.
+(4)Department of Anesthesiology and Intensive Care, Humanitas Gavazzeni, 
+Bergamo, Italy.
+(5)Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, 
+Milan, Italy.
+
+BACKGROUND: Neurological complications have been observed in approximately 30% 
+of hospitalized COVID-19 patients. The aim of this study was to evaluate whether 
+early assessment of the Neurological Pupil Index (NPiTM) derived from an 
+automated pupillometry could predict mortality in critically ill COVID-19 
+patients.
+METHODS: Retrospective cohort study of adult critically ill COVID-19 patients 
+admitted to the intensive care unit of a University Hospital; patients without 
+NPi measurement were excluded. The worst NPi (i.e. lowest value from one eye) 
+was collected daily and then computed over the first five days of assessment. 
+Mortality was assessed at hospital discharge. The secondary endpoint involved 
+assessing differences in neurological assessments between patients who developed 
+neurological complications and those who did not.
+RESULTS: A total of 217 patients were included over the study period (median age 
+61 [50-68] years), 70% were males. A total of 97 patients (45%) died during the 
+hospital stay. Among all patients, 35 (16%) experienced neurological 
+complications. Non-survivors showed significantly a lower overall NPi (3.0 
+[2.0-4.1] vs. 3.4 [2.7-4.2]; P=0.04) than survivors. At multivariate logistic 
+regression NPi was not significantly associated with in-hospital mortality. 
+Moreover, no differences in different NPi measurements were observed between 
+patients with and without neurological complications.
+CONCLUSIONS: In this study, NPi values were not independent predictor of 
+mortality and neurological complications in critically ill COVID-19 patients.
+
+DOI: 10.23736/S0375-9393.24.18074-1
+PMID: 39381870 [Indexed for MEDLINE]

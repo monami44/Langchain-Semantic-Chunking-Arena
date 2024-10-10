@@ -1,0 +1,8 @@
+Despite the promise of brain-inspired machine learning, deep neural networks
+(DNN) have frustratingly failed to bridge the deceptively large gap between
+learning and memory. Here, we introduce a Perpetual Learning Machine; a new
+type of DNN that is capable of brain-like dynamic 'on the fly' learning because
+it exists in a self-supervised state of Perpetual Stochastic Gradient Descent.
+Thus, we provide the means to unify learning and memory within a machine
+learning framework. We also explore the elegant duality of abstraction and
+synthesis: the Yin and Yang of deep learning.

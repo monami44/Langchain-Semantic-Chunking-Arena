@@ -1,0 +1,67 @@
+70. Can Commun Dis Rep. 2024 Oct 3;50(10):345-356. doi: 10.14745/ccdr.v50i10a03. 
+eCollection 2024 Oct.
+
+Mathematical modelling for pandemic preparedness in Canada: Learning from 
+COVID-19.
+
+Ogden NH(1), Acheson ES(1), Brown K(2)(3), Champredon D(1), Colijn C(4), Diener 
+A(5), Dushoff J(6), Earn DJ(7), Gabriele-Rivet V(1), Gangbè M(1), Guillouzic 
+S(8), Hennessy D(9), Hongoh V(1), Hurford A(10), Kanary L(1), Li M(1), Ng V(1), 
+Otto SP(11), Papst I(1), Rees EE(1), Tuite A(3)(12), MacLeod MR(8), Murall 
+CL(13), Waddell L(1), Wasfi R(1), Wolfson M(14).
+
+Author information:
+(1)Public Health Risk Sciences Division, National Microbiology Laboratory, 
+Public Health Agency of Canada.
+(2)Public Health Ontario, Toronto, ON.
+(3)Dalla Lana School of Public Health, University of Toronto, Toronto, ON.
+(4)Department of Mathematics, Simon Fraser University, Burnaby, BC.
+(5)Health Policy Branch, Health Canada, Ottawa, ON.
+(6)Department of Biology and Michael G. DeGroote Institute for Infectious 
+Disease Research, McMaster University, Hamilton, ON.
+(7)Department of Mathematics and Statistics and Michael G. DeGroote Institute 
+for Infectious Disease Research, McMaster University, Hamilton, ON.
+(8)Centre for Operational Research and Analysis, Defence Research and 
+Development Canada, Department of National Defence, Ottawa, ON.
+(9)Health Analysis Division, Analytical Studies and Modelling Branch, Statistics 
+Canada, Ottawa, ON.
+(10)Department of Biology and Department of Mathematics and Statistics, Memorial 
+University of Newfoundland, St. John's, NL.
+(11)Department of Zoology and Biodiversity Research Centre, University of 
+British Columbia, Vancouver, BC.
+(12)Centre for Immunization Programs, Public Health Agency of Canada, Ottawa, 
+ON.
+(13)Public Health Genomics Division, National Microbiology Laboratory, Public 
+Health Agency of Canada.
+(14)Faculty of Medicine and Faculty of Law-Common Law, University of Ottawa, 
+Ottawa, ON.
+
+BACKGROUND: The COVID-19 pandemic underlined the need for pandemic planning but 
+also brought into focus the use of mathematical modelling to support public 
+health decisions. The types of models needed (compartment, agent-based, 
+importation) are described. Best practices regarding biological realism 
+(including the need for multidisciplinary expert advisors to modellers), model 
+complexity, consideration of uncertainty and communications to decision-makers 
+and the public are outlined.
+METHODS: A narrative review was developed from the experiences of COVID-19 by 
+members of the Public Health Agency of Canada External Modelling Network for 
+Infectious Diseases (PHAC EMN-ID), a national community of practice on 
+mathematical modelling of infectious diseases for public health.
+RESULTS: Modelling can best support pandemic preparedness in two ways: 1) by 
+modelling to support decisions on resource needs for likely future pandemics by 
+estimating numbers of infections, hospitalized cases and cases needing intensive 
+care, associated with epidemics of "hypothetical-yet-plausible" pandemic 
+pathogens in Canada; and 2) by having ready-to-go modelling methods that can be 
+readily adapted to the features of an emerging pandemic pathogen and used for 
+long-range forecasting of the epidemic in Canada, as well as to explore 
+scenarios to support public health decisions on the use of interventions.
+CONCLUSION: There is a need for modelling expertise within public health 
+organizations in Canada, linked to modellers in academia in a community of 
+practice, within which relationships built outside of times of crisis can be 
+applied to enhance modelling during public health emergencies. Key challenges to 
+modelling for pandemic preparedness include the availability of linked public 
+health, hospital and genomic data in Canada.
+
+DOI: 10.14745/ccdr.v50i10a03
+PMCID: PMC11460797
+PMID: 39380801

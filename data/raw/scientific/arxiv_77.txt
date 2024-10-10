@@ -1,0 +1,7 @@
+The prediction of epileptic seizure has always been extremely challenging in
+medical domain. However, as the development of computer technology, the
+application of machine learning introduced new ideas for seizure forecasting.
+Applying machine learning model onto the predication of epileptic seizure could
+help us obtain a better result and there have been plenty of scientists who
+have been doing such works so that there are sufficient medical data provided
+for researchers to do training of machine learning models.

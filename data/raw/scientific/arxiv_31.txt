@@ -1,0 +1,3 @@
+This is an index to the papers that appear in the Proceedings of the 29th
+International Conference on Machine Learning (ICML-12). The conference was held
+in Edinburgh, Scotland, June 27th - July 3rd, 2012.

@@ -1,0 +1,68 @@
+17. Indian J Med Res. 2024 Jun;159(6):557-566. doi: 10.25259/ijmr_30_23.
+
+COVID-19 pandemic & neurosciences in India- the CoINstudy: Impact of the 
+pandemic on research related to the neurosciences.
+
+Samim MM(1), Pantoji M(2), Divya KP(3), Deora H(4), Shashidhar A(4), Baishya 
+J(5), Garg D(6), Elavarasi A(7), Pahwa B(8), Mehta UM(2), Tikka SK(9), Wadwekar 
+V(10), Dubey S(11), Jain K(1), Bhaskarapillai B(12), Viswanathan LG(1), Asranna 
+A(1).
+
+Author information:
+(1)Department of Neurology, National Institute of Mental Health and 
+Neurosciences, Bangalore, Karnataka, India.
+(2)Department of Psychiatry, National Institute of Mental Health and 
+Neurosciences, Bangalore, Karnataka, India.
+(3)Department of Neurology, Sree Chitra Tirunal Institute for Medical Sciences 
+and Technology, Thiruvananthapuram, India.
+(4)Department of Neurosurgery, National Institute of Mental Health and 
+Neurosciences, Bangalore, Karnataka, India.
+(5)Department of Neurology, Postgraduate Institute of Medical Education and 
+Research, Chandigarh, India.
+(6)Department of Neurology, Vardhman Mahavir Medical College & Safdarjung 
+Hospital, New Delhi, India.
+(7)Department of Neurology, All India Institute of Medical Sciences, New Delhi, 
+India.
+(8)University College of Medical Sciences and Guru Teg Bahadur Hospital, New 
+Delhi, India.
+(9)Department of Psychiatry, All India Institute of Medical Sciences, Bibinagar, 
+Telangana, India.
+(10)Department of Neurology, Jawaharlal Institute of Postgraduate Medical 
+Education and Research, Puducherry, India.
+(11)Department of Neurology, Bangur Institute of Neurosciences, Institute of 
+Postgraduate Medical Education & Research and Seth Sukhlal Karnani Memorial 
+Hospital, Kolkata, West Bengal, India.
+(12)Department of Biostatistics, National Institute of Mental Health and 
+Neurosciences, Bangalore, Karnataka, India.
+
+Background & objectives We aimed to assess the impact of COVID-19-related 
+disruptions on ongoing and future projects related to neuroscience research and 
+young researchers in India. Methods We conducted a countrywide online survey 
+using a structured, self-administered questionnaire involving medical trainees, 
+post-doctoral fellows, PhD students, early career faculty members and basic 
+neuroscience researchers. The purpose was to assess the impact of the COVID-19 
+pandemic on the respondents' ongoing/planned research activities and capture 
+their concerns related to future research. Results Five hundred and four valid 
+responses were analyzed. More than three-fourths of the respondents were in 
+their early careers - 64.1 per cent were resident doctors, and 19.8 per cent 
+were early career consultants. Maximum responses were received from respondents 
+working in neurology (228; 45.2%), followed by psychiatry (192; 38.1%) and 
+neurosurgery (49; 9.7%). More than three-fourths [83.5%, 95% confidence interval 
+(CI): 0.8-0.867] of the respondents reported that the pandemic had affected 
+their research. About one-third of the respondents (171; 33.9%) reported delays 
+in completing research studies. Respondents adapted to the pandemic's 
+circumstances by making methodological changes in their research (155; 30.8%). 
+Most respondents (301; 59.6%) reported being diverted from their traditional 
+work settings to COVID-19-related clinical services. Respondents conducting 
+prospective studies and randomized controlled trials and those diverted to 
+COVID-related services were significantly more likely to report the adverse 
+research impact. Interpretation & conclusions In our survey, an overwhelming 
+majority of the respondents reported that the pandemic adversely impacted their 
+study. This trend was independent of sex, designation, and research output of 
+individual subjects. The serious impact of the COVID-19 pandemic on 
+neurosciences research warrants the attention and concerted efforts of the 
+research supervisors, institutional heads, funding agencies and other 
+stakeholders.
+
+DOI: 10.25259/ijmr_30_23
+PMID: 39382468 [Indexed for MEDLINE]

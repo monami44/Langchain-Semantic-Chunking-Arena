@@ -1,0 +1,66 @@
+99. Virol J. 2024 Oct 8;21(1):251. doi: 10.1186/s12985-024-02524-6.
+
+Clinical symptoms, comorbidities and health outcomes among outpatients infected 
+with the common cold coronaviruses versus influenza virus.
+
+Iyadorai T(1), Lim SH(2), Wong PL(3), Sii HL(3), P'ng CK(3), Ee SS(3), Tan 
+MP(3), Hanafi NS(4), Ng KT(5), Chook JB(6), Takebe Y(1)(7), Chan KG(8)(9), Singh 
+S(10), Sam IC(1), Tee KK(11)(12).
+
+Author information:
+(1)Department of Medical Microbiology, Faculty of Medicine, Universiti Malaya, 
+Kuala Lumpur, Malaysia.
+(2)Department of Social and Preventive Medicine, Faculty of Medicine, Universiti 
+Malaya, Kuala Lumpur, Malaysia.
+(3)Department of Medicine, Faculty of Medicine, Universiti Malaya, Kuala Lumpur, 
+Malaysia.
+(4)Department of Primary Care Medicine, Faculty of Medicine, Universiti Malaya, 
+Kuala Lumpur, Malaysia.
+(5)Institute of Molecular and Cell Biology, Agency for Science, Technology and 
+Research (A*STAR), Singapore, Singapore.
+(6)Department of Medical Sciences, School of Medical and Life Sciences, Sunway 
+University, Bandar Sunway, Selangor Darul Ehsan, Malaysia.
+(7)AIDS Research Center, National Institute of Infectious Diseases, Toyama, 
+Shinjuku-ku, Tokyo, Japan.
+(8)Division of Genetics and Molecular Biology, Institute of Biological Sciences, 
+Faculty of Science, Universiti Malaya, Kuala Lumpur, Malaysia.
+(9)Jeffrey Cheah School of Medicine and Heath Sciences, Monash University 
+Malaysia, Bandar Sunway, Selangor Darul Ehsan, Malaysia.
+(10)Biomedical Epidemiology Unit, Special Resource Centre, Institute for Medical 
+Research, Ministry of Health, Shah Alam, Malaysia.
+(11)Department of Medical Microbiology, Faculty of Medicine, Universiti Malaya, 
+Kuala Lumpur, Malaysia. k2tee@um.edu.my.
+(12)Department of Medical Sciences, School of Medical and Life Sciences, Sunway 
+University, Bandar Sunway, Selangor Darul Ehsan, Malaysia. k2tee@um.edu.my.
+
+BACKGROUND: Common cold coronaviruses (ccCoVs) and influenza virus are common 
+infectious agents causing upper respiratory tract infections (RTIs). However, 
+clinical symptoms, comorbidities, and health effects of ccCoV infection remain 
+understudied.
+METHODS: A retrospective study evaluated 3,935 outpatients with acute upper RTI 
+at a tertiary teaching hospital. The presence of ccCoV and influenza virus was 
+determined by multiplex molecular assay. The demographic, clinical symptoms, and 
+health outcomes were compared between patients with ccCoV (n = 205) and 
+influenza (n = 417) infections. Multivariable logistic regression was employed 
+to evaluate predictors and health outcomes over a one-year follow-up.
+RESULTS: Sore throat, nasal discharge, headache, and myalgia were more 
+predominant in ccCoV infection; fever was common in influenza. Most patients 
+reported moderate symptoms severity (49.8% ccCoV, 56.1% influenza). Subsequent 
+primary care visits with symptoms of RTI within a year were comparable for both 
+infections (27.3% ccCoV vs. 27.6% influenza). However, patients with influenza 
+reported increased primary care visits for non-RTI episodes and all-cause 
+hospital admission. Baseline comorbidities were associated with increased 
+primary care visits with symptoms of RTI in either ccCoV (adjusted odds ratio 
+[aOR] 2.5; 95% confidence interval [CI] 1.1-5.9; P = 0.034) or influenza (OR 
+1.9; 95% CI 1.1-3.1; P = 0.017) infections, due probably to the dysregulation of 
+the host immune response following acute infections. In patients infected with 
+influenza infection, dyslipidemia was a predictor for subsequent primary care 
+visits with symptoms of RTI (unadjusted OR 1.8; 95% CI 1.0-3.0; P = 0.040).
+CONCLUSIONS: Both influenza and ccCoV infection pose significant disease burden, 
+especially in patients with comorbidities. The management of comorbidities 
+should be prioritized to mitigate poor health outcomes in infected individuals.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s12985-024-02524-6
+PMID: 39380036 [Indexed for MEDLINE]

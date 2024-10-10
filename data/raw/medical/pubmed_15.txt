@@ -1,0 +1,40 @@
+16. Indian J Med Res. 2024 Jun;159(6):585-600. doi: 10.25259/IJMR_1449_23.
+
+Long COVID syndrome: An unfolding enigma.
+
+Sharma SK(1), Mohan A(2), Upadhyay V(1).
+
+Author information:
+(1)Department of Molecular Medicine, Jamia Hamdard Institute of Molecular 
+Medicine, New Delhi, India.
+(2)Department of Medicine, Sri Venkateswara Institute of Medical Sciences, 
+Tirupati, India.
+
+Post-acute sequelae of severe acute respiratory syndrome coronavirus-2 
+(SARS-CoV-2) disease (COVID-19), called as long COVID syndrome, is a major 
+global public health issue after recovery from COVID-19. The disease occurs in 
+symptomatic patients irrespective of illness severity. The symptoms continue 
+after four wk of recovery from acute illness and persist beyond three months. 
+Risk factors for long COVID include older age, female gender, multiple 
+co-morbidities including diabetes mellitus, prior chronic respiratory illnesses, 
+hospitalized patients with severe disease, especially receiving assisted 
+ventilation, high viral load, reactivation of Epstein Barr (EB) virus and human 
+herpes virus 6 (HH6), circulating auto antibodies against various organs and 
+type I interferon. The prevalence varies from 10 to 20 per cent, and most data 
+have been reported from high-income countries. Any system can get involved in 
+long COVID. The symptoms include fatigue, cognition impairment, cough and 
+dyspnoea, anosmia, hair loss and diarrhoea, among others. While there are no 
+laboratory tests for confirmation of diagnosis, reduced complement C7 complexes 
+at six months, and a two-gene biomarker including FYN and SARS-CoV-2 antisense 
+ribonucleic acid (RNA) are emerging as potentially useful biomarkers for long 
+COVID. There should be no alternative disease to explain various symptoms. 
+Vaccination against SARS-CoV-2 and early use of oral antiviral nirmatrelvir 
+within the first five days in patients with acute mild disease having various 
+risk factors for progression to severe disease help in preventing long COVID. 
+Several clinical trials are underway for the treatment of long COVID and the 
+results of these are eagerly awaited. Physical and mental rehabilitation at 
+home, at community level or in the hospital setting as appropriate is essential 
+in patients with long COVID.
+
+DOI: 10.25259/IJMR_1449_23
+PMID: 39382470 [Indexed for MEDLINE]

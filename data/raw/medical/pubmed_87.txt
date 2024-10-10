@@ -1,0 +1,63 @@
+89. Cell Mol Biol (Noisy-le-grand). 2024 Oct 8;70(9):1-9. doi: 
+10.14715/cmb/2024.70.9.1.
+
+Assessment of immunological factors in COVID-19 patients treated by convalescent 
+plasma.
+
+Heidari M(1), Yaghobi R(2), Moghadami M(3), Zand F(4), Fallahi MJ(5), 
+Pourfathollah AA(6), Zarnegar G(7), Salah A(8), Soleimanian S(9), Golshan M(10), 
+Jangjoo A(11), Karimi MH(12).
+
+Author information:
+(1)Transplant Research Center, Shiraz University of Medical Sciences, Shiraz, 
+Iran. mozhde.heidari@gmail.com.
+(2)Transplant Research Center, Shiraz University of Medical Sciences, Shiraz, 
+Iran. rayaviro@yahoo.com.
+(3)Health PolicyResearch Center, Institute of Health, Shiraz University of 
+Medical Sciences, Shiraz, Iran. mohsen168@gmail.com.
+(4)Anesthesiology and Critical Care Research Center, Shiraz University of 
+Medical Sciences, Shiraz, Iran. zandf@sums.ac.ir.
+(5)Department of Internal Medicine, Shiraz University of Medical Sciences, 
+Shiraz, Iran. falahijavad@yahoo.com.
+(6)Immunology Department, Faculty of Medical Sciences, Tarbiat Modares 
+University, Tehran, Iran. pourfa@modares.ac.ir.
+(7)High Institute for Research and Education in Transfusion Medicine (IRTEM), 
+Tehran, Iran. g.zarnegar8@gmail.com.
+(8)High Institute for Research and Education in Transfusion Medicine (IRTEM), 
+Tehran, Iran. salahibto@yahoo.com.
+(9)Transplant Research Center, Shiraz University of Medical Sciences, Shiraz, 
+Iran. saeedehsoleimanian@gmail.com.
+(10)Transplant Research Center, Shiraz University of Medical Sciences, Shiraz, 
+Iran. mehdigolshan1515@gmail.com.
+(11)Department of Emergency Medicine, Shiraz University of Medical Sciences, 
+Shiraz, iran. karimimh@sums.ac.ir.
+(12)Transplant Research Center, Shiraz University of Medical Sciences, Shiraz, 
+Iran. karimimh@sums.ac.ir.
+
+Following the outbreak of COVID-19, several immunotherapy methods were used to 
+modulate the immune responses of patients. In this study, we aimed to evaluate 
+the immune response to COVID-19 in patients receiving convalescent plasma. In 
+this regard, this randomized controlled trial included 30 patients who were 
+divided into two groups according to receiving convalescent plasma or normal 
+control plasma. Samples from both groups were collected on days 0, 1, 3, 5 and 7 
+after plasma infusion. We measured the expression level of TLR7/8, IRF3/7, 
+CTLA-4, PD-1 and T cell transcription factors by Real-time PCR in the mentioned 
+groups. Thirteen cytokines were also evaluated using flow cytometry method. 
+Results showed that compared to the normal control plasma group, the expression 
+levels of TLR7, 8, IRF3, 7 and PD-1 and CTLA-4, on days 3, 5 and 7 after 
+convalescent plasma infusion, were significantly decreased. On the other hand,  
+Gene expression results showed that the expression levels of Tbet, RORγ3 and 
+Foxp3 on days 3, 5 and 7 after convalescent plasma infusion were significantly 
+increased compared to the normal control plasma group. After convalescent plasma 
+infusion, the viral load was significantly decreased compared to the normal 
+control plasma group. Convalescent plasma infusion also reduced the plasma 
+cytokines levels, including IL-6, IL-10, and IL-4, and enhanced the level of 
+IL-2, IFN- γ and perforin comparing the normal control plasma group. According 
+to the results, the convalescent plasma infusion led to a decrease in the 
+expression of innate immunity receptors and an increase in the expression of 
+transcription factors of adaptive immunity. Therefore, it may be concluded that 
+convalescent plasma infusion can modulate the immune response. To achieve a 
+reliable consequence, further studies are required.
+
+DOI: 10.14715/cmb/2024.70.9.1
+PMID: 39380285 [Indexed for MEDLINE]

@@ -1,0 +1,65 @@
+31. Arterioscler Thromb Vasc Biol. 2024 Oct 9. doi: 10.1161/ATVBAHA.124.321001. 
+Online ahead of print.
+
+COVID-19 Is a Coronary Artery Disease Risk Equivalent and Exhibits a Genetic 
+Interaction With ABO Blood Type.
+
+Hilser JR(1)(2), Spencer NJ(1)(2), Afshari K(1)(2), Gilliland FD(1), Hu H(1), 
+Deb A(3), Lusis AJ(3)(4)(5), Wilson Tang WH(6)(7)(8), Hartiala JA(1), Hazen 
+SL(#)(6)(7)(8), Allayee H(#)(1)(2).
+
+Author information:
+(1)Department of Population and Public Health Sciences, Keck School of Medicine, 
+University of Southern California, Los Angeles. (J.R.H., N.J.S., K.A., F.D.G., 
+H.H., J.A.H., H.A.).
+(2)Department of Biochemistry and Molecular Medicine, Keck School of Medicine, 
+University of Southern California, Los Angeles. (J.R.H., N.J.S., K.A., H.A.).
+(3)Department of Medicine, David Geffen School of Medicine of UCLA, CA. (A.D., 
+A.J.L.).
+(4)Department of Microbiology, Immunology, and Molecular Genetics, David Geffen 
+School of Medicine of UCLA, CA. (A.J.L.).
+(5)Department of Human Genetics, David Geffen School of Medicine of UCLA, CA. 
+(A.J.L.).
+(6)Department of Cardiovascular and Metabolic Sciences, Lerner Research 
+Institute, Cleveland Clinic, OH. (W.H.W.T., S.L.H.).
+(7)Department of Cardiovascular Medicine, Heart, Vascular, and Thoracic 
+Institute, Cleveland Clinic, OH. (W.H.W.T., S.L.H.).
+(8)Center for Microbiome and Human Health, Cleveland Clinic, OH. (W.H.W.T., 
+S.L.H.).
+(#)Contributed equally
+
+BACKGROUND: COVID-19 is associated with acute risk of major adverse cardiac 
+events (MACE), including myocardial infarction, stroke, and mortality 
+(all-cause). However, the duration and underlying determinants of heightened 
+risk of cardiovascular disease and MACE post-COVID-19 are not known.
+METHODS: Data from the UK Biobank was used to identify COVID-19 cases (n=10 005) 
+who were positive for polymerase chain reaction (PCR+)-based tests for 
+SARS-CoV-2 infection (n=8062) or received hospital-based International 
+Classification of Diseases version-10 (ICD-10) codes for COVID-19 (n=1943) 
+between February 1, 2020 and December 31, 2020. Population controls (n=217 730) 
+and propensity score-matched controls (n=38 860) were also drawn from the UK 
+Biobank during the same period. Proportional hazard models were used to evaluate 
+COVID-19 for association with long-term (>1000 days) risk of MACE and as a 
+coronary artery disease risk equivalent. Additional analyses examined whether 
+COVID-19 interacted with genetic determinants to affect the risk of MACE and its 
+components.
+RESULTS: The risk of MACE was elevated in COVID-19 cases at all levels of 
+severity (HR, 2.09 [95% CI, 1.94-2.25]; P<0.0005) and to a greater extent in 
+cases hospitalized for COVID-19 (HR, 3.85 [95% CI, 3.51-4.24]; P<0.0005). 
+Hospitalization for COVID-19 represented a coronary artery disease risk 
+equivalent since incident MACE risk among cases without history of 
+cardiovascular disease was even higher than that observed in patients with 
+cardiovascular disease without COVID-19 (HR, 1.21 [95% CI, 1.08-1.37]; P<0.005). 
+A significant genetic interaction was observed between the ABO locus and 
+hospitalization for COVID-19 (Pinteraction=0.01), with risk of thrombotic events 
+being increased in subjects with non-O blood types (HR, 1.65 [95% CI, 
+1.29-2.09]; P=4.8×10-5) to a greater extent than subjects with blood type O (HR, 
+0.96 [95% CI, 0.66-1.39]; P=0.82).
+CONCLUSIONS: Hospitalization for COVID-19 represents a coronary artery disease 
+risk equivalent, with post-acute myocardial infarction and stroke risk 
+particularly heightened in non-O blood types. These results may have important 
+clinical implications and represent, to our knowledge, one of the first examples 
+of a gene-pathogen exposure interaction for thrombotic events.
+
+DOI: 10.1161/ATVBAHA.124.321001
+PMID: 39381876

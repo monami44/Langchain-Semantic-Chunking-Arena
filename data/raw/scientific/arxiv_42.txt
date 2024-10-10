@@ -1,0 +1,6 @@
+A lifelong reinforcement learning system is a learning system that has the
+ability to learn through trail-and-error interaction with the environment over
+its lifetime. In this paper, I give some arguments to show that the traditional
+reinforcement learning paradigm fails to model this type of learning system.
+Some insights into lifelong reinforcement learning are provided, along with a
+simplistic prototype lifelong reinforcement learning system.

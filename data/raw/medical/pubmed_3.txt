@@ -1,0 +1,34 @@
+4. Clin Lab. 2024 Oct 1;70(10). doi: 10.7754/Clin.Lab.2024.240319.
+
+Investigation of Urine Organic Acid Profile in Coronavirus Disease (COVID-19) 
+Patients.
+
+Kazezoğlu C, İrvem A, Sutaşir YT, Kirgiz B, Çakiroğlu B, Yilmaz H, Kocataş A.
+
+BACKGROUNDS: Coronavirus disease 2019 (COVID-19) is a viral infection caused by 
+severe acute respiratory syn-drome coronavirus 2 (SARS-CoV-2). The high 
+mortality and morbidity rate and its course with a wide variety of clinical 
+symptoms indicate that the disease affects many metabolic pathways. The aim of 
+our study was to investi-gate the metabolic effects of SARS-CoV-2 by evaluating 
+the urinary organic acid profile in patients with SARS-CoV-2 infection. Can 
+metabolites in urine guide the diagnosis, follow-up, treatment, and prognosis of 
+COVID-19?
+METHODS: Forty-two patients, including 30 SARS-CoV-2 RT-PCR positive patients 
+and 12 SARS-CoV-2 RT-PCR negative controls, were studied. SARS-COV-2 RT-PCR of 
+nasopharyngeal swab samples was studied. Urines were evaluated in the 
+GCMS-QP2010 SE Gas Chromatograph Mass Spectrometer (SHIMADZU) device for organic 
+acid profile in the metabolism laboratory. Urine organic acid profile was 
+evaluated by studying 117 organic acids in each patient.
+RESULTS: Tiglylglycine, 2-hydroxybutyric acid, 4-hydroxyphenylpyruvic acid, 
+3-hydroxypropionic acid, erythro-4,5-dihydroxyhexanoic acid lactone, 
+2-hydroxyphenylacetic acid, N-acetyltyrosine, 3-phenyllactic acid, 
+5-hydroxyindolacetic acid, 3-hydroxysebacic acid, palmitic acid, 
+3-methylglutaconic acid, 3-methylglutaric acid, lactic acid, pyruvic acid-oxime, 
+3-hydroxysobutyric acid, and organic acids were found to be increased, compared 
+to the control group.
+CONCLUSIONS: Tiglylglycine has been specifically identified as a potential 
+biomarker of respiratory chain disorders. The deterioration in lipid metabolism 
+and pyruvate pathway in COVID-19 patients was evaluated as remarkable.
+
+DOI: 10.7754/Clin.Lab.2024.240319
+PMID: 39382928 [Indexed for MEDLINE]

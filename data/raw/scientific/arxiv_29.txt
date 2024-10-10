@@ -1,0 +1,9 @@
+In this article, we extend the conventional framework of
+convolutional-Restricted-Boltzmann-Machine to learn highly abstract features
+among abitrary number of time related input maps by constructing a layer of
+multiplicative units, which capture the relations among inputs. In many cases,
+more than two maps are strongly related, so it is wise to make multiplicative
+unit learn relations among more input maps, in other words, to find the optimal
+relational-order of each unit. In order to enable our machine to learn
+relational order, we developed a reinforcement-learning method whose optimality
+is proven to train the network.

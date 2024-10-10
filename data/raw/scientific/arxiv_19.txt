@@ -1,0 +1,2 @@
+This is the Proceedings of the ICML Workshop on #Data4Good: Machine Learning
+in Social Good Applications, which was held on June 24, 2016 in New York.

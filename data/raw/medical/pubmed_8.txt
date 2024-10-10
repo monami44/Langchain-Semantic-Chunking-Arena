@@ -1,0 +1,50 @@
+9. Cerebellum. 2024 Oct 9. doi: 10.1007/s12311-024-01751-5. Online ahead of
+print.
+
+Impact of SARS-CoV-2 Infection on Essential Tremor: A Retrospective Clinical and 
+Kinematic Analysis.
+
+Costa D(1), Grandolfo S(2), Birreci D(2), Angelini L(1), Passaretti M(2)(3), 
+Cannavacciuolo A(1), Martini A(2), De Riggi M(2), Paparella G(1)(2), Fasano 
+A(4)(5), Bologna M(6)(7).
+
+Author information:
+(1)IRCCS Neuromed, Pozzilli (IS), Italy.
+(2)Department of Human Neurosciences, Sapienza University of Rome, Rome, Italy.
+(3)Department of Clinical Neuroscience, Karolinska Institutet, Solna, Sweden.
+(4)Krembil Research Institute, University Health Network, Toronto, ON, Canada.
+(5)Edmond J. Safra Program in Parkinson's Disease, Morton and Gloria Shulman 
+Movement Disorders Clinic, Toronto Western Hospital, Division of Neurology, 
+University of Toronto, Toronto, ON, Canada.
+(6)IRCCS Neuromed, Pozzilli (IS), Italy. matteo.bologna@uniroma1.it.
+(7)Department of Human Neurosciences, Sapienza University of Rome, Rome, Italy. 
+matteo.bologna@uniroma1.it.
+
+In the past few years, SARS-CoV-2 infection has substantially impacted public 
+health. Alongside respiratory symptoms, some individuals have reported new 
+neurological manifestations or a worsening of pre-existing neurological 
+conditions. We previously documented two cases of essential tremor (ET) who 
+experienced a deterioration in tremor following SARS-CoV-2 infection. However, 
+the effects of SARS-CoV-2 on ET remain largely unexplored. This study aims to 
+evaluate the impact of SARS-CoV-2 infection on a relatively broad sample of ET 
+patients by retrospectively comparing their clinical and kinematic data 
+collected before and after the exposure to SARS-CoV-2. We surveyed to evaluate 
+the impact of SARS-CoV-2 infection on tremor features in ET. Subsequently, we 
+retrospectively analysed clinical and kinematic data, including accelerometric 
+recordings of postural and kinetic tremor. We included 36 ET patients (14 
+females with a mean age of 71.1 ± 10.6 years). Among the 25 patients who 
+reported SARS-CoV-2 infection, 11 (44%) noted a subjective worsening of tremor. 
+All patients reporting subjective tremor worsening also exhibited symptoms of 
+long COVID, whereas the prevalence of these symptoms was lower (50%) in those 
+without subjective exacerbation. The retrospective analysis of clinical data 
+revealed a tremor deterioration in infected patients, which was not observed in 
+non-infected patients. Finally, kinematic analysis revealed substantial 
+stability of tremor features in both groups. The study highlighted a potential 
+correlation between the SARS-CoV-2 infection and clinical worsening of ET. Long 
+COVID contributes to a greater impact of tremor on the daily life of ET 
+patients.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s12311-024-01751-5
+PMID: 39382809

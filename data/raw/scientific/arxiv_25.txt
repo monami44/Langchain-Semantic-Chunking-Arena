@@ -1,0 +1,8 @@
+Machine learning can be used to make sense of healthcare data. Probabilistic
+machine learning models help provide a complete picture of observed data in
+healthcare. In this review, we examine how probabilistic machine learning can
+advance healthcare. We consider challenges in the predictive model building
+pipeline where probabilistic models can be beneficial including calibration and
+missing data. Beyond predictive models, we also investigate the utility of
+probabilistic machine learning models in phenotyping, in generative models for
+clinical use cases, and in reinforcement learning.

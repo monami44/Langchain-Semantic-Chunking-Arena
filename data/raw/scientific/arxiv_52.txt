@@ -1,0 +1,8 @@
+Automated machine learning makes it easier for data scientists to develop
+pipelines by searching over possible choices for hyperparameters, algorithms,
+and even pipeline topologies. Unfortunately, the syntax for automated machine
+learning tools is inconsistent with manual machine learning, with each other,
+and with error checks. Furthermore, few tools support advanced features such as
+topology search or higher-order operators. This paper introduces Lale, a
+library of high-level Python interfaces that simplifies and unifies automated
+machine learning in a consistent way.

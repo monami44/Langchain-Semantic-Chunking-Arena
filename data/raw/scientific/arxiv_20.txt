@@ -1,0 +1,4 @@
+We take a closer look at some theoretical challenges of Machine Learning as a
+function approximation, gradient descent as the default optimization algorithm,
+limitations of fixed length and width networks and a different approach to RNNs
+from a mathematical perspective.

@@ -1,0 +1,41 @@
+20. Indian J Med Res. 2024 May;159(5):468-478. doi: 10.25259/ijmr_2516_22.
+
+Exploratory analysis of serum Krebs von den Lungen-6, blood gas analysis & 
+Brixia score in determining COVID-19 severity & mortality.
+
+Rosyid AN(1), Witarto AP(2), Witarto BS(2), Putra AJE(2), Pramudito SL(2), 
+Soebakti E(3), Sensusiati AD(3), Nugraha J(3), Amin M(1).
+
+Author information:
+(1)Department of Pulmonology and Respiratory Medicine, Universitas Airlangga 
+Hospital, Surabaya, Indonesia.
+(2)Department of Clinical Medicine, Universitas Airlangga Hospital, Surabaya, 
+Indonesia.
+(3)Department of Radiology, Universitas Airlangga Hospital, Surabaya, Indonesia.
+
+Background & objectives Krebs von den Lungen-6 (KL-6) is primarily expressed by 
+the damaged type II pneumocytes. In this context, the relationship of KL-6 with 
+blood gas analysis (BGA) parameters and Brixia score is still limitedly 
+discussed. This study aims to analyze the correlation of KL-6, BGA and Brixia 
+scores to the severity and mortality of COVID-19. Methods A cross-sectional 
+study was conducted in adult COVID-19 positive individuals at Universitas 
+Airlangga Hospital, Surabaya, East Java, Indonesia, from March to August 2021. 
+KL-6, BGA, and Brixia scores were compared according to severity (severe vs. 
+non-severe) and mortality (non-survivor vs. survivor). The receiver operating 
+characteristic (ROC) analysis was also performed to define the optimal cut-off, 
+sensitivity, as well as the specificity of KL-6, BGA and Brixia scores to 
+determine the COVID-19 severity and mortality. Results Total 35 severe and 20 
+non-severe COVID-19 positive individuals were enrolled in this study. Of those, 
+there were 22 non-survivors. No significant difference in serum KL-6 levels was 
+observed in the severity and mortality groups. KL-6 and HCO3- had positive 
+correlation in the severe group (r=0.37). KL-6 and Brixia scores showed a 
+significant negative correlation among COVID-19 positive individuals (r=-0.283; 
+P=0.036). KL-6 and Brixia scores together served as the best severity markers in 
+the current study [AUC 0.809 (0.697-0.920); Sn/Sp=0.686/0.900)], followed by 
+KL-6 and P/F ratio [AUC 0.800 (0.637-0.963); Sn/Sp=0.971/0.750]. Interpretation 
+& conclusions The findings of this study suggest that KL-6 has the potential to 
+be a useful adjunct laboratory parameter to the BGA and Brixia score 
+representing COVID-19 severity and mortality.
+
+DOI: 10.25259/ijmr_2516_22
+PMID: 39382415 [Indexed for MEDLINE]

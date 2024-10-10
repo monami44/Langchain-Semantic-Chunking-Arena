@@ -1,0 +1,4 @@
+This brief note highlights some basic concepts required toward understanding
+the evolution of machine learning and deep learning models. The note starts
+with an overview of artificial intelligence and its relationship to biological
+neuron that ultimately led to the evolution of todays intelligent models.

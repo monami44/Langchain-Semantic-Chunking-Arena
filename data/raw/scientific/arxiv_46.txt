@@ -1,0 +1,7 @@
+Over the past two decades machine learning has permeated almost every realm
+of technology. At the same time, many researchers have begun using category
+theory as a unifying language, facilitating communication between different
+scientific disciplines. It is therefore unsurprising that there is a burgeoning
+interest in applying category theory to machine learning. We aim to document
+the motivations, goals and common themes across these applications. We touch on
+gradient-based learning, probability, and equivariant learning.

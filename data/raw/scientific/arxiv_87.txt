@@ -1,0 +1,11 @@
+Autonomous vehicles rely on machine learning to solve challenging tasks in
+perception and motion planning. However, automotive software safety standards
+have not fully evolved to address the challenges of machine learning safety
+such as interpretability, verification, and performance limitations. In this
+paper, we review and organize practical machine learning safety techniques that
+can complement engineering safety for machine learning based software in
+autonomous vehicles. Our organization maps safety strategies to
+state-of-the-art machine learning techniques in order to enhance dependability
+and safety of machine learning algorithms. We also discuss security limitations
+and user experience aspects of machine learning components in autonomous
+vehicles.

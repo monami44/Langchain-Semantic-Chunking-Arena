@@ -1,0 +1,22 @@
+{
+    "wikipedia": {
+        "num_articles": 100
+    },
+    "pubmed": {
+        "email": "lyaminky2@gmail.com",
+        "search_term": "COVID-19",
+        "max_results": 100
+    },
+    "technical_repos": [
+        "https://github.com/psf/requests.git",
+        "https://github.com/pallets/flask.git"
+    ],
+    "legal": {
+        "query": "intellectual property",
+        "max_results": 100
+    },
+    "arxiv": {
+        "query": "machine learning",
+        "max_results": 100
+    }
+}

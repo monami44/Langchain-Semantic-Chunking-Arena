@@ -1,0 +1,11 @@
+{
+  "source": "arxiv",
+  "unique_id": "e71c0d1a",
+  "file_name": "arxiv_7.txt",
+  "process_order": 106,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    1222,
+    208
+  ]
+}

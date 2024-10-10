@@ -1,0 +1,55 @@
+13. Pflugers Arch. 2024 Oct 9. doi: 10.1007/s00424-024-03022-y. Online ahead of 
+print.
+
+ACE2 and TMPRSS2 in human kidney tissue and urine extracellular vesicles with 
+age, sex, and COVID-19.
+
+Bach ML(1), Laftih S(2), Andresen JK(2), Pedersen RM(3), Andersen TE(3), Madsen 
+LW(4)(5), Madsen K(2)(6), Hinrichs GR(2)(7), Zachar R(7), Svenningsen P(2), Lund 
+L(8), Johansen IS(4), Hansen LF(9), Palarasah Y(10), Jensen BL(2).
+
+Author information:
+(1)Unit of Cardiovascular and Renal Research, Department of Molecular Medicine, 
+University of Southern Denmark, Odense, Denmark. mbach@health.sdu.dk.
+(2)Unit of Cardiovascular and Renal Research, Department of Molecular Medicine, 
+University of Southern Denmark, Odense, Denmark.
+(3)Department of Clinical Microbiology, Odense University Hospital, and Research 
+Unit for Clinical Microbiology, University of Southern Denmark, Odense, Denmark.
+(4)Department of Infectious Diseases, Odense University Hospital, and Research 
+Unit for Infectious Diseases, University of Southern Denmark, Odense, Denmark.
+(5)Unit for Infectious Diseases, Department of Medicine, Sygehus Lillebælt, 
+Kolding, Denmark.
+(6)Department of Pathology, Odense University Hospital, Odense, Denmark.
+(7)Department of Nephrology, Odense University Hospital, Odense, Denmark.
+(8)Department of Urology, Odense University Hospital, Odense, Denmark.
+(9)Department of Clinical Microbiology, Rigshospitalet, Copenhagen, Denmark.
+(10)Unit of Inflammation and Cancer Research, Department of Molecular Medicine, 
+University of Southern Denmark, Odense, Denmark.
+
+SARS-CoV-2 virus infects cells by engaging with ACE2 requiring protease TMPRSS2. 
+ACE2 is highly expressed in kidneys. Predictors for severe disease are high age 
+and male sex. We hypothesized that ACE2 and TMPRSS2 proteins are more abundant 
+(1) in males and with increasing age in kidney and (2) in urine and 
+extracellular vesicles (EVs) from male patients with COVID-19 and (3) SARS-CoV-2 
+is present in urine and EVs during infection. Kidney cortex samples from 
+patients subjected to cancer nephrectomy (male/female; < 50 years/˃75 years, 
+n = 24; ˃80 years, n = 15) were analyzed for ACE2 and TMPRSS2 protein levels. 
+Urine from patients hospitalized with SARS-CoV-2 infection was analyzed for ACE2 
+and TMPRSS2. uEVs were used for immunoblotting and SARS-CoV-2 mRNA and antigen 
+detection. Tissue ACE2 and TMPRSS2 protein levels did not change with age. ACE2 
+was not more abundant in male kidneys in any age group. ACE2 protein was 
+associated with proximal tubule apical membranes in cortex. TMPRSS2 was observed 
+predominantly in the medulla. ACE2 was elevated significantly in uEVs and urine 
+from patients with COVID-19 with no sex difference compared with urine from 
+controls w/wo albuminuria. TMPRSS2 was elevated in uEVs from males compared to 
+female. ACE2 and TMPRSS2 did not co-localize in uEVs/apical membranes. 
+SARS-CoV-2 nucleoprotein and mRNA were not detected in urine. Higher kidney ACE2 
+protein abundance is unlikely to explain higher susceptibility to SARS-CoV-2 
+infection in males. Kidney tubular cells appear not highly susceptible to 
+SARS-CoV-2 infection. Loss of ACE2 into urine in COVID could impact 
+susceptibility and angiotensin metabolism.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s00424-024-03022-y
+PMID: 39382598

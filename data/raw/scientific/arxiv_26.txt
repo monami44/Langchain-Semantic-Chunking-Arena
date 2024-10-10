@@ -1,0 +1,9 @@
+As geospatial machine learning models and maps derived from their predictions
+are increasingly used for downstream analyses in science and policy, it is
+imperative to evaluate their accuracy and applicability. Geospatial machine
+learning has key distinctions from other learning paradigms, and as such, the
+correct way to measure performance of spatial machine learning outputs has been
+a topic of debate. In this paper, I delineate unique challenges of model
+evaluation for geospatial machine learning with global or remotely sensed
+datasets, culminating in concrete takeaways to improve evaluations of
+geospatial model performance.

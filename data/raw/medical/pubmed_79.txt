@@ -1,0 +1,48 @@
+81. Rev Bras Ginecol Obstet. 2024 Sep 18;46:e-rbgo69. doi:
+10.61622/rbgo/2024rbgo69.  eCollection 2024.
+
+Neonatal and maternal outcomes of mRNA versus Non-mRNA COVID-19 vaccines in 
+pregnant patients: a systematic review and meta-analysis.
+
+Oliveira JA(1), da Silva EG(2), Karasu AFG(3), Silva AMN(4), Philip CE(5).
+
+Author information:
+(1)Universidade Federal de Minas Gerais Belo HorizonteMG Brazil Universidade 
+Federal de Minas Gerais, Belo Horizonte, MG, Brazil.
+(2)Centro Universitário de Jaguariúna JaguariúnaSP Brazil Centro Universitário 
+de Jaguariúna, Jaguariúna, SP, Brazil.
+(3)Bezmialem Vakif University Istanbul Turkey Obstetrician and Gynecologist, 
+Bezmialem Vakif University, Istanbul, Turkey.
+(4)Escola Bahiana de Medicina e Saúde Pública SalvadorBA Brazil Escola Bahiana 
+de Medicina e Saúde Pública, Salvador, BA, Brazil.
+(5)Beaumont hospital Dublin Ireland Obstetrician and Gynecologist, Beaumont 
+hospital, Dublin, Ireland.
+
+OBJECTIVE: To compare the effectiveness and safety of non-mRNA versus mRNA 
+COVID-19 vaccines on pregnant women and their newborns in a systematic review 
+with meta-analysis.
+DATA SOURCES: We searched PubMed, Embase, and Cochrane Central in May 2023.
+STUDY SELECTION: The search strategy yielded 4451 results, 16 studies were fully 
+reviewed. We selected case-control studies analysing non-mRNA versus mRNA 
+vaccines. Data collection and analysis: we assessed the risk of bias using the 
+Cochrane Risk of Bias in Non-randomized Studies of Interventions (ROBINS-I) 
+tool. Standardised mean differences were pooled using random-effect models.
+DATA SYNTHESIS: We identified 8 prospective and retrospective studies with a 
+total of 32,153 patients. Non-mRNA vaccines were associated with a higher 
+incidence of fever (OR 2.67; 95% CI 2.08-3.43; p<0.001), and a lower incidence 
+of fetal or neonatal death (OR 0.16; 95% CI 0.08-0.33; p<0.001). In subgroup 
+analyses, the Jansen vaccine (Ad26.COV2.S) was found to have a higher rate of 
+premature labor/delivery (OR 4.48; 95% CI 1.45-13.83; p=0.009) and 
+missed/spontaneous abortion (OR 1.90; 95% CI 1.09-3.30; p=0.02), as compared 
+with the Pfizer (BNT162b2) vaccine.
+CONCLUSION: non-mRNA vaccines are associated with a lower incidence of fetal or 
+neonatal death among pregnant women who receive a Covid19 vaccine, although at 
+an increased rate of pyrexia compared with mRNA vaccines. Other studies are 
+required for better assessment.
+PROSPERO: CRD42023421814.
+
+DOI: 10.61622/rbgo/2024rbgo69
+PMCID: PMC11460421
+PMID: 39380590 [Indexed for MEDLINE]
+
+Conflict of interest statement: Conflicts to interest: none to declare.

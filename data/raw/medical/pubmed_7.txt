@@ -1,0 +1,53 @@
+8. Infect Dis Ther. 2024 Oct 9. doi: 10.1007/s40121-024-01051-9. Online ahead of 
+print.
+
+Delphi Panel Consensus Statement Generation: COVID-19 Vaccination 
+Recommendations for Immunocompromised Populations in the European Union.
+
+Paranilam J(1), Arcioni F(2), Franco A(3), Lai KZH(1), Brown J(1), 
+Kimball-Carroll S(4).
+
+Author information:
+(1)ICON Clinical Research, Dublin 18, Ireland.
+(2)Pediatric Onco-Hematology with Bone Marrow Transplantation, Azienda 
+Ospedaliera Di Perugia, Piazza Menghini 1, 06132, Perugia, Italy.
+(3)Department of Nephrology, Hospital Dr Balmis, 03010, Alicante, Spain.
+(4)ICON Clinical Research, Dublin 18, Ireland. samantha.kimball@iconplc.com.
+
+INTRODUCTION: The coronavirus disease 2019 (COVID-19) pandemic has caused 
+unprecedented pressure on healthcare systems globally. The lack of quality 
+guidelines on the management of COVID-19 in rheumatologic disease, renal 
+disease, hematological malignancy, and solid organ transplant recipients has 
+resulted in a wide variation in clinical practice.
+METHODS: Using a Delphi process, a panel of 16 key opinion leaders developed 
+clinical practice statements regarding vaccine recommendations in areas where 
+standards are absent or limited. Agreement among practicing physicians with 
+consensus statements was also assessed via an online physician survey. The 
+strength of the consensus was determined by the following rating system: a 
+strong rating was defined as all four key opinion leaders (KOLs) rating the 
+statement ≥ 8, a moderate rating was defined as three out of four KOLs rating 
+the statement ≥ 8, and no consensus was defined as less than three out of four 
+KOLs provided a rating of ≤ 8. Specialists voted on agreement with each 
+consensus statement for their disease area using the same ten-point scoring 
+system.
+RESULTS: Key opinion leaders in rheumatology, nephrology, and hematology 
+achieved consensuses for all nine statements pertaining to the primary and 
+booster series with transplant physicians reaching consensus on eight of nine 
+statements. Experts agreed that COVID-19 vaccines are safe, effective, and well 
+tolerated by patients with rheumatological conditions, renal disease, 
+hematologic malignancy, and recipients of solid organ transplants. The Delphi 
+process yielded strong to moderate suggestions for the use of COVID-19 messenger 
+ribonucleic acid (mRNA) vaccines and the necessity of the COVID-19 booster for 
+the immunocompromised population. The expert panel had mixed feelings concerning 
+the measurement of antibody titers, higher-dose mRNA vaccines, and the 
+development of disease-specific COVID-19 guidance.
+CONCLUSIONS: These results confirmed the necessity of COVID-19 vaccines and 
+boosters in immunocompromised patients with rheumatologic disease, renal 
+disease, hematological malignancy, and solid organ transplant recipients. 
+Statements where consensus was not achieved were due to absent or limited 
+evidence.
+
+© 2024. The Author(s).
+
+DOI: 10.1007/s40121-024-01051-9
+PMID: 39382830

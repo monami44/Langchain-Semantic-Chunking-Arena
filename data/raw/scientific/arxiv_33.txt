@@ -1,0 +1,7 @@
+Many machine learning problems and methods are combinations of three
+components: data, hypothesis space and loss function. Different machine
+learning methods are obtained as combinations of different choices for the
+representation of data, hypothesis space and loss function. After reviewing the
+mathematical structure of these three components, we discuss intrinsic
+trade-offs between statistical and computational properties of machine learning
+methods.

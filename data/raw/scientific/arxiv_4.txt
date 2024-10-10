@@ -1,0 +1,17 @@
+Machine learning technologies have demonstrated immense capabilities in
+various domains. They play a key role in the success of modern businesses.
+However, adoption of machine learning technologies has a lot of untouched
+potential. Cost of developing custom machine learning solutions that solve
+unique business problems is a major inhibitor to far-reaching adoption of
+machine learning technologies. We recognize that the monolithic nature
+prevalent in today's machine learning applications stands in the way of
+efficient and cost effective customized machine learning solution development.
+In this work we explore the benefits of modular machine learning solutions and
+discuss how modular machine learning solutions can overcome some of the major
+solution engineering limitations of monolithic machine learning solutions. We
+analyze the trade-offs between modular and monolithic machine learning
+solutions through three deep learning problems; one text based and the two
+image based. Our experimental results show that modular machine learning
+solutions have a promising potential to reap the solution engineering
+advantages of modularity while gaining performance and data advantages in a way
+the monolithic machine learning solutions do not permit.

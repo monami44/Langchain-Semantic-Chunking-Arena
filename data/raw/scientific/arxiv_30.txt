@@ -1,0 +1,2 @@
+First step to investigate the potential of transfer learning applied to the
+field of spatial statistics

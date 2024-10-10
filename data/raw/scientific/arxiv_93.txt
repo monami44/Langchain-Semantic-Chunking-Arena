@@ -1,0 +1,7 @@
+This article studies the financial time series data processing for machine
+learning. It introduces the most frequent scaling methods, then compares the
+resulting stationarity and preservation of useful information for trend
+forecasting. It proposes an empirical test based on the capability to learn
+simple data relationship with simple models. It also speaks about the data
+split method specific to time series, avoiding unwanted overfitting and
+proposes various labelling for classification and regression.

@@ -1,0 +1,88 @@
+3. JMIR Public Health Surveill. 2024 Oct 9;10:e57803. doi: 10.2196/57803.
+
+National Trends in the Prevalence of Self-Perceived Overweight Among Adolescents 
+Between 2005 and 2022: Nationwide Representative Study.
+
+Jeong J(#)(1)(2), Lee S(1), Lee K(#)(2)(3), Kim S(#)(1)(2), Park J(2)(3), Son 
+Y(2)(4), Lee H(2)(3), Lee H(2), Kang J(5)(6), Rahmati M(7)(8)(9), Pizzol 
+D(10)(11), Smith L(12), López Sánchez GF(13), Dragioti E(14), Fond G(9), Boyer 
+L(9), Woo S(1)(2), Rhee SY(1)(2)(3)(4)(15), Yon DK(1)(2)(3)(4)(16).
+
+Author information:
+(1)Department of Medicine, Kyung Hee University College of Medicine, Seoul, 
+Republic of Korea.
+(2)Center for Digital Health, Medical Science Research Institute, Kyung Hee 
+University College of Medicine, Seoul, Republic of Korea.
+(3)Department of Regulatory Science, Kyung Hee University, Seoul, Republic of 
+Korea.
+(4)Department of Precision Medicine, Kyung Hee University College of Medicine, 
+Seoul, Republic of Korea.
+(5)Division of Sleep Medicine, Harvard Medical School, Boston, MA, United 
+States.
+(6)Department of Anesthesia, Critical Care and Pain Medicine, Massachusetts 
+General Hospital, Boston, MA, United States.
+(7)Department of Physical Education and Sport Sciences, Faculty of Literature 
+and Human Sciences, Lorestan University, Khoramabad, Iran.
+(8)Department of Physical Education and Sport Sciences, Faculty of Literature 
+and Humanities, Vali-E-Asr University of Rafsanjan, Rafsanjan, Iran.
+(9)CEReSS-Health Service Research and Quality of Life Center, Assistance 
+Publique-Hôpitaux de Marseille, Aix-Marseille University, Marseille, France.
+(10)Health Unit, Eni, San Donato Milanese, Italy.
+(11)Health Unit, Eni, Maputo, Mozambique.
+(12)Centre for Health, Performance, and Wellbeing, Anglia Ruskin University, 
+Cambridge, United Kingdom.
+(13)Division of Preventive Medicine and Public Health, Department of Public 
+Health Sciences, School of Medicine, University of Murcia, Murica, Spain.
+(14)Research Laboratory Psychology of Patients, Families and Health 
+Professionals, Department of Nursing, School of Health Sciences, University of 
+Ioannina, Ioannina, Greece.
+(15)Department of Endocrinology and Metabolism, Kyung Hee University School of 
+Medicine, Seoul, Republic of Korea.
+(16)Department of Pediatrics, Kyung Hee University Medical Center, Kyung Hee 
+University College of Medicine, Seoul, Republic of Korea.
+(#)Contributed equally
+
+BACKGROUND: Despite several studies on self-evaluation of health and body shape, 
+existing research on the risk factors of self-perceived overweight is 
+insufficient, especially during the COVID-19 pandemic.
+OBJECTIVE: This study aims to identify the risk factors affecting self-perceived 
+overweight and examine how the prevalence of self-perceived overweight has 
+changed before and during the COVID-19 pandemic. Specifically, we analyzed the 
+impact of altered lifestyles due to COVID-19 on this phenomenon.
+METHODS: The data used in the study were obtained from middle and high school 
+students who participated in the Korean Youth Risk Behavior Web-based Survey 
+(N=1,189,586). This survey was a 2-stage stratified cluster sampling survey 
+representative of South Korean adolescents. We grouped the survey results by 
+year and estimated the slope in the prevalence of self-perceived overweight 
+before and during the pandemic using weighted linear regression, as well as the 
+prevalence tendencies of self-perceived overweight according to various risk 
+factors. We used prevalence ratios to identify the risk factors for 
+self-perceived overweight. In addition, we conducted comparisons of risk factors 
+in different periods to identify their associations with the COVID-19 pandemic.
+RESULTS: The prevalence of self-perceived overweight was much higher than 
+BMI-based overweight among 1,189,586 middle and high school participants (grade 
+7-12) from 2005 to 2022 (female participants: n=577,102, 48.51%). From 2005 to 
+2019 (prepandemic), the prevalence of self-perceived overweight increased 
+(β=2.80, 95% CI 2.70-2.90), but from 2020 to 2022 (pandemic) it decreased 
+(β=-0.53, 95% CI -0.74 to -0.33). During the pandemic, individuals with higher 
+levels of stress or lower household economic status exhibited a more substantial 
+decrease in the rate of self-perceived overweight. The prevalence of 
+self-perceived overweight tended to be higher among individuals with poor 
+academic performance, lower economic status, poorer subjective health, and a 
+higher stress level.
+CONCLUSIONS: Our nationwide study, conducted over 18 years, indicated that 
+self-perceived overweight decreased during the COVID-19 period while identifying 
+low academic performance and economic status as risk factors. These findings 
+suggest the need for policies and facilities to address serious dieting and body 
+dissatisfaction resulting from self-perceived overweight by developing 
+counseling programs for adolescents with risk factors such as lower school 
+performance and economic status.
+
+©Jinyoung Jeong, Seungjun Lee, Kyeongmin Lee, Seokjun Kim, Jaeyu Park, Yejun 
+Son, Hyeri Lee, Hayeon Lee, Jiseung Kang, Masoud Rahmati, Damiano Pizzol, Lee 
+Smith, Guillermo F López Sánchez, Elena Dragioti, Guillaume Fond, Laurent Boyer, 
+Selin Woo, Sang Youl Rhee, Dong Keon Yon. Originally published in JMIR Public 
+Health and Surveillance (https://publichealth.jmir.org), 09.10.2024.
+
+DOI: 10.2196/57803
+PMID: 39382947

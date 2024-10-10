@@ -1,0 +1,10 @@
+Machine learning has been applied to the problem of X-ray diffraction phase
+prediction with promising results. In this paper, we describe a method for
+using machine learning to predict crystal structure phases from X-ray
+diffraction data of transition metals and their oxides. We evaluate the
+performance of our method and compare the variety of its settings. Our results
+demonstrate that the proposed machine learning framework achieves competitive
+performance. This demonstrates the potential for machine learning to
+significantly impact the field of X-ray diffraction and crystal structure
+determination. Open-source implementation:
+https://github.com/maxnygma/NeuralXRD.

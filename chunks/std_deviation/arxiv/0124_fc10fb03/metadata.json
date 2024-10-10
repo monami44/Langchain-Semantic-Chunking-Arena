@@ -1,0 +1,10 @@
+{
+  "source": "arxiv",
+  "unique_id": "fc10fb03",
+  "file_name": "arxiv_43.txt",
+  "process_order": 124,
+  "num_chunks": 1,
+  "chunk_sizes": [
+    1444
+  ]
+}

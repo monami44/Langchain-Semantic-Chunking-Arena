@@ -1,0 +1,46 @@
+79. Int J Public Health. 2024 Sep 24;69:1606221. doi: 10.3389/ijph.2024.1606221. 
+eCollection 2024.
+
+SARS-CoV-2 Quarantine Mandated by Contact Tracing: Burden and Infection Rate 
+Among Close Contacts in Zurich, Switzerland, 2020-2021.
+
+Aschmann HE(1)(2)(3), Domenghino A(3)(4), Jung R(3), Ballouz T(3), Menges D(3), 
+Fehr J(3), Puhan MA(3).
+
+Author information:
+(1)Division of Pulmonary and Critical Care Medicine, University of California 
+San Francisco, San Francisco, CA, United States.
+(2)Department of Epidemiology and Biostatistics, University of California San 
+Francisco, San Francisco, CA, United States.
+(3)Epidemiology, Biostatistics and Prevention Institute, University of Zurich, 
+Zurich, Switzerland.
+(4)Department of Visceral and Transplantation Surgery, University Hospital 
+Zurich, Zurich, Switzerland.
+
+OBJECTIVES: Before vaccines and effective treatments were available, quarantine 
+of close contacts was important to limit the spread of SARS-CoV-2. To evaluate 
+potential benefits and harms of quarantine, we aimed to estimate infection rates 
+and describe experiences and mental health among persons in mandated quarantine 
+during the early SARS-CoV-2 pandemic.
+METHODS: We invited adults in mandated quarantine after an exposure to 
+SARS-CoV-2 identified through contact tracing of the Canton of Zurich, 
+Switzerland, between August 2020 and January 2021. Participants completed two 
+questionnaires and received up to two SARS-CoV-2 polymerase chain reaction 
+tests, during and at the end of quarantine.
+RESULTS: Among 395 participants, quarantine duration ranged from 2 to 20 days. 
+By day 11 since the last contact, 11.1% [95% CI 8.4%-14.7%] were infected with 
+SARS-CoV-2. The proportion of participants with symptoms of depression doubled 
+from 9.3% before quarantine to 18.9% during quarantine, and 12.1% reported 
+quarantine was very or extremely difficult.
+CONCLUSION: Although quarantine was only moderately burdensome for most 
+participants, some experienced significant difficulties and burden. Policymakers 
+need to balance infection control with potential harms placed on individuals.
+
+Copyright © 2024 Aschmann, Domenghino, Jung, Ballouz, Menges, Fehr and Puhan.
+
+DOI: 10.3389/ijph.2024.1606221
+PMCID: PMC11458386
+PMID: 39380638 [Indexed for MEDLINE]
+
+Conflict of interest statement: The authors declare that they do not have any 
+conflicts of interest.

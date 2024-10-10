@@ -1,0 +1,6 @@
+The main goal of statistical learning theory is to provide a fundamental
+framework for the problem of decision making and model construction based on
+sets of data. Here, we present a brief introduction to the fundamentals of
+statistical learning theory, in particular the difference between empirical and
+structural risk minimization, including one of its most prominent
+implementations, i.e. the Support Vector Machine.

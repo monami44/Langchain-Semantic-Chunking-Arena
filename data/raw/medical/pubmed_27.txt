@@ -1,0 +1,29 @@
+28. Leuk Lymphoma. 2024 Oct 9:1-7. doi: 10.1080/10428194.2024.2411432. Online
+ahead  of print.
+
+Early impact of treatment modifications adopted for acute lymphoblastic leukemia 
+during SARS-CoV-2 pandemic; a single center experience and lessons for LMICs.
+
+Mohammad EM(1), El-Ayadi M(1), Kamel A(1), Ebeid E(1).
+
+Author information:
+(1)Pediatric Oncology, National Cancer Institute, Cairo University, Egypt.
+
+Treatment modifications adopted during pandemic aimed at reducing infection, 
+myelosuppression, and optimizing hospital resources. This study evaluated 
+outcomes for pediatric patients with ALL who had treatment modifications during 
+pandemic compared to historical cohorts at the National Cancer Institute, Cairo 
+University, Egypt. Bi-directional cohort study included 378 patients. Treatment 
+modifications included omission of specific drugs or adjusting chemotherapy 
+schedules to 6-mercaptopurine/methotrexate. Median follow-up were 45.1 and 
+43.2 months, for cohorts (A) and (B), respectively. The three-year overall 
+survival were 84.9% and 87.5% (p = .48) and three-year relapse free survival 
+were 82.8% and 86.5% (p = .11) for cohorts (A) and (B), respectively. 
+Infection-related mortality was 11% and 4.4% for cohorts (A) and (B), 
+respectively (p = .03). Treatment modifications adopted during the pandemic did 
+not adversely affect the outcome of patients with ALL and notably reduced 
+infection-related deaths. Longer follow-up is warranted to validate these 
+findings.
+
+DOI: 10.1080/10428194.2024.2411432
+PMID: 39381951

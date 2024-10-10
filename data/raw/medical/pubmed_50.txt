@@ -1,0 +1,46 @@
+51. Heliyon. 2024 Aug 21;10(18):e36410. doi: 10.1016/j.heliyon.2024.e36410. 
+eCollection 2024 Sep 30.
+
+Influenza viruses and SARS-CoV-2 diagnosis via sensitive testing methods in 
+clinical application.
+
+Zhang L(1)(2), Li C(3), Shao S(1), Zhang Z(4), Chen D(1).
+
+Author information:
+(1)Department of Critical Care Medicine, Tongji Hospital, Tongji Medical 
+College, Huazhong University of Science and Technology, Wuhan 430030, China.
+(2)School of Ecology and Environment, Tibet University, Lhasa 850000, China.
+(3)Department of Emergency Medicine, The Second Affiliated Hospital of Chongqing 
+Medical University, Chongqing 400010, China.
+(4)State Key Laboratory of New Textile Materials and Advanced Processing 
+Technologies, School of Bioengineering and Health, Wuhan Textile University, 
+Wuhan, 430200, China.
+
+The identification of influenza viruses and SARS-CoV-2 has garnered increasing 
+attention due of their longstanding global menace to human life and health. The 
+point-of-care test is a potential approach for identifying influenza viruses and 
+SARS-CoV-2 in clinical settings, leading to timely discovery, documentation, and 
+treatment. The primary difficulties encountered with conventional detection 
+techniques for influenza viruses and SARS-CoV-2 are the limited or inadequate 
+ability to identify the presence of the viruses, the lack of speed, precision, 
+accuracy, sensitivity, and specificity, often resulting in a failure to promptly 
+notify disease control authorities. Recently, point-of-care test methods, along 
+with nucleic acid amplification, optics, electrochemistry, lateral/vertical 
+flow, and minimization, have been demonstrated the characteristics of 
+reliability, sensitivity, specificity, stability, and portability. A 
+point-of-care test offers promising findings in the early detection of influenza 
+viruses and SARS-CoV-2 in both scientific research and practical use. In this 
+review, we will go over the principles, advantages, limitations, and real-world 
+applications of point-of-care diagnostics. The significance of constraints of 
+detection, throughput, sensitivity, and specificity in the analysis of clinical 
+samples in settings with restricted resources is underscored. This discussion 
+concludes with their prospects and challenges.
+
+© 2024 Published by Elsevier Ltd.
+
+DOI: 10.1016/j.heliyon.2024.e36410
+PMCID: PMC11458974
+PMID: 39381246
+
+Conflict of interest statement: The authors have no conflicts of interest to 
+declare.

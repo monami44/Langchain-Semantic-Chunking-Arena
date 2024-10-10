@@ -1,0 +1,61 @@
+23. Microbiol Spectr. 2024 Oct 9:e0093224. doi: 10.1128/spectrum.00932-24. Online
+ ahead of print.
+
+Correlation of patient symptoms with SARS-CoV-2 Omicron variant viral loads in 
+nasopharyngeal and saliva samples and their influence on the performance of 
+rapid antigen testing.
+
+Shiraishi K(1), Chong Y(2), Goto T(1), Ishimaru T(3), Shimono N(4), Ikematsu 
+H(5), Akashi K(1).
+
+Author information:
+(1)Medicine and Biosystemic Science, Kyushu University Graduate School of 
+Medical Sciences (The First Department of Internal Medicine), Fukuoka, Japan.
+(2)Department of Clinical Immunology, Rheumatology, and Infectious Disease, 
+Kyushu University Hospital, Fukuoka, Japan.
+(3)Department of Infectious diseases, Japanese Red Cross Fukuoka Hospital, 
+Fukuoka, Japan.
+(4)Center for the Study of Global Infection, Kyushu University Hospital, 
+Fukuoka, Japan.
+(5)Ricerca Clinica Co., Fukuoka, Japan.
+
+Evaluating SARS-CoV-2 viral loads in nasopharyngeal (NP) and saliva samples, 
+factors affecting viral loads, and the performance of rapid antigen testing 
+(RAT) have not been comprehensively conducted during SARS-CoV-2 Omicron 
+epidemic. This prospective study included outpatients enrolled during Omicron 
+variant period in Japan. Paired NP swab and saliva samples were collected to 
+measure viral loads by reverse transcription-quantitative polymerase chain 
+reaction (RT-qPCR). The correlation between viral loads and clinical symptoms 
+was examined. The performance of an immunochromatography-based RAT kit was also 
+assessed. A total of 153 patients tested within 3 days of symptom onset were 
+included. The mean viral load was 5.60 log10 copies/test and 3.65 log10 
+copies/test in NP and saliva samples, respectively, resulting in a significant 
+difference (P < 0.0001). Fever over 37°C (axillary temperature) and total number 
+of symptoms other than fever were identified as independent factors positively 
+correlated with the viral loads in both NP and saliva samples. RAT sensitivity 
+using NP and saliva samples was 92% and 68%, respectively, using positive 
+RT-qPCR results as the reference. The sensitivity of RAT using NP and saliva 
+samples was significantly higher in patients with fever ≥37°C and/or at least 
+one symptom than in those with fever <37°C and/or no symptoms (97% vs 83% in NP 
+swabs; 80% vs 50% in saliva). Distinct symptoms, including fever ≥37°C, may 
+reflect high Omicron variant viral loads. Rapid antigen testing, not only using 
+nasopharyngeal swabs but also using saliva, would be useful for COVID-19 
+diagnosis as point-of-care testing, particularly for symptomatic patients.
+IMPORTANCE: We examined nasopharyngeal and salivary viral loads using samples 
+collected from outpatients with SARS-CoV-2 infection during the Omicron epidemic 
+in Japan and explored the outpatient factors correlated with viral loads. In 
+addition, we evaluated the performance of an authorized rapid antigen testing 
+(RAT) kit using nasopharyngeal and saliva samples with RT-PCR testing as the 
+reference. Intriguingly, a correlation between fever and other symptoms and 
+SARS-CoV-2 viral loads in nasopharyngeal and saliva samples was observed based 
+on one COVID-19 outpatient visit. RAT sensitivity was influenced by viral loads. 
+Nevertheless, nasopharyngeal RAT is considered useful for SARS-CoV-2 
+point-of-care diagnosis. In patients with distinct symptoms, including 
+high-grade fever, salivary RAT could be a practical diagnostic tool because of 
+the higher estimated viral loads. After the Omicron epidemic, outpatients with 
+mild COVID-19 have become the main focus of diagnosis and treatment. Our study 
+provides valuable information regarding the point-of-care diagnosis of these 
+patients.
+
+DOI: 10.1128/spectrum.00932-24
+PMID: 39382283

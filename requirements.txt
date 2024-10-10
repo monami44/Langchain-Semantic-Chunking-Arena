@@ -1,0 +1,44 @@
+# Core Language Processing
+langchain
+
+# Experimental Langchain Modules
+langchain-experimental
+
+# HuggingFace Embeddings
+langchain-huggingface
+
+
+# Data Manipulation and Analysis
+pandas
+numpy>=1.26.0,<2.0.0
+
+
+# Machine Learning and Evaluation
+scikit-learn
+
+# Visualization
+matplotlib
+
+# Bioinformatics
+biopython
+
+# Web and API Requests
+requests
+
+# Git Repository Handling
+GitPython
+
+# Accessing Wikipedia Data
+wikipedia-api
+
+# Accessing SEC Filings
+secedgar
+
+# Accessing arXiv Papers
+arxiv
+
+# Testing Framework
+unittest2
+
+# Additional Utilities
+tqdm

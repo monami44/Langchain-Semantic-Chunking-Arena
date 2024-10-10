@@ -1,0 +1,161 @@
+60. J Scleroderma Relat Disord. 2024 Oct;9(3):242-247. doi: 
+10.1177/23971983241262655. Epub 2024 Aug 5.
+
+Changes in work and adequacy of financial resources during COVID-19 among people 
+with systemic sclerosis: A Scleroderma Patient-centered Intervention Network 
+study.
+
+Adams C(1)(2), Nassar EL(1)(3), Carrier ME(1), Kwakkenbos L(4)(5)(6), Henry 
+RS(1)(2), Virgili-Gervais G(1), Hu S(1), Bartlett SJ(7)(8), Fortuné C(9), 
+Gietzen A(10), Gottesman K(11), Guillot G(12), Hudson M(1)(7), Lawrie-Jones 
+A(13)(14), Lewis N(15), Malcarne V(16)(17), Mayes MD(18), Patten SB(19)(20)(21), 
+Richard M(22), Sauvé M(23)(24), Varga J(25), Welling J(26), Wojeck R(27), 
+Mouthon L(28)(29), Benedetti A(7)(8)(30)(31), Thombs BD(1)(2)(3)(7)(30); SPIN 
+Investigators.
+
+Author information:
+(1)Lady Davis Institute for Medical Research, Jewish General Hospital, Montreal, 
+QC, Canada.
+(2)Department of Psychiatry, McGill University, Montreal, QC, Canada.
+(3)Department of Psychology, McGill University, Montreal, QC, Canada.
+(4)Department of Clinical Psychology, Behavioural Science Institute, Radboud 
+University, Nijmegen, The Netherlands.
+(5)Department of IQ Health, Radboud University Medical Center, Nijmegen, The 
+Netherlands.
+(6)Centre for Mindfulness, Department of Psychiatry, Radboud University Medical 
+Center, Nijmegen, The Netherlands.
+(7)Department of Medicine, McGill University, Montreal, QC, Canada.
+(8)The Research Institute of the McGill University Health Centre, Montreal, QC, 
+Canada.
+(9)Ottawa Scleroderma Support Group, Ottawa, ON, Canada.
+(10)National Scleroderma Foundation, Tri-State Chapter, Binghamton, NY, USA.
+(11)National Scleroderma Foundation, Los Angeles, CA, USA.
+(12)Sclérodermie Québec, Montreal, QC, Canada.
+(13)Scleroderma Australia, Melton, VIC, Australia.
+(14)Scleroderma Victoria, Fitzroy, VIC, Australia.
+(15)The Scleroderma Patient-centered Intervention Network, Montreal, QC, Canada.
+(16)Department of Psychology, San Diego State University, San Diego, CA, USA.
+(17)San Diego State University and University of California, San Diego, CA, USA.
+(18)University of Texas McGovern School of Medicine, Houston, TX, USA.
+(19)Department of Community Health Sciences, University of Calgary, Calgary, AB, 
+Canada.
+(20)Hotchkiss Brain Institute, University of Calgary, Calgary, AB, Canada.
+(21)O'Brien Institute for Public Health, University of Calgary, Calgary, AB, 
+Canada.
+(22)Scleroderma Atlantic, Halifax, NS, Canada.
+(23)Scleroderma Society of Ontario, Hamilton, ON, Canada.
+(24)Scleroderma Canada, Hamilton, ON, Canada.
+(25)Division of Rheumatology, Department of Medicine, University of Michigan, 
+Ann Arbor, MI, USA.
+(26)NVLE Dutch patient organization for systemic autoimmune diseases, Utrecht, 
+The Netherlands.
+(27)The University of Rhode Island, Kingston, RI, USA.
+(28)Centre de Référence Maladies Autoimmunes Systémiques Rares d'Ile de France, 
+Service de Médecine Interne, Hôpital Cochin, Assistance Publique-Hôpitaux de 
+Paris (AP-HP), Paris, France.
+(29)APHP-CUP, Hôpital Cochin, Université de Paris, Paris, France.
+(30)Department of Epidemiology, Biostatistics, and Occupational Health, McGill 
+University, Montreal, QC, Canada.
+(31)Respiratory Epidemiology and Clinical Research Unit, McGill University 
+Health Centre, Montreal, QC, Canada.
+
+INTRODUCTION/OBJECTIVE: We investigated (1) work status changes during COVID-19, 
+(2) financial resource adequacy, (3) preferences for work requirements (e.g. 
+remote, workplace, mixed) and (4) work requirements versus preferences, among 
+people with systemic sclerosis.
+METHODS: This was a cross-sectional study of participants in the Scleroderma 
+Patient-centered Intervention Network COVID-19 Cohort, which enrolled 
+participants from the ongoing Scleroderma Patient-centered Intervention Network 
+Cohort and externally in April 2020. In August 2022, participants completed 
+questions on work status, financial well-being using the Consumer Financial 
+Protection Bureau Financial Well-Being Scale, work requirements and work 
+requirement preferences.
+RESULTS: A total of 298 participants with systemic sclerosis were included. Mean 
+age was 58.6 years (SD = 11.4). There were 101 (34%) participants working at the 
+start of the pandemic and still working in August 2022, 179 (60%) not working at 
+the start of the pandemic and still not working, 10 (3%) who stopped working 
+after April 2020 and 8 (3%) who started working. Mean financial well-being did 
+not change from April 2020 to August 2022 (difference: 0.2 points; 95% 
+confidence interval: -1.1 to 0.7). Working participants (N = 109) preferred 
+flexible work requirements (N = 34, 31%) or working entirely remotely (N = 32, 
+29%), but most were required to work entirely at a workplace (N = 35, 32%) or 
+combined workplace and remotely with a fixed schedule (N = 31, 28%).
+CONCLUSION: Work status and financial well-being did not change substantively 
+among people with systemic sclerosis during the pandemic. Flexible work policies 
+may support people with systemic sclerosis to work.
+
+© The Author(s) 2024.
+
+DOI: 10.1177/23971983241262655
+PMCID: PMC11457775
+PMID: 39381050
+
+Conflict of interest statement: The author(s) declared no potential conflicts of 
+interest with respect to the research, authorship and/or publication of this 
+article.61. Front Nucl Med. 2024 Jan 16;4:1324698. doi: 10.3389/fnume.2024.1324698. 
+eCollection 2024.
+
+An assessment of PET and CMR radiomic features for the detection of cardiac 
+sarcoidosis.
+
+Mushari NA(1), Soultanidis G(2), Duff L(1)(3), Trivieri MG(2)(4), Fayad ZA(2), 
+Robson P(2), Tsoumpas C(1)(2)(5).
+
+Author information:
+(1)Leeds Institute of Cardiovascular and Metabolic Medicine, University of 
+Leeds, Leeds, United Kingdom.
+(2)BioMedical Engineering and Imaging Institute, Icahn School of Medicine at 
+Mount Sinai, New York, NY, United States.
+(3)Beatson Institute for Cancer Research, University of Glasgow, Glasgow, United 
+Kingdom.
+(4)Cardiovascular Research Institute, Icahn School of Medicine at Mount Sinai, 
+New York, NY, United States.
+(5)Department of Nuclear Medicine and Molecular Imaging, University Medical 
+Centre Groningen, University of Groningen, Groningen, Netherlands.
+
+BACKGROUND: Visual interpretation of PET and CMR may fail to identify cardiac 
+sarcoidosis (CS) with high specificity. This study aimed to evaluate the role of 
+[18F]FDG PET and late gadolinium enhancement (LGE)-CMR radiomic features in 
+differentiating CS from another cause of myocardial inflammation, in this case 
+patients with cardiac-related clinical symptoms following COVID-19.
+METHODS: [18F]FDG PET and LGE-CMR were treated separately in this work. There 
+were 35 post-COVID-19 (PC) and 40 CS datasets. Regions of interest were 
+delineated manually around the entire left ventricle for the PET and LGE-CMR 
+datasets. Radiomic features were then extracted. The ability of individual 
+features to correctly identify image data as CS or PC was tested to predict the 
+clinical classification of CS vs. PC using Mann-Whitney U-tests and logistic 
+regression. Features were retained if the P-value was <0.00053, the AUC was 
+>0.5, and the accuracy was >0.7. After applying the correlation test, 
+uncorrelated features were used as a signature (joint features) to train machine 
+learning classifiers. For LGE-CMR analysis, to further improve the results, 
+different classifiers were used for individual features besides logistic 
+regression, and the results of individual features of each classifier were 
+screened to create a signature that included all features that followed the 
+previously mentioned criteria and used it them as input for machine learning 
+classifiers.
+RESULTS: The Mann-Whitney U-tests and logistic regression were trained on 
+individual features to build a collection of features. For [18F]FDG PET 
+analysis, the maximum target-to-background ratio (TBRmax ) showed a high area 
+under the curve (AUC) and accuracy with small P-values (<0.00053), but the 
+signature performed better (AUC 0.98 and accuracy 0.91). For LGE-CMR analysis, 
+the Gray Level Dependence Matrix (gldm)-Dependence Non-Uniformity showed good 
+results with small error bars (accuracy 0.75 and AUC 0.87). However, by applying 
+a Support Vector Machine classifier to individual LGE-CMR features and creating 
+a signature, a Random Forest classifier displayed better AUC and accuracy (0.91 
+and 0.84, respectively).
+CONCLUSION: Using radiomic features may prove useful in identifying individuals 
+with CS. Some features showed promising results in differentiating between PC 
+and CS. By automating the analysis, the patient management process can be 
+accelerated and improved.
+
+© 2024 Mushari, Soultanidis, Duff, Trivieri, Fayad, Robson and Tsoumpas.
+
+DOI: 10.3389/fnume.2024.1324698
+PMCID: PMC11460291
+PMID: 39381033
+
+Conflict of interest statement: The authors declare that the research was 
+conducted in the absence of any commercial or financial relationships that could 
+be construed as a potential conflict of interest. The authors declared that they 
+were editorial board members of Frontiers at the time of submission. This had no 
+impact on the peer review process or the final decision.

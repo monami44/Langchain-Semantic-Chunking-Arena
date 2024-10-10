@@ -1,0 +1,91 @@
+18. Indian J Med Res. 2024 Jun;159(6):689-694. doi: 10.25259/IJMR_252_23.
+
+Phylo-geo haplotype network-based characterization of SARS-CoV-2 strains 
+circulating in India (2020-2022).
+
+Potdar VA(1), Laxmivandana R(1)(2), Walimbe AM(2), Jadhav SK(2), Pawar P(1), 
+Kaledhonkar A(1), Gupta N(3), Kaur H(4), Narayan J(4), Yadav PD(5), Abraham 
+P(1)(6), Cherian S(2); Team VRDL; Team VRDL (Virus Research Diagnostic 
+Laboratory).
+
+Collaborators: Majumdar T(7), G S(8), Biswas D(9), Baijayantimala(10), Singh 
+M(11), Krishnasamy K(12), Khatua S(13), Pal S(14), Borkakoty B(15), Verma 
+RK(16), Rawat V(17), D T V(18), Singh R K M(19), Devi S(20), Barde P(21), 
+Malhotra B(22), Gupta P(23), Malhotra B(24), Dutta S(25), Jain A(26), Singh 
+DV(27), Shastri J(28), Dar L(29), Bakshi R(30), P V(31), Bhargava A(32), Kumar 
+M(33), Gill PS(34), K N(35), B Khyriem A(36), Verma S(37), Kumar S(38), Farhana 
+A(39), Fomda B(40), Mullan S(41), S L(42), Kalawat U(43).
+
+Author information:
+(1)National Influenza Centre, ICMR-National Institute of Virology, Pune, India.
+(2)Bioinformatics Group, ICMR-National Institute of Virology, Pune, India.
+(3)Department of Communicable Diseases, Indian Council of Medical Research, New 
+Delhi, India.
+(4)Department of Health Research, Ministry of Health & Family Welfare, 
+Government of India, New Delhi, India.
+(5)Maximum Containment Facility, ICMR-National Institute of Virology, Pune, 
+India.
+(6)Department of Clinical Virology, Christian Medical College, Vellore, India.
+(7)Government Medical College, Agartala.
+(8)Bangalore Medical College and Research Institute, Bengaluru.
+(9)All India Institute of Medical Sciences, Bhopal.
+(10)All India Institute of Medical Sciences, Bhubaneswar.
+(11)Post-graduate Institute of Medical Research, Chandigarh.
+(12)King Institute of Preventive Medicine & Research, Chennai.
+(13)SCB Medical College and Hospital, Cuttack.
+(14)Government Doon Medical College, Dehradun.
+(15)Regional Medical Research Centre, Dibrugarh.
+(16)Uttar Pradesh University of Medical Sciences, Etawah.
+(17)Government Medical College, Haldwani.
+(18)Hassan Institute of Medical Sciences, Hassan.
+(19)Jawaharlal Nehru Institute of Medical Sciences, Imphal.
+(20)Regional Institute of Medical Sciences, Imphal.
+(21)ICMR-National Institute of Research in Tribal Health, Jabalpur.
+(22)SMS Medical College, Jaipur.
+(23)MGM Medical College Hospital, Jamshedpur.
+(24)Dr. Sampurnanand Medical College, Jodhpur.
+(25)ICMR-National Institute of Cholera and Enteric Diseases, Kolkata.
+(26)King George Medical University, Lucknow.
+(27)Shri Lal Bahadur Shastri Government Medical College & Hospital, Mandi.
+(28)Kasturba Hospital for Infectious Diseases, Mumbai.
+(29)All India Institute of Medical Sciences, New Delhi.
+(30)Government Medical College, Patiala.
+(31)ICMR-Regional Medical College, Port Blair.
+(32)All India Institute of Medical Sciences, Raipur.
+(33)Rajendra Institute of Medical Sciences, Ranchi.
+(34)Pandit Bhagwat Dayal Sharma Post-Graduate Institute of Medical Sciences, 
+Rohtak.
+(35)Gandhi Medical College, Secunderabad.
+(36)Northeastern Indira Gandhi Regional Institute of Health & Medical Sciences, 
+Shillong.
+(37)Indira Gandhi Medical College & Hospital, Shimla.
+(38)Bhagat Phool Singh Government Medical College, Sonepat.
+(39)Government Medical College, Srinagar.
+(40)Sher-i-Kashmir Institute of Medical Sciences, Srinagar.
+(41)Government Medical College, Surat.
+(42)Government Theni Medical College, Theni.
+(43)Sri Venkateshwara Institute of Medical Sciences, Tirupati.
+
+Background & objectives Genetic analysis of severe acute respiratory syndrome 
+coronavirus-2 (SARS-CoV-2) strains circulating in India during 2020-2022 was 
+carried out to understand the evolution of potentially expanding and divergent 
+clades. Methods SARS-CoV-2 sequences (n=612) randomly selected from among the 
+sequences of samples collected through a nationwide network of Virus Research 
+Diagnostic Laboratories during 2020 (n=1532) and Indian sequences available in 
+Global Initiative on Sharing All Influenza Data during March 2020-March 2022 
+(n=53077), were analyzed using the phylo-geo haplotype network approach with 
+reference to the Wuhan prototype sequence. Results On haplotype analysis, 420 
+haplotypes were revealed from 643 segregating sites among the sequences. 
+Haplotype sharing was noted among the strains from different geographical 
+regions. Nevertheless, the genetic distance among the viral haplotypes from 
+different clades could differentiate the strains into distinct haplo groups 
+regarding variant emergence. Interpretation & conclusions The haplotype analysis 
+revealed that the G and GR clades were co-evolved and an epicentrefor the 
+evolution of the GH, GK and GRA clades. GH was more frequently identified in 
+northern parts of India than in other parts, whereas GK was detected less in 
+north India than in other parts. Thus, the network analysis facilitated a 
+detailed illustration of the pathways of evolution and circulation of SARS-CoV-2 
+variants.
+
+DOI: 10.25259/IJMR_252_23
+PMID: 39382457 [Indexed for MEDLINE]

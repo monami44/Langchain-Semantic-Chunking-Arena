@@ -1,0 +1,10 @@
+We propose a clustering-based iterative algorithm to solve certain
+optimization problems in machine learning, where we start the algorithm by
+aggregating the original data, solving the problem on aggregated data, and then
+in subsequent steps gradually disaggregate the aggregated data. We apply the
+algorithm to common machine learning problems such as the least absolute
+deviation regression problem, support vector machines, and semi-supervised
+support vector machines. We derive model-specific data aggregation and
+disaggregation procedures. We also show optimality, convergence, and the
+optimality gap of the approximated solution in each iteration. A computational
+study is provided.

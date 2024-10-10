@@ -1,0 +1,37 @@
+14. Mikrochim Acta. 2024 Oct 9;191(11):657. doi: 10.1007/s00604-024-06697-3.
+
+Au@Pt nanoparticles-based signal-enhanced lateral flow immunoassay for 
+ultrasensitive naked-eye detection of SARS-CoV-2.
+
+Li X(1), Li H(1), Zhu JY(1), Yu D(1), Abulaiti T(2), Zeng J(1), Wen CY(3).
+
+Author information:
+(1)College of Chemistry and Chemical Engineering, China University of Petroleum 
+(East China), Qingdao, 266580, PR China.
+(2)Petrochina Urumqi Petrochemical Quality Inspection Center, Urumqi, 830019, PR 
+China.
+(3)College of Chemistry and Chemical Engineering, China University of Petroleum 
+(East China), Qingdao, 266580, PR China. flcyxt@163.com.
+
+With SARS-CoV-2 N protein as a model target, a signal-enhanced LFIA based on 
+Au@Pt nanoparticles (NPs) as labels is proposed. This Au@Pt NPs combined the 
+distinguished localized surface plasma resonance (LSPR) effect of Au NPs and the 
+ultrahigh peroxidase-like catalytic activity of Pt NPs. Au@Pt NPs could trigger 
+substrate chromogenic reaction, generating a color signal orders of magnitude 
+darker than their intrinsic color. In the detection, after the coloration of the 
+strips, 3,3',5,5'-tetramethylbenzidine (TMB) and H2O2 were added, and a dark 
+blue chelate (OxTMB) was produced soon, enhancing the band color significantly. 
+After the signal amplification, the naked-eye detection limit for N protein 
+reached 40 pg/mL. The detection sensitivity enhanced more than 1000 times than 
+that without signal amplification. Compared with mainstream LFIA requiring 
+complex readout instruments, the Au@Pt-based LFIA achieved a comparable 
+sensitivity using naked eyes detection. This point is crucial, especially for 
+unprofessional users or low-resource areas. Hence, this signal-enhanced LFIA may 
+serve as a sensitive, cost-effective, and user-friendly detection method. It can 
+shorten the testing window period and help identify early infections.
+
+© 2024. The Author(s), under exclusive licence to Springer-Verlag GmbH Austria, 
+part of Springer Nature.
+
+DOI: 10.1007/s00604-024-06697-3
+PMID: 39382589 [Indexed for MEDLINE]

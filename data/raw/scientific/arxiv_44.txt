@@ -1,0 +1,6 @@
+We propose methods for distributed graph-based multi-task learning that are
+based on weighted averaging of messages from other machines. Uniform averaging
+or diminishing stepsize in these methods would yield consensus (single task)
+learning. We show how simply skewing the averaging weights or controlling the
+stepsize allows learning different, but related, tasks on the different
+machines.

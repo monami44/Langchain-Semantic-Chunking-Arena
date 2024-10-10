@@ -1,0 +1,8 @@
+MM (majorization--minimization) algorithms are an increasingly popular tool
+for solving optimization problems in machine learning and statistical
+estimation. This article introduces the MM algorithm framework in general and
+via three popular example applications: Gaussian mixture regressions,
+multinomial logistic regressions, and support vector machines. Specific
+algorithms for the three examples are derived and numerical demonstrations are
+presented. Theoretical and practical aspects of MM algorithm design are
+discussed.

@@ -1,0 +1,36 @@
+91. Am J Epidemiol. 2024 Oct 8:kwae393. doi: 10.1093/aje/kwae393. Online ahead of
+ print.
+
+School-Level Data on COVID-19 Cases, Quarantines, and Student Absenteeism During 
+the COVID-19 Pandemic: Understanding Missingness.
+
+Pampati S(1)(2), Timpe Z(3), Rasberry C(1), Waller LA(2), Lopman B(2), Stuart 
+EA(4), Guest JL(2), Barrios LC(1), Jones J(2).
+
+Author information:
+(1)Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+(2)Emory University Rollins School of Public Health, Atlanta, Georgia, USA.
+(3)ICF, Atlanta, Georgia, USA.
+(4)Johns Hopkins University Bloomberg School of Public Health, Baltimore, 
+Maryland, USA.
+
+This study aims to understand availability of school-based infectious disease 
+surveillance data (e.g., COVID-19 cases, student absences) based on experiences 
+during the COVID-19 pandemic using a national sample of public K-12 schools (n = 
+1,602). Based on surveys administered to school administrators throughout the 
+2021-2022 school year, we found high levels of missingness data for school-level 
+COVID-19 cases, quarantines, and student absenteeism, increasing missingness 
+over time, and variations in missingness by school characteristics (e.g., school 
+size) and protocols (e.g., having a school-based system to report at-home 
+COVID-19 tests). For the same sample of schools, using data requests to health 
+departments, we found similarly high levels of missingness of school-level 
+COVID-19 case data and varying approaches in data collection. Developing 
+nationally standardized case definitions-and systems to surveil or collect and 
+monitor school-based infectious disease outcomes early in a public health 
+emergency-may be helpful in producing actionable data.
+
+Published by Oxford University Press on behalf of the Johns Hopkins Bloomberg 
+School of Public Health 2024.
+
+DOI: 10.1093/aje/kwae393
+PMID: 39380142

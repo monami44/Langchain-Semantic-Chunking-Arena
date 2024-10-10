@@ -1,0 +1,6 @@
+Transparent machine learning is introduced as an alternative form of machine
+learning, where both the model and the learning system are represented in
+source code form. The goal of this project is to enable direct human
+understanding of machine learning models, giving us the ability to learn,
+verify, and refine them as programs. If solved, this technology could represent
+a best-case scenario for the safety and security of AI systems going forward.

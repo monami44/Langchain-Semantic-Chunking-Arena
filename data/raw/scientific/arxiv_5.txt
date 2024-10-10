@@ -1,0 +1,3 @@
+Introduction to Machine learning covering Statistical Inference (Bayes, EM,
+ML/MaxEnt duality), algebraic and spectral methods (PCA, LDA, CCA, Clustering),
+and PAC learning (the Formal model, VC dimension, Double Sampling theorem).

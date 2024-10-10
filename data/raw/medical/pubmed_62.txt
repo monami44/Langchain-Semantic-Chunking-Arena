@@ -1,0 +1,53 @@
+64. Adv Virol. 2024 Sep 30;2024:3418062. doi: 10.1155/2024/3418062. eCollection 
+2024.
+
+In Silico Design of a Trans-Amplifying RNA-Based Vaccine against SARS-CoV-2 
+Structural Proteins.
+
+Nafian F(1), Soleymani G(2), Pourmanouchehri Z(3), Kiyanjam M(4), Nafian S(5), 
+Mohammadi SM(6), Jeyroudi H(4), Berenji Jalaei S(7), Sabzpoushan F(4).
+
+Author information:
+(1)Department of Medical Laboratory Sciences Faculty of Paramedics Tehran 
+Medical Sciences Islamic Azad University, Tehran, Iran.
+(2)Department of Biological Sciences Virginia Polytechnic Institute and State 
+University, Blacksburg, Virginia, USA.
+(3)Department of Biology Technical University of Kaiserslautern, Kaiserslautern 
+Technical University of Kaiserslautern, Kaiserslautern, Germany.
+(4)Department of Cellular and Molecular Biology Faculty of Advanced Sciences and 
+Technology Tehran Medical Sciences Islamic Azad University, Tehran, Iran.
+(5)Department of Stem Cell and Regenerative Medicine National Institute of 
+Genetic Engineering and Biotechnology (NIGEB), Tehran, Iran.
+(6)Department of Biotechnology Faculty of Converging Sciences and Technologies 
+Science and Research Branch Islamic Azad University, Tehran, Iran.
+(7)Department of Biochemistry Faculty of Converging Sciences and Technologies 
+Science and Research Branch Islamic Azad University, Tehran, Iran.
+
+Nucleic acid-based vaccines allow scalable, rapid, and cell-free vaccine 
+production in response to an emerging disease such as the current COVID-19 
+pandemic. Here, we objected to the design of a multiepitope mRNA vaccine against 
+the structural proteins of SARS-CoV-2. Through an immunoinformatic approach, 
+promising epitopes were predicted for the spike (S), envelope (E), membrane (M), 
+and nucleocapsid (N) proteins. Fragments rich in overlapping epitopes were 
+selected based on binding affinities with HLA classes I and II for the specific 
+presentation to B and T lymphocytes. Two constructs were designed by fusing the 
+fragments in different arrangements via GG linkers. Construct 1 showed better 
+structural properties and interactions with toll-like receptor 2 (TLR-2), TLR-3, 
+and TLR-4 during molecular docking and dynamic simulation. A 50S ribosomal 
+L7/L12 adjuvant was added to its N-terminus to improve stability and 
+immunogenicity. The final RNA sequence was used to design a trans-amplifying RNA 
+(taRNA) vaccine in a split-vector system. It consists of two molecules: a 
+nonreplicating RNA encoding a trans-acting replicase to amplify the second one, 
+a trans-replicon (TR) RNA encoding the vaccine protein. Overall, the immune 
+response simulation detected that activated B and T lymphocytes and increased 
+memory cell formation. Macrophages and dendritic cells proliferated 
+continuously, and IFN-γ and cytokines like IL-2 were released highly.
+
+Copyright © 2024 Fatemeh Nafian et al.
+
+DOI: 10.1155/2024/3418062
+PMCID: PMC11459942
+PMID: 39380944
+
+Conflict of interest statement: All authors declare that they have no conflicts 
+of interest regarding the present study.

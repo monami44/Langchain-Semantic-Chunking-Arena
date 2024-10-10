@@ -1,0 +1,12 @@
+{
+  "source": "pubmed",
+  "unique_id": "12f70cac",
+  "file_name": "pubmed_6.txt",
+  "process_order": 40,
+  "num_chunks": 3,
+  "chunk_sizes": [
+    69,
+    219,
+    1487
+  ]
+}

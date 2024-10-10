@@ -1,0 +1,47 @@
+10. Mol Divers. 2024 Oct 9. doi: 10.1007/s11030-024-10993-8. Online ahead of
+print.
+
+Taiwan Chingguan Yihau may improve post-COVID-19 respiratory complications 
+through PI3K/AKT, HIF-1, and TNF signaling pathways revealed by network 
+pharmacology analysis.
+
+Huynh DTN(1)(2), Nguyen HT(3), Hsieh CM(4).
+
+Author information:
+(1)College of Pharmacy, Taipei Medical University, Taipei, 11031, Taiwan.
+(2)Can Tho University of Medicine and Pharmacy, Can Tho City, 94117, Vietnam.
+(3)Department of Nutrition and Food Safety, Faculty of Public Health, Can Tho 
+University of Medicine and Pharmacy, Can Tho City, 94117, Vietnam.
+(4)College of Pharmacy, Taipei Medical University, Taipei, 11031, Taiwan. 
+cmhsieh@tmu.edu.tw.
+
+The emergence of new SARS-CoV-2 variants with a higher contagious capability and 
+faster transmissible speed has imposed an incessant menace on global health and 
+the economy. The SARS-CoV-2 infection might reoccur and last much longer than 
+expected. Thence, there is a high possibility that COVID-19 can cause long-term 
+health problems. This condition needs to be investigated thoroughly, especially 
+the post-COVID-19 complications. Respiratory tract disorders are common and 
+typical complications after recovery. Until now, there has been a lack of data 
+on specialized therapeutic medicine for post-COVID-19 complications. The 
+clinical efficacy of NRICM101 has been demonstrated in hospitalized COVID-19 
+patients. This herbal medicine may also be a promising therapy for post-COVID-19 
+complications, thanks to its phytochemical constituents. The potential 
+pharmacological mechanisms of NRICM101 in treating post-COVID-19 respiratory 
+complications were investigated using network pharmacology combined with 
+molecular docking, and the results revealed that NRICM101 may exert a beneficial 
+effect through the three primary pathways: PI3K/AKT, HIF-1, and TNF signaling 
+pathways. Flavonoids (especially quercetin) have a predominant role and 
+synergize with other active compounds to produce therapeutic effectiveness. Most 
+of the main active compounds exist in three chief herbal ingredients, including 
+Liquorice root (Glycyrrhiza glabra), Scutellaria root (Scutellaria baicalensis), 
+and Mulberry leaf (Morus alba). To our knowledge, this is the first study of the 
+NRICM101 effect on post-COVID-19 respiratory complications. Our findings may 
+provide a better understanding of the potential mechanisms of NRICM101 in 
+treating SARS-CoV-2 infection and regulating the immunoinflammatory response to 
+improve post-COVID-19 respiratory complications.
+
+© 2024. The Author(s), under exclusive licence to Springer Nature Switzerland 
+AG.
+
+DOI: 10.1007/s11030-024-10993-8
+PMID: 39382736

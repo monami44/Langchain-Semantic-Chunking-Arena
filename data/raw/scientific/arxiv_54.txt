@@ -1,0 +1,9 @@
+As machine learning has become increasingly popular over the last few
+decades, so too has the number of machine learning interfaces for implementing
+these models. Whilst many R libraries exist for machine learning, very few
+offer extended support for survival analysis. This is problematic considering
+its importance in fields like medicine, bioinformatics, economics, engineering,
+and more. mlr3proba provides a comprehensive machine learning interface for
+survival analysis and connects with mlr3's general model tuning and
+benchmarking facilities to provide a systematic infrastructure for survival
+modeling and evaluation.

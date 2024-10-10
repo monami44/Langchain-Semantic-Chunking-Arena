@@ -1,0 +1,57 @@
+94. Arch Public Health. 2024 Oct 8;82(1):177. doi: 10.1186/s13690-024-01400-7.
+
+Strengthening crisis resilience in German primary care by using quality 
+indicators: findings of a process evaluation in the RESILARE project.
+
+Poß-Doering R(1), Koetsenruijter J(2), Litke NA(2), Weis A(3), Köppen M(4), 
+Kümmel S(4), Szecsenyi J(2)(4), Wensing M(2).
+
+Author information:
+(1)Department of General Practice and Health Services Research, University 
+Hospital Heidelberg, University Heidelberg, Im Neuenheimer Feld 130.3, 69120, 
+Heidelberg, Germany. regina.poss-doering@med.uni-heidelberg.de.
+(2)Department of General Practice and Health Services Research, University 
+Hospital Heidelberg, University Heidelberg, Im Neuenheimer Feld 130.3, 69120, 
+Heidelberg, Germany.
+(3)Section for Translational Medical Ethics, National Center for Tumor Diseases 
+(NCT) Heidelberg, Heidelberg, Germany.
+(4)aQua Institute, Göttingen, Germany.
+
+BACKGROUND: In recent years, health systems worldwide have been confronted with 
+several crises such as natural disasters or the COVID-19 pandemic, that affected 
+lives and health of many people. In light of waves of infections and heat, 
+climate change is considered to be the biggest health threat of the 21st 
+century. Strengthening individual and organizational crisis resilience in 
+healthcare settings thus becomes a crucial factor in maintaining care quality 
+and protecting vulnerable patients during such crises. The RESILARE project 
+therefore aimed to develop and evaluate quality indicators that support primary 
+care practices in preparing for and adapting to crisis-related challenges.
+METHODS: In a three-phased process, indicator development was based on 
+systematic literature research and qualitative data, a two-stage expert panel 
+process, and pilot testing in a maximum of n = 35 ambulatory practices during an 
+outreach visit. Practice-individual indicator-related status and benchmarking 
+information were provided via feedback reports to complete the audit and 
+feedback program. A mixed-methods process evaluation used semistructured 
+interviews with participating General practitioners and nonphysician health 
+professionals to explore support and challenges for the implementation of the 
+derived set of quality indicators. Two online surveys were conducted to evaluate 
+all indicators and the two-part feedback report. Qualitative data were analyzed 
+inductively using a thematic analysis approach. Survey data were analyzed 
+descriptively.
+RESULTS: A total of n = 32 indicators covered four domains: (1) individual 
+resilience, (2) crisis prevention, (3) organizational resilience, and (4) 
+climate resilience. N = 34 practices participated in the piloting and the 
+process evaluation. Participants generally attributed a high relevance to the 
+domains, and considered the indicator set suitable for implementation into 
+existing quality management systems. Planning and implementation of measures 
+that strengthen crisis resilience in practices were triggered or intensified by 
+piloting the indicators and by the two-part feedback report. The identified 
+challenges involved the volume of indicators and practice-individual 
+implementation of renewable energy sources on rented premises. Participants 
+expressed their desire for peer exchange regarding proven concepts for crisis 
+resilience.
+
+© 2024. The Author(s).
+
+DOI: 10.1186/s13690-024-01400-7
+PMID: 39380089
