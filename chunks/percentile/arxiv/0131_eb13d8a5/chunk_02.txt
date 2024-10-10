@@ -1,1 +1,0 @@
-We propose 2 directions to approach mechanical learning, just like ChurchTuring pair one is trying to realize a learning machine, another is trying to well describe the mechanical learning.

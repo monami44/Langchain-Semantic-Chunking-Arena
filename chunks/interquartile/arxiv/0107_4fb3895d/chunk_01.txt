@@ -1,1 +1,0 @@
-Traditional machine learning algorithms use data from databases that are mutable, and therefore the data cannot be fully trusted.

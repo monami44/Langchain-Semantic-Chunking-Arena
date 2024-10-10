@@ -1,1 +1,0 @@
-The research results have shown significant improvement in runtime and efficiency of parallelized machine learning algorithms.

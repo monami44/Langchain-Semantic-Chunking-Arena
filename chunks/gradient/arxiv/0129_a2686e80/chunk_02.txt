@@ -1,1 +1,0 @@
-We expect that this curriculum and set of use cases motivates the community to adopt these important concepts into courses for safety in AI.

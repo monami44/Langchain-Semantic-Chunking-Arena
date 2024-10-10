@@ -1,1 +1,0 @@
-In complement to this article, a Python library has been developed. Different opensource Machine Learning algorithms have been adjusted to adapt the specificities of life insurance data, namely censoring and truncation. Such models can be easily applied from this SCOR library to accurately model life insurance risks.

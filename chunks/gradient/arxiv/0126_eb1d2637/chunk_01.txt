@@ -1,1 +1,0 @@
-Although the use of active learning to increase learners engagement has recently been introduced in a variety of methods, empirical experiments are lacking.

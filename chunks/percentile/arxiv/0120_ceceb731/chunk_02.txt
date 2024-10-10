@@ -1,1 +1,0 @@
-Our radical proposal is that supervised learning appears to be the only machine learning method that is ethically defensible.

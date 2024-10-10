@@ -1,1 +1,0 @@
-11. Digit Health. 2024 Oct 71020552076241284773. doi 10.117720552076241284773. eCollection 2024 JanDec. Utilizing deep learning models for ternary classification in COVID19 infodemic detection. Luo J12, El Baz D3, Shi L4.

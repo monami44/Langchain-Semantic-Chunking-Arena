@@ -1,1 +1,0 @@
-A Machine can only learn if it is biased in some way. Typically the bias is supplied by hand, for example through the choice of an appropriate set of features.

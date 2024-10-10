@@ -1,1 +1,0 @@
-This paper provides a first study of utilizing energy harvesting for sustainable machine learning in distributed networks.

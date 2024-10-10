@@ -1,1 +1,0 @@
-The quantum dynamic equation QDE of machine learning is obtained based on Schrodinger equation and potential energy equivalence relationship.
