@@ -1,0 +1,1 @@
+Machine learning is disruptive. At the same time, machine learning can only succeed by collaboration among many parties in multiple steps naturally as pipelines in an ecosystem, such as collecting data for possible machine learning applications, collaboratively training models by multiple parties and delivering machine learning services to end users.

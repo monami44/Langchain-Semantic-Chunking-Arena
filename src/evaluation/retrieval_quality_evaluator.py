@@ -7,6 +7,8 @@ import numpy as np
 from typing import List, Dict
 from langchain_huggingface import HuggingFaceEmbeddings
 from sentence_transformers import SentenceTransformer
+import matplotlib.pyplot as plt
+import json
 
 # Configure Logging
 logging.basicConfig(
@@ -187,3 +189,41 @@ def cosine_similarity(query_embedding: np.ndarray, chunk_embeddings: np.ndarray)
     chunks_norm = np.linalg.norm(chunk_embeddings, axis=1)
     similarity = np.dot(chunk_embeddings, query_embedding) / (chunks_norm * query_norm + 1e-10)
     return similarity
+
+def plot_retrieval_quality_metrics(retrieval_metrics_file: str):
+    print("Starting plot_retrieval_quality_metrics function")
+    try:
+        with open(retrieval_metrics_file, 'r') as f:
+            retrieval_metrics = json.load(f)
+
+        methods = list(retrieval_metrics.keys())
+        domains = list(retrieval_metrics[methods[0]].keys())
+        metrics = ['precision', 'recall', 'f1_score', 'average_precision', 'ndcg']
+
+        fig, axs = plt.subplots(len(domains), 1, figsize=(12, 6*len(domains)))
+        fig.suptitle('Retrieval Quality Metrics Comparison')
+
+        for i, domain in enumerate(domains):
+            ax = axs[i] if len(domains) > 1 else axs
+            x = range(len(methods))
+            width = 0.15
+            
+            for j, metric in enumerate(metrics):
+                values = [retrieval_metrics[method][domain][metric] for method in methods]
+                ax.bar([xi + j*width for xi in x], values, width, label=metric)
+
+            ax.set_ylabel('Score')
+            ax.set_title(f'{domain.capitalize()} Domain')
+            ax.set_xticks([xi + width*2 for xi in x])
+            ax.set_xticklabels(methods)
+            ax.legend()
+
+        plt.tight_layout()
+        plt.savefig('results/retrieval_quality_comparison.png')
+        print("Retrieval quality metrics plot saved as 'results/retrieval_quality_comparison.png'")
+    except Exception as e:
+        print(f"Error in plotting retrieval quality metrics: {e}")
+        logger.error(f"Error in plotting retrieval quality metrics: {e}")
+
+
+

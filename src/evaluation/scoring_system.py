@@ -5,6 +5,7 @@ import statistics
 import os
 import json
 from typing import Dict
+import matplotlib.pyplot as plt
 
 # Configure Logging
 logging.basicConfig(
@@ -106,3 +107,37 @@ def calculate_retrieval_score(retrieval_metrics: Dict[str, float]) -> float:
         logger.error(f"Error in calculating retrieval score: {e}")
         print(f"Error in calculate_retrieval_score: {e}")
         return 0
+
+def plot_scores(scores_file: str):
+    print("Starting plot_scores function")
+    try:
+        with open(scores_file, 'r') as f:
+            scores = json.load(f)
+
+        methods = list(scores.keys())
+        domains = list(scores[methods[0]].keys())
+
+        fig, ax = plt.subplots(figsize=(10, 6))
+        bar_width = 0.35
+        index = range(len(methods))
+
+        for i, domain in enumerate(domains):
+            domain_scores = [scores[method][domain] for method in methods]
+            ax.bar([x + i*bar_width for x in index], domain_scores, bar_width, 
+                   label=domain.capitalize(), alpha=0.8)
+
+        ax.set_xlabel('Methods')
+        ax.set_ylabel('Scores')
+        ax.set_title('Comparison of Scores Across Methods and Domains')
+        ax.set_xticks([x + bar_width/2 for x in index])
+        ax.set_xticklabels(methods)
+        ax.legend()
+
+        plt.tight_layout()
+        plt.savefig('results/scores_comparison.png')
+        print("Scores plot saved as 'results/scores_comparison.png'")
+    except Exception as e:
+        print(f"Error in plotting scores: {e}")
+        logger.error(f"Error in plotting scores: {e}")
+
+

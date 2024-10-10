@@ -3,9 +3,9 @@
 import logging
 from utils import download_all_datasets, load_datasets, save_results
 from utils.preprocessor import process_and_store_datasets
-from evaluation.retrieval_quality_evaluator import evaluate_retrieval_quality
+from evaluation.retrieval_quality_evaluator import evaluate_retrieval_quality,plot_retrieval_quality_metrics
 from evaluation.chunk_size_evaluator import evaluate_chunk_sizes
-from evaluation.scoring_system import calculate_scores
+from evaluation.scoring_system import calculate_scores, plot_scores
 from utils.ground_truth_creator import create_ground_truths
 from chunking_methods import PercentileChunker, StdDeviationChunker, InterquartileChunker, GradientChunker
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -224,6 +224,16 @@ def main():
         print("Saving results...")
         save_results(chunk_size_metrics, retrieval_metrics, scores)
         print("Results saved successfully.")
+
+        # Plot Retrieval Quality Metrics
+        print("Plotting retrieval quality metrics...")
+        plot_retrieval_quality_metrics('results/retrieval_quality_metrics.json')
+        print("Retrieval quality metrics plot saved.")
+
+        # Plot Scores
+        print("Plotting scores...")
+        plot_scores('results/scores.json')
+        print("Scores plot saved.")
 
         logger.info("Completed Langchain Semantic Chunking Benchmark successfully.")
         print("Completed Langchain Semantic Chunking Benchmark successfully.")
