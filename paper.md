@@ -96,7 +96,7 @@ A weighted scoring system was used to rank the chunking methods:
 
 The chunk size metrics for each method are presented below.
 
-![Chunk Size Metrics for arXiv Dataset | Percentile Chunker](/results/percentile_arxiv_distribution.png)
+![Chunk Size Metrics for arXiv Dataset | Percentile Chunker](results/percentile_arxiv_distribution.png)
 
 ![Chunk Size Metrics for PubMed Dataset | Percentile Chunker](results/percentile_pubmed_distribution.png)
 

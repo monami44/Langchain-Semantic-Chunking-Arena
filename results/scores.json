@@ -1,0 +1,18 @@
+{
+    "gradient": {
+        "arxiv": 42.82,
+        "pubmed": 33.33
+    },
+    "interquartile": {
+        "arxiv": 43.54,
+        "pubmed": 36.94
+    },
+    "std_deviation": {
+        "arxiv": 44.27,
+        "pubmed": 40.02
+    },
+    "percentile": {
+        "arxiv": 42.45,
+        "pubmed": 38.18
+    }
+}
