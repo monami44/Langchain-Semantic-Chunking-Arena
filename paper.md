@@ -319,21 +319,21 @@ Where:
 
 - **Precision**: The ratio of relevant instances among the retrieved instances.
 
-  $$
-  \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
-  $$
+$$
+\text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
+$$
 
 - **Recall**: The ratio of relevant instances that were retrieved over all relevant instances.
 
-  $$
-  \text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
-  $$
+$$
+\text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
+$$
 
 - **F1-Score**: The harmonic mean of precision and recall.
 
-  $$
-  \text{F1-Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-  $$
+$$
+\text{F1-Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
+$$
 
 **Average Precision (AP)**:
 
