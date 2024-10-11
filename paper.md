@@ -96,7 +96,7 @@ A weighted scoring system was used to rank the chunking methods:
 
 The chunk size metrics for each method are presented below.
 
-![Chunk Size Metrics for arXiv Dataset | Percentile Chunker](results/percentile_arxiv_distribution.png)
+![Chunk Size Metrics for arXiv Dataset | Percentile Chunker](/Users/maksymliamin/Desktop/Work/langchain_eval/results/percentile_arxiv_distribution.png)
 
 ![Chunk Size Metrics for PubMed Dataset | Percentile Chunker](results/percentile_pubmed_distribution.png)
 
@@ -250,7 +250,7 @@ The chunk size metrics for each method are presented below.
 - Average Precision: 76.18%
 - NDCG: 77.84%
 
-![Retrieval Quality Metrics Comparison](results/retrieval_quality_metrics.json)
+![Retrieval Quality Metrics Comparison](results/retrieval_quality_metrics.png)
 
 
 ### Final Scores
@@ -275,7 +275,7 @@ The final scores, combining size and retrieval metrics, are as follows:
 | **Interquartile**      | **36.94** |
 | **Gradient**           | **33.33** |
 
-![Final Scores](results/scores.json)
+![Final Scores](results/scores.png)
 
 ### Tier Lists
 
