@@ -250,7 +250,7 @@ The chunk size metrics for each method are presented below.
 - Average Precision: 76.18%
 - NDCG: 77.84%
 
-![Retrieval Quality Metrics Comparison](results/retrieval_quality_metrics.png)
+![Retrieval Quality Metrics Comparison](results/retrieval_quality_comparison.png)
 
 
 ### Final Scores
@@ -275,7 +275,7 @@ The final scores, combining size and retrieval metrics, are as follows:
 | **Interquartile**      | **36.94** |
 | **Gradient**           | **33.33** |
 
-![Final Scores](results/scores.png)
+![Final Scores](results/scores_comparison.png)
 
 ### Tier Lists
 
