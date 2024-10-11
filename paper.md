@@ -307,33 +307,33 @@ The Gradient and Interquartile Chunkers showed competitive retrieval metrics but
 
 Cosine similarity measures the cosine of the angle between two vectors in a multi-dimensional space, providing a metric for the orientation (but not magnitude) of the vectors. It is defined as:
 
-\[
+$$
 \text{Cosine Similarity} = \frac{\mathbf{A} \cdot \mathbf{B}}{\|\mathbf{A}\| \|\mathbf{B}\|}
-\]
+$$
 
 Where:
 
-- \(\mathbf{A}\) and \(\mathbf{B}\) are vectors (embeddings) of the query and chunk text.
+- $\mathbf{A}$ and $\mathbf{B}$ are vectors (embeddings) of the query and chunk text.
 
 **Precision, Recall, and F1-Score**:
 
 - **Precision**: The ratio of relevant instances among the retrieved instances.
 
-  \[
+  $$
   \text{Precision} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Positives}}
-  \]
+  $$
 
 - **Recall**: The ratio of relevant instances that were retrieved over all relevant instances.
 
-  \[
+  $$
   \text{Recall} = \frac{\text{True Positives}}{\text{True Positives} + \text{False Negatives}}
-  \]
+  $$
 
 - **F1-Score**: The harmonic mean of precision and recall.
 
-  \[
+  $$
   \text{F1-Score} = 2 \times \frac{\text{Precision} \times \text{Recall}}{\text{Precision} + \text{Recall}}
-  \]
+  $$
 
 **Average Precision (AP)**:
 
@@ -343,14 +343,14 @@ AP summarizes the precision-recall curve, taking into account the order of retri
 
 NDCG measures ranking quality, emphasizing the importance of the position of relevant documents.
 
-\[
+$$
 \text{NDCG}_k = \frac{\text{DCG}_k}{\text{IDCG}_k}
-\]
+$$
 
 Where:
 
-- \(\text{DCG}_k\) is the discounted cumulative gain at position \(k\).
-- \(\text{IDCG}_k\) is the ideal DCG (best possible ranking).
+- $\text{DCG}_k$ is the discounted cumulative gain at position $k$.
+- $\text{IDCG}_k$ is the ideal DCG (best possible ranking).
 
 ## Conclusion
 
