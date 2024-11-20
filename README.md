@@ -99,21 +99,21 @@ A weighted scoring system was used to rank the chunking methods:
 
 #### Distribution Analysis by Domain
 
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-    <figure>
-        <img src="results/percentile_arxiv_distribution.png" alt="Machine Learning - Percentile">
+<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 10px; margin: 20px 0;">
+    <figure style="margin: 0; text-align: center; flex: 1;">
+        <img src="results/percentile_arxiv_distribution.png" alt="Machine Learning - Percentile" style="width: 100%; height: auto;">
         <figcaption>Percentile</figcaption>
     </figure>
-    <figure>
-        <img src="results/std_deviation_arxiv_distribution.png" alt="Machine Learning - Standard Deviation">
+    <figure style="margin: 0; text-align: center; flex: 1;">
+        <img src="results/std_deviation_arxiv_distribution.png" alt="Machine Learning - Standard Deviation" style="width: 100%; height: auto;">
         <figcaption>Standard Deviation</figcaption>
     </figure>
-    <figure>
-        <img src="results/interquartile_arxiv_distribution.png" alt="Machine Learning - Interquartile">
+    <figure style="margin: 0; text-align: center; flex: 1;">
+        <img src="results/interquartile_arxiv_distribution.png" alt="Machine Learning - Interquartile" style="width: 100%; height: auto;">
         <figcaption>Interquartile</figcaption>
     </figure>
-    <figure>
-        <img src="results/gradient_arxiv_distribution.png" alt="Machine Learning - Gradient">
+    <figure style="margin: 0; text-align: center; flex: 1;">
+        <img src="results/gradient_arxiv_distribution.png" alt="Machine Learning - Gradient" style="width: 100%; height: auto;">
         <figcaption>Gradient</figcaption>
     </figure>
 </div>
@@ -165,22 +165,6 @@ The comprehensive evaluation across all domains yielded the following scores:
 ![Final Scores Comparison](results/scores_comparison.png)
 
 ### Tier Lists
-
-#### arXiv Dataset (Machine Learning Abstracts)
-
-1. **Standard Deviation Chunker**
-2. **Interquartile Chunker**
-3. **Gradient Chunker**
-4. **Percentile Chunker**
-
-#### PubMed Dataset (COVID-19 Introductions)
-
-1. **Standard Deviation Chunker**
-2. **Percentile Chunker**
-3. **Interquartile Chunker**
-4. **Gradient Chunker**
-
-### Domain-Specific Rankings
 
 #### Machine Learning Domain
 1. Standard Deviation (44.27)
