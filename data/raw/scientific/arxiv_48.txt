@@ -1,10 +1,10 @@
-Despite incredible recent advances in machine learning, building machine
-learning applications remains prohibitively time-consuming and expensive for
-all but the best-trained, best-funded engineering organizations. This expense
-comes not from a need for new and improved statistical models but instead from
-a lack of systems and tools for supporting end-to-end machine learning
-application development, from data preparation and labeling to
-productionization and monitoring. In this document, we outline opportunities
-for infrastructure supporting usable, end-to-end machine learning applications
-in the context of the nascent DAWN (Data Analytics for What's Next) project at
-Stanford.
+As machine learning systems become ubiquitous, there has been a surge of
+interest in interpretable machine learning: systems that provide explanation
+for their outputs. These explanations are often used to qualitatively assess
+other criteria such as safety or non-discrimination. However, despite the
+interest in interpretability, there is very little consensus on what
+interpretable machine learning is and how it should be measured. In this
+position paper, we first define interpretability and describe when
+interpretability is needed (and when it is not). Next, we suggest a taxonomy
+for rigorous evaluation and expose open questions towards a more rigorous
+science of interpretable machine learning.

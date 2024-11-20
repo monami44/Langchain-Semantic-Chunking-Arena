@@ -1,10 +1,7 @@
-TF.Learn is a high-level Python module for distributed machine learning
-inside TensorFlow. It provides an easy-to-use Scikit-learn style interface to
-simplify the process of creating, configuring, training, evaluating, and
-experimenting a machine learning model. TF.Learn integrates a wide range of
-state-of-art machine learning algorithms built on top of TensorFlow's low level
-APIs for small to large-scale supervised and unsupervised problems. This module
-focuses on bringing machine learning to non-specialists using a general-purpose
-high-level language as well as researchers who want to implement, benchmark,
-and compare their new methods in a structured environment. Emphasis is put on
-ease of use, performance, documentation, and API consistency.
+The prediction of epileptic seizure has always been extremely challenging in
+medical domain. However, as the development of computer technology, the
+application of machine learning introduced new ideas for seizure forecasting.
+Applying machine learning model onto the predication of epileptic seizure could
+help us obtain a better result and there have been plenty of scientists who
+have been doing such works so that there are sufficient medical data provided
+for researchers to do training of machine learning models.

@@ -1,19 +1,22 @@
 {
-    "wikipedia": {
-        "num_articles": 100
-    },
     "pubmed": {
         "email": "lyaminky2@gmail.com",
         "search_term": "COVID-19",
         "max_results": 100
     },
-    "technical_repos": [
-        "https://github.com/psf/requests.git",
-        "https://github.com/pallets/flask.git"
-    ],
-    "legal": {
-        "query": "intellectual property",
-        "max_results": 100
+    "openalex": {
+        "history": {
+            "search_query": "second world war",
+            "max_results": 100
+        },
+        "legal": {
+            "search_query": "Judicial Review in European Legal Systems",
+            "max_results": 100
+        },
+        "ecommerce": {
+            "search_query": "e-commerce OR ecommerce OR electronic commerce",
+            "max_results": 100
+        }
     },
     "arxiv": {
         "query": "machine learning",

@@ -1,0 +1,11 @@
+{
+  "source": "legal",
+  "unique_id": "8658bcc3",
+  "file_name": "openalex_72.txt",
+  "process_order": 304,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    233,
+    957
+  ]
+}

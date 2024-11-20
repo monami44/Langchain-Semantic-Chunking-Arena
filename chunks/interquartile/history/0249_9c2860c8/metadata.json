@@ -1,0 +1,12 @@
+{
+  "source": "history",
+  "unique_id": "9c2860c8",
+  "file_name": "openalex_21.txt",
+  "process_order": 249,
+  "num_chunks": 3,
+  "chunk_sizes": [
+    356,
+    338,
+    1680
+  ]
+}

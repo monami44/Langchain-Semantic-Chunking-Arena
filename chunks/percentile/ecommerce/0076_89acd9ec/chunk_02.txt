@@ -1,0 +1,1 @@
+Ads in the form of product recommendations were successfully tested on online traffic, where we observed a steady 9 lift in clickthrough rates over other ad formats in mail, as well as comparable lift in conversion rates. Following successful tests, the system was launched into production during the holiday season of 2014.

@@ -1,7 +1,9 @@
-The prediction of epileptic seizure has always been extremely challenging in
-medical domain. However, as the development of computer technology, the
-application of machine learning introduced new ideas for seizure forecasting.
-Applying machine learning model onto the predication of epileptic seizure could
-help us obtain a better result and there have been plenty of scientists who
-have been doing such works so that there are sufficient medical data provided
-for researchers to do training of machine learning models.
+Machine learning methods have had spectacular success on numerous problems.
+Here we show that a prominent class of learning algorithms - including Support
+Vector Machines (SVMs) -- have a natural interpretation in terms of ecological
+dynamics. We use these ideas to design new online SVM algorithms that exploit
+ecological invasions, and benchmark performance using the MNIST dataset. Our
+work provides a new ecological lens through which we can view statistical
+learning and opens the possibility of designing ecosystems for machine
+learning.
+  Supplemental code is found at https://github.com/owenhowell20/EcoSVM.

@@ -61,8 +61,9 @@ def chunks_exist(datasets):
         bool: True if chunks exist for all methods and datasets, False otherwise.
     """
     chunking_methods = ['gradient', 'interquartile', 'std_deviation', 'percentile']
+    valid_domains = ['pubmed', 'arxiv', 'history', 'legal', 'ecommerce']
     for method in chunking_methods:
-        for domain in datasets.keys():
+        for domain in valid_domains:
             chunk_path = f'data/chunks/{method}/{domain}'
             if not os.path.exists(chunk_path) or not os.listdir(chunk_path):
                 return False
@@ -80,7 +81,7 @@ def load_existing_chunks(datasets):
     """
     results = {}
     chunking_methods = ['Percentile', 'StdDeviation', 'Interquantile', 'Gradient']
-    valid_domains = ['medical', 'scientific']
+    valid_domains = ['pubmed', 'arxiv', 'history', 'legal', 'ecommerce']
     for method in chunking_methods:
         results[method] = {}
         for domain in valid_domains:
@@ -110,6 +111,18 @@ def save_chunks(method_name, domain, doc_id, chunks):
     with open(os.path.join(chunk_path, f'{doc_id}_chunks.json'), 'w') as f:
         json.dump(chunks, f)
 
+def check_missing_domains(base_path='data/raw/'):
+    """Check which domains are missing from the directory structure."""
+    required_domains = ['pubmed', 'arxiv', 'history', 'legal', 'ecommerce']
+    missing_domains = []
+    
+    for domain in required_domains:
+        domain_path = os.path.join(base_path, domain)
+        if not os.path.exists(domain_path) or not os.listdir(domain_path):
+            missing_domains.append(domain)
+    
+    return missing_domains
+
 def main():
     try:
         # Configure logging for main
@@ -127,24 +140,35 @@ def main():
         config = load_configuration()
         print(f"Configuration loaded: {config}")
 
-        # Check if raw datasets exist
-        raw_data_path = 'data/raw/'
-        if not os.path.exists(raw_data_path) or not os.listdir(raw_data_path):
-            # Download datasets
-            print("Downloading datasets...")
-            download_all_datasets(config)
-            print("Datasets downloaded successfully.")
+        # Check for missing domains in raw data
+        missing_raw_domains = check_missing_domains('data/raw/')
+        if missing_raw_domains:
+            print(f"Missing raw datasets for domains: {missing_raw_domains}")
+            # Create modified config with only missing domains
+            missing_config = {}
+            for domain in missing_raw_domains:
+                if domain == 'pubmed':
+                    missing_config['pubmed'] = config['pubmed']
+                elif domain == 'arxiv':
+                    missing_config['arxiv'] = config['arxiv']
+                elif domain in ['history', 'legal', 'ecommerce']:
+                    if 'openalex' not in missing_config:
+                        missing_config['openalex'] = {}
+                    missing_config['openalex'][domain] = config['openalex'][domain]
+            print("Downloading missing datasets...")
+            download_all_datasets(missing_config)
+            print("Missing datasets downloaded successfully.")
         else:
-            print("Using existing raw datasets.")
+            print("All domain datasets exist in raw data.")
 
-        # Check if processed datasets exist
-        if not os.path.exists('data/processed/') or not os.listdir('data/processed/'):
-            # Process and store datasets
-            print("Processing and storing datasets...")
+        # Check for missing domains in processed data
+        missing_processed_domains = check_missing_domains('data/processed/')
+        if missing_processed_domains:
+            print(f"Processing datasets for domains: {missing_processed_domains}")
             process_and_store_datasets()
             print("Datasets processed and stored.")
         else:
-            print("Using existing processed datasets.")
+            print("All domain datasets exist in processed data.")
 
         # Load preprocessed datasets
         print("Loading preprocessed datasets...")
@@ -197,7 +221,8 @@ def main():
                     print(f"  Processing domain: {domain}")
                     existing_chunks[method_name][domain] = []
                     for doc_id, text in documents.items():
-                        source = 'pubmed' if 'pubmed' in doc_id.lower() else 'arxiv'
+                        # Determine source based on domain and doc_id
+                        source = domain  # Use the actual domain as the source
                         chunks = chunker.split_text(text, source=source, file_name=doc_id)
                         existing_chunks[method_name][domain].extend(chunks)
                         # Save chunks to file

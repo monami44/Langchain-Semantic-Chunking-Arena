@@ -28,18 +28,23 @@ def evaluate_retrieval_quality(results: Dict[str, Dict[str, List[Dict]]],
         logger.info("Starting evaluation of retrieval quality.")
         metrics = {}
         
+        # Define all domains
+        domains = ['medical', 'scientific', 'legal', 'history', 'ecommerce']
+        
         print(f"Results keys: {results.keys()}")
         print(f"Ground truths keys: {ground_truths.keys()}")
         
-        for method, domains in results.items():
+        for method, method_results in results.items():
             print(f"Processing method: {method}")
             metrics[method] = {}
-            for domain in ['medical', 'scientific']:
-                if domain not in domains or domain not in ground_truths:
+            
+            for domain in domains:
+                if domain not in method_results or domain not in ground_truths:
                     print(f"Domain '{domain}' not found in results or ground truths for method '{method}'. Skipping.")
+                    logger.warning(f"Skipping domain '{domain}' for method '{method}' - data not found")
                     continue
 
-                chunks = domains[domain]
+                chunks = method_results[domain]
                 print(f"Processing domain: {domain}")
                 logger.info(f"Evaluating method: {method}, domain: {domain}")
                 
@@ -224,6 +229,5 @@ def plot_retrieval_quality_metrics(retrieval_metrics_file: str):
     except Exception as e:
         print(f"Error in plotting retrieval quality metrics: {e}")
         logger.error(f"Error in plotting retrieval quality metrics: {e}")
-
 
 

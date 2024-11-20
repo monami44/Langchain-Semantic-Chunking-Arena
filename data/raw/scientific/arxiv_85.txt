@@ -1,15 +1,13 @@
-Machine learning is driving development across many fields in science and
-engineering. A simple and efficient programming language could accelerate
-applications of machine learning in various fields. Currently, the programming
-languages most commonly used to develop machine learning algorithms include
-Python, MATLAB, and C/C ++. However, none of these languages well balance both
-efficiency and simplicity. The Julia language is a fast, easy-to-use, and
-open-source programming language that was originally designed for
-high-performance computing, which can well balance the efficiency and
-simplicity. This paper summarizes the related research work and developments in
-the application of the Julia language in machine learning. It first surveys the
-popular machine learning algorithms that are developed in the Julia language.
-Then, it investigates applications of the machine learning algorithms
-implemented with the Julia language. Finally, it discusses the open issues and
-the potential future directions that arise in the use of the Julia language in
-machine learning.
+Machine learning workflow development is anecdotally regarded to be an
+iterative process of trial-and-error with humans-in-the-loop. However, we are
+not aware of quantitative evidence corroborating this popular belief. A
+quantitative characterization of iteration can serve as a benchmark for machine
+learning workflow development in practice, and can aid the development of
+human-in-the-loop machine learning systems. To this end, we conduct a
+small-scale survey of the applied machine learning literature from five
+distinct application domains. We collect and distill statistics on the role of
+iteration within machine learning workflow development, and report preliminary
+trends and insights from our investigation, as a starting point towards this
+benchmark. Based on our findings, we finally describe desiderata for effective
+and versatile human-in-the-loop machine learning systems that can cater to
+users in diverse domains.

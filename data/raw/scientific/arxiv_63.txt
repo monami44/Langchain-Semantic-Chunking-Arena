@@ -1,16 +1,4 @@
-In-database machine learning has been very popular, almost being a cliche.
-However, can we do it the other way around? In this work, we say "yes" by
-applying plain old SQL to deep learning, in a sense implementing deep learning
-algorithms with SQL. Most deep learning frameworks, as well as generic machine
-learning ones, share a de facto standard of multidimensional array operations,
-underneath fancier infrastructure such as automatic differentiation. As SQL
-tables can be regarded as generalisations of (multi-dimensional) arrays, we
-have found a way to express common deep learning operations in SQL, encouraging
-a different way of thinking and thus potentially novel models. In particular,
-one of the latest trend in deep learning was the introduction of sparsity in
-the name of graph convolutional networks, whereas we take sparsity almost for
-granted in the database world. As both databases and machine learning involve
-transformation of datasets, we hope this work can inspire further works
-utilizing the large body of existing wisdom, algorithms and technologies in the
-database field to advance the state of the art in machine learning, rather than
-merely integerating machine learning into databases.
+This brief note highlights some basic concepts required toward understanding
+the evolution of machine learning and deep learning models. The note starts
+with an overview of artificial intelligence and its relationship to biological
+neuron that ultimately led to the evolution of todays intelligent models.

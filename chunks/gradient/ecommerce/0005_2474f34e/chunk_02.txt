@@ -1,0 +1,1 @@
+Based on multiple sources including transaction and search data from a major French online retailer, we describe how consumer behavior evolves during such stressful life events as COVID19. Our results support the usefulness of the multiperspective reactcopeadapt framework of constrained consumer behavior in an online environment.

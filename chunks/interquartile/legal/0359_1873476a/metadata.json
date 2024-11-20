@@ -1,0 +1,16 @@
+{
+  "source": "legal",
+  "unique_id": "1873476a",
+  "file_name": "openalex_18.txt",
+  "process_order": 359,
+  "num_chunks": 7,
+  "chunk_sizes": [
+    2000,
+    285,
+    265,
+    358,
+    480,
+    462,
+    1283
+  ]
+}

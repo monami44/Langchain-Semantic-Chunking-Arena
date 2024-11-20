@@ -1,0 +1,12 @@
+{
+  "source": "pubmed",
+  "unique_id": "d5502cbd",
+  "file_name": "pubmed_57.txt",
+  "process_order": 123,
+  "num_chunks": 3,
+  "chunk_sizes": [
+    69,
+    1915,
+    293
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "source": "pubmed",
+  "unique_id": "cbd06f38",
+  "file_name": "pubmed_28.txt",
+  "process_order": 161,
+  "num_chunks": 3,
+  "chunk_sizes": [
+    40,
+    21,
+    2554
+  ]
+}

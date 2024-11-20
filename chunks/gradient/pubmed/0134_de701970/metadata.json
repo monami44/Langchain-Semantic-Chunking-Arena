@@ -1,0 +1,12 @@
+{
+  "source": "pubmed",
+  "unique_id": "de701970",
+  "file_name": "pubmed_31.txt",
+  "process_order": 134,
+  "num_chunks": 3,
+  "chunk_sizes": [
+    23,
+    141,
+    2367
+  ]
+}

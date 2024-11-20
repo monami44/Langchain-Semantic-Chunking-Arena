@@ -6,7 +6,7 @@ authors = ["monami44 <lyaminky2@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.11"
 langchain = "0.3.3"
 langchain-experimental = "0.3.2"
 langchain-huggingface = "0.1.0"

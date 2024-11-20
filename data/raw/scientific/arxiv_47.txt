@@ -1,10 +1,8 @@
-As machine learning systems become ubiquitous, there has been a surge of
-interest in interpretable machine learning: systems that provide explanation
-for their outputs. These explanations are often used to qualitatively assess
-other criteria such as safety or non-discrimination. However, despite the
-interest in interpretability, there is very little consensus on what
-interpretable machine learning is and how it should be measured. In this
-position paper, we first define interpretability and describe when
-interpretability is needed (and when it is not). Next, we suggest a taxonomy
-for rigorous evaluation and expose open questions towards a more rigorous
-science of interpretable machine learning.
+The engineering of machine learning systems is still a nascent field; relying
+on a seemingly daunting collection of quickly evolving tools and best
+practices. It is our hope that this guidebook will serve as a useful resource
+for machine learning practitioners looking to take advantage of Bayesian
+optimization techniques. We outline four example machine learning problems that
+can be solved using open source machine learning libraries, and highlight the
+benefits of using Bayesian optimization in the context of these common machine
+learning applications.

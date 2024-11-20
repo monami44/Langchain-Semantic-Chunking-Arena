@@ -1,0 +1,11 @@
+{
+  "source": "ecommerce",
+  "unique_id": "4f4d463a",
+  "file_name": "openalex_59.txt",
+  "process_order": 29,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    276,
+    948
+  ]
+}

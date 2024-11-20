@@ -1,10 +1,10 @@
-Machine learning has more and more effect on our every day's life. This field
-keeps growing and expanding into new areas. Machine learning is based on the
-implementation of artificial intelligence that gives systems the capability to
-automatically learn and enhance from experiments without being explicitly
-programmed. Machine Learning algorithms apply mathematical equations to analyze
-datasets and predict values based on the dataset. In the field of
-cybersecurity, machine learning algorithms can be utilized to train and analyze
-the Intrusion Detection Systems (IDSs) on security-related datasets. In this
-paper, we tested different machine learning algorithms to analyze NSL-KDD
-dataset using KNIME analytics.
+TF.Learn is a high-level Python module for distributed machine learning
+inside TensorFlow. It provides an easy-to-use Scikit-learn style interface to
+simplify the process of creating, configuring, training, evaluating, and
+experimenting a machine learning model. TF.Learn integrates a wide range of
+state-of-art machine learning algorithms built on top of TensorFlow's low level
+APIs for small to large-scale supervised and unsupervised problems. This module
+focuses on bringing machine learning to non-specialists using a general-purpose
+high-level language as well as researchers who want to implement, benchmark,
+and compare their new methods in a structured environment. Emphasis is put on
+ease of use, performance, documentation, and API consistency.

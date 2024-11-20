@@ -1,8 +1,7 @@
-The engineering of machine learning systems is still a nascent field; relying
-on a seemingly daunting collection of quickly evolving tools and best
-practices. It is our hope that this guidebook will serve as a useful resource
-for machine learning practitioners looking to take advantage of Bayesian
-optimization techniques. We outline four example machine learning problems that
-can be solved using open source machine learning libraries, and highlight the
-benefits of using Bayesian optimization in the context of these common machine
-learning applications.
+Classical optimization algorithms in machine learning often take a long time
+to compute when applied to a multi-dimensional problem and require a huge
+amount of CPU and GPU resource. Quantum parallelism has a potential to speed up
+machine learning algorithms. We describe a generic mathematical model to
+leverage quantum parallelism to speed-up machine learning algorithms. We also
+apply quantum machine learning and quantum parallelism applied to a
+$3$-dimensional image that vary with time.

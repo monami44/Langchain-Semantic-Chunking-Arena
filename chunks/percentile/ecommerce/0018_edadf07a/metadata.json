@@ -1,0 +1,11 @@
+{
+  "source": "ecommerce",
+  "unique_id": "edadf07a",
+  "file_name": "openalex_77.txt",
+  "process_order": 18,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    625,
+    113
+  ]
+}

@@ -1,7 +1,10 @@
-Classical optimization algorithms in machine learning often take a long time
-to compute when applied to a multi-dimensional problem and require a huge
-amount of CPU and GPU resource. Quantum parallelism has a potential to speed up
-machine learning algorithms. We describe a generic mathematical model to
-leverage quantum parallelism to speed-up machine learning algorithms. We also
-apply quantum machine learning and quantum parallelism applied to a
-$3$-dimensional image that vary with time.
+Despite incredible recent advances in machine learning, building machine
+learning applications remains prohibitively time-consuming and expensive for
+all but the best-trained, best-funded engineering organizations. This expense
+comes not from a need for new and improved statistical models but instead from
+a lack of systems and tools for supporting end-to-end machine learning
+application development, from data preparation and labeling to
+productionization and monitoring. In this document, we outline opportunities
+for infrastructure supporting usable, end-to-end machine learning applications
+in the context of the nascent DAWN (Data Analytics for What's Next) project at
+Stanford.

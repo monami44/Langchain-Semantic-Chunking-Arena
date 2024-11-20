@@ -2,12 +2,10 @@ import os
 import json
 import logging
 import requests
-import git
-import wikipediaapi
-from Bio import Entrez
 import arxiv
 import pandas as pd
 from tqdm import tqdm
+import time
 
 # Configure Logging
 logging.basicConfig(
@@ -88,61 +86,8 @@ def download_pubmed_articles(email, search_term, max_results=100):
     except Exception as e:
         logger.error(f"Error downloading PubMed articles: {e}")
 
-def clone_repository(repo_url, destination):
-    """
-    Clones a git repository to the specified destination.
-    """
-    try:
-        logger.info(f"Cloning repository '{repo_url}' into '{destination}'.")
-        git.Repo.clone_from(repo_url, destination)
-        logger.info(f"Successfully cloned '{repo_url}'.")
-    except git.exc.GitError as e:
-        logger.error(f"Git error while cloning '{repo_url}': {e}")
-    except Exception as e:
-        logger.error(f"Unexpected error while cloning '{repo_url}': {e}")
 
-def download_technical_repositories(repos, destination_base='data/raw/technical/'):
-    """
-    Downloads multiple technical repositories.
-    """
-    os.makedirs(destination_base, exist_ok=True)
-    for repo in repos:
-        repo_name = repo.split('/')[-1].replace('.git', '')
-        destination = os.path.join(destination_base, repo_name)
-        if os.path.exists(destination):
-            logger.info(f"Repository '{repo_name}' already exists. Skipping clone.")
-            continue
-        clone_repository(repo, destination)
 
-def download_legal_documents(query, max_results=100):
-    """
-    Downloads legal documents based on a query using the CourtListener API.
-    """
-    try:
-        logger.info(f"Starting download of legal documents with query '{query}'.")
-        url = "https://www.courtlistener.com/api/rest/v3/opinions/"
-        params = {
-            'q': query,
-            'page_size': max_results
-        }
-        response = requests.get(url, params=params)
-        response.raise_for_status()
-        data = response.json()
-
-        os.makedirs('data/raw/legal/', exist_ok=True)
-        saved_count = 0
-        for idx, opinion in enumerate(data.get('results', [])):
-            text = opinion.get('text', '')
-            if text:
-                file_path = os.path.join('data/raw/legal/', f"opinion_{idx}.txt")
-                with open(file_path, 'w', encoding='utf-8') as f:
-                    f.write(text)
-                saved_count += 1
-        logger.info(f"Downloaded and saved {saved_count} legal documents.")
-    except requests.exceptions.RequestException as e:
-        logger.error(f"HTTP error while downloading legal documents: {e}")
-    except Exception as e:
-        logger.error(f"Unexpected error while downloading legal documents: {e}")
 
 def download_arxiv_papers(query, max_results=100):
     """
@@ -197,9 +142,17 @@ def load_datasets(processed_data_path='data/processed/'):
 
 def download_all_datasets(config):
     """
-    Orchestrates the download of medical and scientific datasets based on the provided configuration.
+    Orchestrates the download of all datasets based on the provided configuration.
     """
-    logger.info("Starting download of medical and scientific datasets.")
+    logger.info("Starting download of all datasets.")
+    
+    # Wikipedia Articles
+    wiki_config = config.get('wikipedia', {})
+    if wiki_config.get('num_articles'):
+        try:
+            download_wikipedia_articles(wiki_config['num_articles'])
+        except Exception as e:
+            logger.error(f"Error downloading Wikipedia articles: {e}")
     
     # PubMed Articles
     pubmed_config = config.get('pubmed', {})
@@ -212,8 +165,18 @@ def download_all_datasets(config):
             )
         except Exception as e:
             logger.error(f"Error downloading PubMed articles: {e}")
-    else:
-        logger.warning("PubMed configuration incomplete. Skipping PubMed articles download.")
+
+    # OpenAlex Articles
+    openalex_config = config.get('openalex', {})
+    for domain, settings in openalex_config.items():
+        try:
+            download_openalex_articles(
+                domain=domain,
+                search_query=settings['search_query'],
+                max_results=settings.get('max_results', 100)
+            )
+        except Exception as e:
+            logger.error(f"Error downloading OpenAlex {domain} articles: {e}")
 
     # arXiv Papers
     arxiv_config = config.get('arxiv', {})
@@ -225,7 +188,83 @@ def download_all_datasets(config):
             )
         except Exception as e:
             logger.error(f"Error downloading arXiv papers: {e}")
-    else:
-        logger.warning("arXiv configuration incomplete. Skipping arXiv papers download.")
 
-    logger.info("Completed download of medical and scientific datasets.")
+    logger.info("Completed download of all datasets.")
+
+def download_openalex_articles(domain, search_query, max_results=100):
+    """
+    Downloads articles from OpenAlex API for a specific domain.
+    
+    Args:
+        domain (str): Domain name (e.g., 'legal', 'history', 'ecommerce')
+        search_query (str): Search query for the domain
+        max_results (int): Maximum number of articles to download
+    """
+    try:
+        logger.info(f"Starting download of OpenAlex articles for domain: {domain}")
+        
+        BASE_URL = 'https://api.openalex.org/works'
+        params = {
+            'search': search_query,
+            'filter': 'is_oa:true,publication_year:2010-2024,has_abstract:true',
+            'per-page': 25,
+            'mailto': 'lyaminky2@gmail.com'
+        }
+
+        save_dir = f'data/raw/{domain}'
+        os.makedirs(save_dir, exist_ok=True)
+
+        saved_count = 0
+        page = 1
+
+        while saved_count < max_results:
+            params['page'] = page
+            response = requests.get(BASE_URL, params=params)
+
+            if response.status_code == 200:
+                data = response.json()
+                works = data.get('results', [])
+
+                if not works:
+                    logger.warning(f"No more works found for domain: {domain}")
+                    break
+
+                for work in works:
+                    if saved_count >= max_results:
+                        break
+
+                    abstract_inverted_index = work.get('abstract_inverted_index', None)
+                    if abstract_inverted_index:
+                        abstract_text = work.get('abstract')
+                        if not abstract_text:
+                            word_positions = []
+                            for word, positions in abstract_inverted_index.items():
+                                for pos in positions:
+                                    word_positions.append((pos, word))
+                            
+                            sorted_words = [word for _, word in sorted(word_positions)]
+                            cleaned_words = []
+                            for word in sorted_words:
+                                if not cleaned_words or word != cleaned_words[-1]:
+                                    cleaned_words.append(word)
+                            
+                            abstract_text = ' '.join(cleaned_words)
+
+                        filename = f'openalex_{domain}_{saved_count + 1}.txt'
+                        file_path = os.path.join(save_dir, filename)
+
+                        with open(file_path, 'w', encoding='utf-8') as file:
+                            file.write(abstract_text)
+
+                        saved_count += 1
+                        logger.info(f"Saved {filename}")
+
+                page += 1
+                time.sleep(1)
+            else:
+                logger.error(f"Error {response.status_code} downloading OpenAlex articles")
+                break
+
+        logger.info(f"Total {domain} articles saved: {saved_count}")
+    except Exception as e:
+        logger.error(f"Error downloading OpenAlex articles for {domain}: {e}")

@@ -194,69 +194,116 @@ def parse_structured_output(response_text: str, key: str, model: BaseModel) -> L
 
 def process_document(domain: str, doc_id: str, text: str, metadata: Dict[str, Any]) -> Dict[str, Any]:
     print(f"Processing document: {doc_id} in domain: {domain}")
-    question = generate_question(text)
-    if not question:
-        print(f"No question generated for document '{doc_id}' in domain '{domain}'.")
-        logger.warning(f"No question generated for document '{doc_id}' in domain '{domain}'.")
-        return {}
+    try:
+        question = generate_question(text)
+        if not question:
+            print(f"No question generated for document '{doc_id}' in domain '{domain}'.")
+            logger.warning(f"No question generated for document '{doc_id}' in domain '{domain}'.")
+            return {}
 
-    print(f"Generated question: {question}")
-    chunks = find_relevant_chunks(question, text, top_k=3)
-    if not chunks:
-        print(f"No relevant chunks found for question '{question}' in document '{doc_id}' in domain '{domain}'.")
-        logger.warning(f"No relevant chunks found for question '{question}' in document '{doc_id}' in domain '{domain}'.")
-        return {}
+        print(f"Generated question: {question}")
+        chunks = find_relevant_chunks(question, text, top_k=3)
+        if not chunks:
+            print(f"No relevant chunks found for question '{question}' in document '{doc_id}' in domain '{domain}'.")
+            logger.warning(f"No relevant chunks found for question '{question}' in document '{doc_id}' in domain '{domain}'.")
+            return {}
 
-    print(f"Found {len(chunks)} relevant chunks for document {doc_id}")
-    return {
-        "question": question,
-        "chunks": chunks,
-        "metadata": metadata
-    }
+        print(f"Found {len(chunks)} relevant chunks for document {doc_id}")
+        return {
+            "question": question,
+            "chunks": chunks,
+            "metadata": metadata
+        }
+    except OpenAIError as e:
+        print(f"OpenAI API error processing document '{doc_id}' in domain '{domain}': {e}")
+        logger.error(f"OpenAI API error processing document '{doc_id}' in domain '{domain}': {e}")
+        return {}
+    except Exception as e:
+        print(f"Unexpected error processing document '{doc_id}' in domain '{domain}': {e}")
+        logger.error(f"Unexpected error processing document '{doc_id}' in domain '{domain}': {e}")
+        return {}
 
 def create_ground_truths(datasets: Dict[str, Dict[str, str]],
                          output_path: str = 'config/ground_truths.json'):
     print("Starting ground truth creation process")
     ground_truths = {}
     try:
-        for domain in ['medical', 'scientific']:
+        # Updated domains list to include all domains
+        domains = ['medical', 'scientific', 'history', 'legal', 'ecommerce']
+        for domain in domains:
             if domain not in datasets:
                 print(f"Domain '{domain}' not found in datasets. Skipping.")
                 logger.warning(f"Domain '{domain}' not found in datasets. Skipping.")
                 continue
+            
             ground_truths[domain] = {
                 "queries": [],
                 "relevant_chunks": {}
             }
             print(f"Generating ground truths for domain: {domain}")
             logger.info(f"Generating ground truths for domain: {domain}")
+            
+            successful_docs = 0
+            total_docs = len(datasets[domain])
+            
             for doc_id, text in tqdm(datasets[domain].items(), desc=f"Processing {domain} documents"):
-                print(f"Processing document {doc_id} in {domain} domain")
-                metadata = {"source": "pubmed" if "pubmed" in doc_id.lower() else "arxiv", "file_name": doc_id}
-                result = process_document(domain, doc_id, text, metadata)
-                if not result:
-                    print(f"No result for document {doc_id}. Skipping.")
+                try:
+                    print(f"Processing document {doc_id} in {domain} domain")
+                    # Updated source detection
+                    source = 'openalex' if any(x in doc_id.lower() for x in ['history', 'legal', 'ecommerce']) else \
+                            'pubmed' if 'pubmed' in doc_id.lower() else 'arxiv'
+                    metadata = {"source": source, "file_name": doc_id}
+                    
+                    result = process_document(domain, doc_id, text, metadata)
+                    if not result:
+                        print(f"No result for document {doc_id}. Skipping.")
+                        continue
+                        
+                    question = result["question"]
+                    chunks = result["chunks"]
+                    metadata = result["metadata"]
+                    
+                    # Ensure question is a string, not a list
+                    if isinstance(question, list):
+                        question = question[0] if question else ""
+                        
+                    ground_truths[domain]["queries"].append(question)
+                    ground_truths[domain]["relevant_chunks"][question] = {
+                        "chunks": chunks,
+                        "metadata": metadata
+                    }
+                    print(f"Added question, chunks, and metadata for document {doc_id}")
+                    successful_docs += 1
+                    
+                    # Save progress after each successful document
+                    if successful_docs % 5 == 0:  # Save every 5 successful documents
+                        with open(output_path, 'w', encoding='utf-8') as f:
+                            json.dump(ground_truths, f, indent=4)
+                        print(f"Progress saved: {successful_docs}/{total_docs} documents processed in {domain}")
+                        
+                except Exception as e:
+                    print(f"Error processing document {doc_id} in {domain}: {e}")
+                    logger.error(f"Error processing document {doc_id} in {domain}: {e}")
                     continue
-                question = result["question"]
-                chunks = result["chunks"]
-                metadata = result["metadata"]
-                # Ensure question is a string, not a list
-                if isinstance(question, list):
-                    question = question[0] if question else ""
-                ground_truths[domain]["queries"].append(question)
-                ground_truths[domain]["relevant_chunks"][question] = {
-                    "chunks": chunks,
-                    "metadata": metadata
-                }
-                print(f"Added question, chunks, and metadata for document {doc_id}")
-
-        print(f"Saving ground truths to {output_path}")
-        with open(output_path, 'w', encoding='utf-8') as f:
-            json.dump(ground_truths, f, indent=4)
-        print(f"Ground truths successfully created and saved to '{output_path}'.")
-        logger.info(f"Ground truths successfully created and saved to '{output_path}'.")
+            
+            print(f"Completed {domain} domain: {successful_docs}/{total_docs} documents processed successfully")
+            logger.info(f"Completed {domain} domain: {successful_docs}/{total_docs} documents processed successfully")
+            
+            # Save after completing each domain
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(ground_truths, f, indent=4)
+            print(f"Ground truths saved after completing {domain} domain")
+            
     except Exception as e:
         print(f"Error in create_ground_truths: {e}")
         logger.error(f"Error in create_ground_truths: {e}")
+        # Save whatever progress we have even if there's an error
+        if ground_truths:
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(ground_truths, f, indent=4)
+            print(f"Partial ground truths saved due to error")
+    
+    print("Ground truth creator script completed")
+    return ground_truths
 
 print("Ground truth creator script completed")

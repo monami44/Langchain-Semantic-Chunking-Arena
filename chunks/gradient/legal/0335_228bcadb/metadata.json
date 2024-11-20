@@ -1,0 +1,11 @@
+{
+  "source": "legal",
+  "unique_id": "228bcadb",
+  "file_name": "openalex_84.txt",
+  "process_order": 335,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    317,
+    644
+  ]
+}

@@ -1,0 +1,1 @@
+In this paper, from the perspective of opinion dynamics theory, we investigate the interaction mechanism of a group of autonomous agents in an ecommerce community or social network, and the influence power of opinion leaders during the formation of group opinion.

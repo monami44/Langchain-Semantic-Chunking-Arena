@@ -1,0 +1,11 @@
+{
+  "source": "ecommerce",
+  "unique_id": "df490fa9",
+  "file_name": "openalex_24.txt",
+  "process_order": 83,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    420,
+    410
+  ]
+}

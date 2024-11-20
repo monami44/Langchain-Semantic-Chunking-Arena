@@ -1,0 +1,1 @@
+Recommender systems RSs have been the most important technology for increasing the business in Taobao, the largest online consumertoconsumer C2C platform in China. There are three major challenges facing RS in Taobao scalability, sparsity and cold start. In this paper, we present our technical solutions to address these three challenges.

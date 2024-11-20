@@ -1,66 +1,150 @@
 {
     "gradient": {
         "arxiv": {
-            "mean_size": 522.3333333333334,
-            "median_size": 491.0,
-            "std_dev": 395.3788113877399,
+            "mean_size": 513.75,
+            "median_size": 482.0,
+            "std_dev": 388.15820878870466,
             "min_size": 31,
             "max_size": 1687
         },
         "pubmed": {
             "mean_size": 1052.3849056603774,
-            "median_size": 210,
-            "std_dev": 1281.8615646720277,
+            "median_size": 210.0,
+            "std_dev": 1279.682144170204,
             "min_size": 3,
             "max_size": 7248
+        },
+        "history": {
+            "mean_size": 668.538961038961,
+            "median_size": 552.5,
+            "std_dev": 619.9437541923489,
+            "min_size": 4,
+            "max_size": 5075
+        },
+        "legal": {
+            "mean_size": 1640.573883161512,
+            "median_size": 927.0,
+            "std_dev": 2325.737682041005,
+            "min_size": 4,
+            "max_size": 18480
+        },
+        "ecommerce": {
+            "mean_size": 816.9213483146067,
+            "median_size": 661.5,
+            "std_dev": 859.8413762170426,
+            "min_size": 56,
+            "max_size": 8283
         }
     },
     "interquartile": {
         "arxiv": {
-            "mean_size": 723.6153846153846,
-            "median_size": 691,
-            "std_dev": 407.22854042247013,
+            "mean_size": 704.1369863013699,
+            "median_size": 682,
+            "std_dev": 400.59831333290964,
             "min_size": 86,
             "max_size": 1584
         },
         "pubmed": {
             "mean_size": 812.8396501457726,
             "median_size": 225,
-            "std_dev": 1066.4836248934903,
+            "std_dev": 1065.1003770676684,
             "min_size": 22,
             "max_size": 6154
+        },
+        "history": {
+            "mean_size": 919.6160714285714,
+            "median_size": 821.0,
+            "std_dev": 603.1255352415715,
+            "min_size": 42,
+            "max_size": 4226
+        },
+        "legal": {
+            "mean_size": 1822.2748091603053,
+            "median_size": 1187.0,
+            "std_dev": 2084.980644946813,
+            "min_size": 4,
+            "max_size": 11057
+        },
+        "ecommerce": {
+            "mean_size": 1024.281690140845,
+            "median_size": 917.0,
+            "std_dev": 909.2953475129743,
+            "min_size": 37,
+            "max_size": 8217
         }
     },
     "std_deviation": {
         "arxiv": {
-            "mean_size": 1045.6666666666667,
-            "median_size": 1071,
-            "std_dev": 291.9226236210859,
+            "mean_size": 1028.5,
+            "median_size": 1069.5,
+            "std_dev": 289.5839135456419,
             "min_size": 593,
             "max_size": 1758
         },
         "pubmed": {
             "mean_size": 1847.6556291390727,
             "median_size": 2144,
-            "std_dev": 1442.8411741946634,
+            "std_dev": 1438.584996266604,
             "min_size": 28,
             "max_size": 7362
+        },
+        "history": {
+            "mean_size": 1320.9102564102564,
+            "median_size": 1117.5,
+            "std_dev": 1352.2767408498046,
+            "min_size": 640,
+            "max_size": 12672
+        },
+        "legal": {
+            "mean_size": 3914.55737704918,
+            "median_size": 1633.5,
+            "std_dev": 5472.772288284863,
+            "min_size": 16,
+            "max_size": 25203
+        },
+        "ecommerce": {
+            "mean_size": 1616.6666666666667,
+            "median_size": 1320.0,
+            "std_dev": 1722.54687300041,
+            "min_size": 656,
+            "max_size": 13365
         }
     },
     "percentile": {
         "arxiv": {
-            "mean_size": 522.3333333333334,
-            "median_size": 433.0,
-            "std_dev": 355.5362463545878,
+            "mean_size": 513.75,
+            "median_size": 432.5,
+            "std_dev": 350.7488298731688,
             "min_size": 39,
             "max_size": 1584
         },
         "pubmed": {
             "mean_size": 1052.3849056603774,
             "median_size": 131,
-            "std_dev": 1251.9518892931274,
+            "std_dev": 1249.8495336715716,
             "min_size": 21,
             "max_size": 6154
+        },
+        "history": {
+            "mean_size": 643.43125,
+            "median_size": 523.5,
+            "std_dev": 537.7913913858695,
+            "min_size": 4,
+            "max_size": 4226
+        },
+        "legal": {
+            "mean_size": 1634.9520547945206,
+            "median_size": 828.0,
+            "std_dev": 2110.62490051914,
+            "min_size": 2,
+            "max_size": 12420
+        },
+        "ecommerce": {
+            "mean_size": 812.3519553072625,
+            "median_size": 581,
+            "std_dev": 824.1603619002291,
+            "min_size": 72,
+            "max_size": 8217
         }
     }
 }

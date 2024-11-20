@@ -1,19 +1,15 @@
-As machine learning becomes more and more available to the general public,
-theoretical questions are turning into pressing practical issues. Possibly, one
-of the most relevant concerns is the assessment of our confidence in trusting
-machine learning predictions. In many real-world cases, it is of utmost
-importance to estimate the capabilities of a machine learning algorithm to
-generalize, i.e., to provide accurate predictions on unseen data, depending on
-the characteristics of the target problem. In this work, we perform a
-meta-analysis of 109 publicly-available classification data sets, modeling
-machine learning generalization as a function of a variety of data set
-characteristics, ranging from number of samples to intrinsic dimensionality,
-from class-wise feature skewness to $F1$ evaluated on test samples falling
-outside the convex hull of the training set. Experimental results demonstrate
-the relevance of using the concept of the convex hull of the training data in
-assessing machine learning generalization, by emphasizing the difference
-between interpolated and extrapolated predictions. Besides several predictable
-correlations, we observe unexpectedly weak associations between the
-generalization ability of machine learning models and all metrics related to
-dimensionality, thus challenging the common assumption that the \textit{curse
-of dimensionality} might impair generalization in machine learning.
+Machine learning is driving development across many fields in science and
+engineering. A simple and efficient programming language could accelerate
+applications of machine learning in various fields. Currently, the programming
+languages most commonly used to develop machine learning algorithms include
+Python, MATLAB, and C/C ++. However, none of these languages well balance both
+efficiency and simplicity. The Julia language is a fast, easy-to-use, and
+open-source programming language that was originally designed for
+high-performance computing, which can well balance the efficiency and
+simplicity. This paper summarizes the related research work and developments in
+the application of the Julia language in machine learning. It first surveys the
+popular machine learning algorithms that are developed in the Julia language.
+Then, it investigates applications of the machine learning algorithms
+implemented with the Julia language. Finally, it discusses the open issues and
+the potential future directions that arise in the use of the Julia language in
+machine learning.

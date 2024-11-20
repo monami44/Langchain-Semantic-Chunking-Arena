@@ -1,0 +1,1 @@
+In recent years, the boundaries between ecommerce and social networking have become increasingly blurred. Many ecommerce Web sites support the mechanism of social login where users can sign on the Web sites using their social network identities such as their Facebook or Twitter accounts.

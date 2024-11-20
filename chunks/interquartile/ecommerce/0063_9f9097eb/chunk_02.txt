@@ -1,0 +1,1 @@
+It has been found that our protocol has much improved security effectiveness in terms of confidentiality, integrity, nonrepudiation, anonymity availability, authentication, and authorization.

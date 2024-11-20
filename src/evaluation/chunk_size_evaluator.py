@@ -34,21 +34,36 @@ def evaluate_chunk_sizes(output_path: str = 'results/') -> Dict[str, Dict[str, D
         os.makedirs(output_path, exist_ok=True)
 
         chunking_methods = ['gradient', 'interquartile', 'std_deviation', 'percentile']
+        domains = ['arxiv', 'pubmed', 'history', 'legal', 'ecommerce']
         
         for method in chunking_methods:
             metrics[method] = {}
             method_path = f'chunks/{method}'
-            for domain in os.listdir(method_path):
+            
+            for domain in domains:
                 domain_path = os.path.join(method_path, domain)
+                print(f"\nChecking domain path: {domain_path}")
+                if not os.path.exists(domain_path):
+                    logger.warning(f"Directory not found for method '{method}' in domain '{domain}'. Skipping.")
+                    continue
+                    
+                print(f"Domain path exists. Contents: {os.listdir(domain_path)}")
                 sizes = []
                 for chunk_dir in os.listdir(domain_path):
                     chunk_dir_path = os.path.join(domain_path, chunk_dir)
+                    print(f"Checking chunk directory: {chunk_dir_path}")
                     if os.path.isdir(chunk_dir_path):
                         metadata_file = os.path.join(chunk_dir_path, 'metadata.json')
+                        print(f"Looking for metadata file: {metadata_file}")
                         if os.path.exists(metadata_file):
+                            print(f"Found metadata file: {metadata_file}")
                             with open(metadata_file, 'r') as f:
                                 metadata = json.load(f)
                                 sizes.extend(metadata['chunk_sizes'])
+                        else:
+                            print(f"Metadata file not found at: {metadata_file}")
+                    else:
+                        print(f"Not a directory: {chunk_dir_path}")
                 
                 if not sizes:
                     logger.warning(f"No chunks found for method '{method}' in domain '{domain}'.")
@@ -86,3 +101,7 @@ def evaluate_chunk_sizes(output_path: str = 'results/') -> Dict[str, Dict[str, D
         logger.error(f"Error in evaluating chunk sizes: {e}")
         return {}
 
+
+
+if __name__ == "__main__":
+    evaluate_chunk_sizes()

@@ -140,4 +140,3 @@ def plot_scores(scores_file: str):
         print(f"Error in plotting scores: {e}")
         logger.error(f"Error in plotting scores: {e}")
 
-
