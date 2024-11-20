@@ -6,6 +6,7 @@ import os
 import json
 from typing import Dict
 import matplotlib.pyplot as plt
+import numpy as np
 
 # Configure Logging
 logging.basicConfig(
@@ -114,27 +115,62 @@ def plot_scores(scores_file: str):
         with open(scores_file, 'r') as f:
             scores = json.load(f)
 
+        # Define consistent colors and display names
+        domain_colors = {
+            'arxiv': '#2ecc71',      # green
+            'pubmed': '#3498db',     # blue
+            'history': '#e74c3c',    # red
+            'legal': '#f1c40f',      # yellow
+            'ecommerce': '#9b59b6'   # purple
+        }
+
+        domain_display_names = {
+            'arxiv': 'Machine Learning',
+            'pubmed': 'Medical',
+            'history': 'History',
+            'legal': 'Legal',
+            'ecommerce': 'E-commerce'
+        }
+
         methods = list(scores.keys())
         domains = list(scores[methods[0]].keys())
 
-        fig, ax = plt.subplots(figsize=(10, 6))
-        bar_width = 0.35
-        index = range(len(methods))
+        # Create larger figure with more spacing
+        fig, ax = plt.subplots(figsize=(15, 8))
+        bar_width = 0.15  # Reduced bar width for better spacing
+        index = np.arange(len(methods))
 
+        # Plot bars for each domain
         for i, domain in enumerate(domains):
             domain_scores = [scores[method][domain] for method in methods]
-            ax.bar([x + i*bar_width for x in index], domain_scores, bar_width, 
-                   label=domain.capitalize(), alpha=0.8)
+            ax.bar([x + i*bar_width for x in index], 
+                   domain_scores, 
+                   bar_width, 
+                   label=domain_display_names[domain],
+                   color=domain_colors[domain],
+                   alpha=0.8)
 
-        ax.set_xlabel('Methods')
-        ax.set_ylabel('Scores')
-        ax.set_title('Comparison of Scores Across Methods and Domains')
-        ax.set_xticks([x + bar_width/2 for x in index])
-        ax.set_xticklabels(methods)
-        ax.legend()
+        # Customize the plot
+        ax.set_xlabel('Methods', fontsize=12, labelpad=10)
+        ax.set_ylabel('Scores', fontsize=12, labelpad=10)
+        ax.set_title('Comparison of Scores Across Methods and Domains', fontsize=14, pad=20)
+        
+        # Center the x-tick labels
+        ax.set_xticks([x + (bar_width * (len(domains)-1))/2 for x in index])
+        ax.set_xticklabels(methods, rotation=45)
+        
+        # Add legend with better positioning
+        ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
+        
+        # Add grid for better readability
+        ax.grid(True, axis='y', linestyle='--', alpha=0.3)
+        
+        # Remove top and right spines
+        ax.spines['top'].set_visible(False)
+        ax.spines['right'].set_visible(False)
 
         plt.tight_layout()
-        plt.savefig('results/scores_comparison.png')
+        plt.savefig('results/scores_comparison.png', bbox_inches='tight', dpi=300)
         print("Scores plot saved as 'results/scores_comparison.png'")
     except Exception as e:
         print(f"Error in plotting scores: {e}")

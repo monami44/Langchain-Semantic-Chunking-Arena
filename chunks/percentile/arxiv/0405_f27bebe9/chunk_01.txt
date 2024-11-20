@@ -1,0 +1,1 @@
+Autonomous vehicles rely on machine learning to solve challenging tasks in perception and motion planning. However, automotive software safety standards have not fully evolved to address the challenges of machine learning safety such as interpretability, verification, and performance limitations.

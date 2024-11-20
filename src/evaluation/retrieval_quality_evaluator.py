@@ -201,30 +201,58 @@ def plot_retrieval_quality_metrics(retrieval_metrics_file: str):
         with open(retrieval_metrics_file, 'r') as f:
             retrieval_metrics = json.load(f)
 
+        # Define consistent colors for metrics
+        metric_colors = {
+            'precision': '#3498db',      # blue
+            'recall': '#2ecc71',         # green
+            'f1_score': '#e74c3c',       # red
+            'average_precision': '#f1c40f', # yellow
+            'ndcg': '#9b59b6'            # purple
+        }
+
         methods = list(retrieval_metrics.keys())
         domains = list(retrieval_metrics[methods[0]].keys())
         metrics = ['precision', 'recall', 'f1_score', 'average_precision', 'ndcg']
 
-        fig, axs = plt.subplots(len(domains), 1, figsize=(12, 6*len(domains)))
-        fig.suptitle('Retrieval Quality Metrics Comparison')
+        # Create subplots with more height per plot
+        fig, axs = plt.subplots(len(domains), 1, figsize=(15, 5*len(domains)))
+        fig.suptitle('Retrieval Quality Metrics Comparison', fontsize=16, y=0.95)
+
+        # Handle both single and multiple domain cases
+        if len(domains) == 1:
+            axs = [axs]
 
         for i, domain in enumerate(domains):
-            ax = axs[i] if len(domains) > 1 else axs
-            x = range(len(methods))
+            ax = axs[i]
+            x = np.arange(len(methods))
             width = 0.15
             
+            # Plot bars for each metric
             for j, metric in enumerate(metrics):
                 values = [retrieval_metrics[method][domain][metric] for method in methods]
-                ax.bar([xi + j*width for xi in x], values, width, label=metric)
+                ax.bar([xi + j*width for xi in x], 
+                      values, 
+                      width, 
+                      label=metric.replace('_', ' ').title(),
+                      color=metric_colors[metric],
+                      alpha=0.8)
 
-            ax.set_ylabel('Score')
-            ax.set_title(f'{domain.capitalize()} Domain')
+            # Customize each subplot
+            ax.set_ylabel('Score', fontsize=12)
+            ax.set_title(f'{domain.capitalize()} Domain', fontsize=14, pad=20)
             ax.set_xticks([xi + width*2 for xi in x])
-            ax.set_xticklabels(methods)
-            ax.legend()
+            ax.set_xticklabels(methods, rotation=45)
+            
+            # Add grid and remove top/right spines
+            ax.grid(True, axis='y', linestyle='--', alpha=0.3)
+            ax.spines['top'].set_visible(False)
+            ax.spines['right'].set_visible(False)
+            
+            # Add legend with better positioning
+            ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 
         plt.tight_layout()
-        plt.savefig('results/retrieval_quality_comparison.png')
+        plt.savefig('results/retrieval_quality_comparison.png', bbox_inches='tight', dpi=300)
         print("Retrieval quality metrics plot saved as 'results/retrieval_quality_comparison.png'")
     except Exception as e:
         print(f"Error in plotting retrieval quality metrics: {e}")

@@ -33,6 +33,24 @@ def evaluate_chunk_sizes(output_path: str = 'results/') -> Dict[str, Dict[str, D
         metrics = {}
         os.makedirs(output_path, exist_ok=True)
 
+        # Define color scheme for each domain
+        domain_colors = {
+            'arxiv': '#2ecc71',     # green
+            'pubmed': '#3498db',    # blue
+            'history': '#e74c3c',   # red
+            'legal': '#f1c40f',     # yellow
+            'ecommerce': '#9b59b6'  # purple
+        }
+
+        # Define display names for domains
+        domain_display_names = {
+            'arxiv': 'Machine Learning',
+            'pubmed': 'Medical',
+            'history': 'History',
+            'legal': 'Legal',
+            'ecommerce': 'E-commerce'
+        }
+
         chunking_methods = ['gradient', 'interquartile', 'std_deviation', 'percentile']
         domains = ['arxiv', 'pubmed', 'history', 'legal', 'ecommerce']
         
@@ -77,17 +95,32 @@ def evaluate_chunk_sizes(output_path: str = 'results/') -> Dict[str, Dict[str, D
                     'max_size': max(sizes)
                 }
 
-                # Generate histogram
+                # Generate histogram with domain-specific color
                 plt.figure(figsize=(10, 6))
-                plt.hist(sizes, bins=20, alpha=0.7, color='blue')
-                plt.title(f'Chunk Size Distribution for {method} Method in {domain} Domain')
+                plt.hist(sizes, 
+                        bins=20, 
+                        alpha=0.7, 
+                        color=domain_colors[domain],
+                        label=f'{domain_display_names[domain]} Domain')
+                plt.title(f'Chunk Size Distribution for {method} Method in {domain_display_names[domain]} Domain')
                 plt.xlabel('Number of Tokens')
                 plt.ylabel('Frequency')
-                plt.grid(True)
+                plt.grid(True, alpha=0.3)
+                plt.legend()
+                
+                # Add some style improvements
+                plt.gca().set_facecolor('#f8f9fa')
+                plt.gca().spines['top'].set_visible(False)
+                plt.gca().spines['right'].set_visible(False)
+                
                 histogram_path = os.path.join(output_path, f"{method}_{domain}_distribution.png")
-                plt.savefig(histogram_path)
+                plt.savefig(histogram_path, 
+                           bbox_inches='tight', 
+                           facecolor='white', 
+                           edgecolor='none',
+                           dpi=300)
                 plt.close()
-                logger.info(f"Generated histogram for method '{method}' in domain '{domain}'. Saved to '{histogram_path}'.")
+                logger.info(f"Generated histogram for method '{method}' in {domain_display_names[domain]} domain. Saved to '{histogram_path}'.")
         
         # Save metrics to JSON file
         metrics_file = os.path.join(output_path, 'chunk_sizes_metrics.json')

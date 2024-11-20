@@ -1,0 +1,10 @@
+{
+  "source": "pubmed",
+  "unique_id": "fd65c110",
+  "file_name": "pubmed_36.txt",
+  "process_order": 145,
+  "num_chunks": 1,
+  "chunk_sizes": [
+    2400
+  ]
+}

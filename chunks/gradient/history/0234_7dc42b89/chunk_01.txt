@@ -1,0 +1,1 @@
+To test the usefulness of the forensic PCRMPS approach to eye and hair color prediction for aged skeletons, a customized version of the PCRMPS HIrisPlex panel was used on two sets of samples.
