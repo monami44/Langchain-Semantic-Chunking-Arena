@@ -97,28 +97,27 @@ A weighted scoring system was used to rank the chunking methods:
 
 ### Chunk Size Evaluation
 
-#### Distribution Analysis by Domain
+#### Machine Learning Domain Distribution Analysis
+![Machine Learning Domain Chunk Size Distributions](results/combined_distribution_arxiv.png)
+*Figure 1: Comparison of chunking methods on arXiv machine learning papers showing Standard Deviation method's superior consistency (std_dev: 289.5) compared to other approaches.*
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; gap: 10px; margin: 20px 0;">
-    <figure style="margin: 0; text-align: center; flex: 1;">
-        <img src="results/percentile_arxiv_distribution.png" alt="Machine Learning - Percentile" style="width: 100%; height: auto;">
-        <figcaption>Percentile</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center; flex: 1;">
-        <img src="results/std_deviation_arxiv_distribution.png" alt="Machine Learning - Standard Deviation" style="width: 100%; height: auto;">
-        <figcaption>Standard Deviation</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center; flex: 1;">
-        <img src="results/interquartile_arxiv_distribution.png" alt="Machine Learning - Interquartile" style="width: 100%; height: auto;">
-        <figcaption>Interquartile</figcaption>
-    </figure>
-    <figure style="margin: 0; text-align: center; flex: 1;">
-        <img src="results/gradient_arxiv_distribution.png" alt="Machine Learning - Gradient" style="width: 100%; height: auto;">
-        <figcaption>Gradient</figcaption>
-    </figure>
-</div>
+#### Medical Domain Distribution Analysis
+![Medical Domain Chunk Size Distributions](results/combined_distribution_pubmed.png)
+*Figure 2: Distribution patterns across methods for PubMed medical articles, highlighting wider variance in chunk sizes (22-7362 tokens).*
 
-[Similar grid layouts for Medical, Historical, Legal, and E-commerce domains]
+#### Historical Domain Distribution Analysis
+![Historical Domain Chunk Size Distributions](results/combined_distribution_history.png)
+*Figure 3: Chunk size distributions for World War II historical documents, demonstrating moderate consistency across methods (std_dev: 603-1352).*
+
+#### Legal Domain Distribution Analysis
+![Legal Domain Chunk Size Distributions](results/combined_distribution_legal.png)
+*Figure 4: Analysis of chunking patterns in legal documents, showing the highest variance among all domains (std_dev: 2084-5472).*
+
+#### E-commerce Domain Distribution Analysis
+![E-commerce Domain Chunk Size Distributions](results/combined_distribution_ecommerce.png)
+*Figure 5: Distribution comparison for e-commerce research papers, displaying balanced chunk sizes (mean: 812-1616 tokens).*
+
+Each domain exhibits distinct chunking patterns, reflecting the varying nature of content structure and complexity across different fields. The Standard Deviation method consistently produces more balanced distributions, particularly evident in the Machine Learning and E-commerce domains.
 
 ### Retrieval Quality Evaluation
 
