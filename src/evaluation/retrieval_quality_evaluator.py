@@ -216,8 +216,10 @@ def plot_retrieval_quality_metrics(retrieval_metrics_file: str):
 
         # Create subplots with more height per plot
         fig, axs = plt.subplots(len(domains), 1, figsize=(15, 5*len(domains)))
-        fig.suptitle('Retrieval Quality Metrics Comparison', fontsize=16, y=0.95)
-
+        
+        # Move the suptitle higher by adjusting y parameter and add more top margin
+        fig.suptitle('Retrieval Quality Metrics Comparison', fontsize=16, y=1.02)
+        
         # Handle both single and multiple domain cases
         if len(domains) == 1:
             axs = [axs]
@@ -251,11 +253,10 @@ def plot_retrieval_quality_metrics(retrieval_metrics_file: str):
             # Add legend with better positioning
             ax.legend(bbox_to_anchor=(1.05, 1), loc='upper left')
 
-        plt.tight_layout()
+        # Adjust the layout with more top margin
+        plt.tight_layout(rect=[0, 0, 1, 0.96])  # The rect parameter reserves space for the title
         plt.savefig('results/retrieval_quality_comparison.png', bbox_inches='tight', dpi=300)
         print("Retrieval quality metrics plot saved as 'results/retrieval_quality_comparison.png'")
     except Exception as e:
         print(f"Error in plotting retrieval quality metrics: {e}")
         logger.error(f"Error in plotting retrieval quality metrics: {e}")
-
-

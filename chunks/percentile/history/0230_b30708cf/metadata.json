@@ -1,0 +1,11 @@
+{
+  "source": "history",
+  "unique_id": "b30708cf",
+  "file_name": "openalex_40.txt",
+  "process_order": 230,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    508,
+    197
+  ]
+}

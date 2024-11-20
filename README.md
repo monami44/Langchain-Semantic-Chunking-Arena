@@ -205,7 +205,7 @@ The retrieval quality metrics across all domains showed interesting patterns:
 
 ### Final Scores
 
-The comprehensive evaluation across all domains yielded the following scores:
+**Table 3: Final Scores Across All Domains**
 
 | Method | Machine Learning | Medical | History | Legal | E-commerce | Average |
 |--------|-----------------|---------|---------|-------|------------|---------|

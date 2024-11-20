@@ -1,0 +1,11 @@
+{
+  "source": "pubmed",
+  "unique_id": "dffea439",
+  "file_name": "pubmed_24.txt",
+  "process_order": 136,
+  "num_chunks": 2,
+  "chunk_sizes": [
+    49,
+    1907
+  ]
+}
