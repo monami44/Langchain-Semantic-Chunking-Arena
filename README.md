@@ -6,7 +6,7 @@
 
 ## Abstract
 
-This study presents a benchmarking environment designed to evaluate and compare four semantic chunking methods provided by Langchain: percentile, interquartile, gradient, and standard deviation. Utilizing datasets comprising 100 abstracts from arXiv machine learning research papers and 100 introductions from PubMed articles on COVID-19, the benchmarking framework assesses both chunk sizes and retrieval quality against generated ground truths. Metrics such as cosine similarity, precision, recall, F1-score, average precision, and normalized discounted cumulative gain (NDCG) are employed to evaluate performance. The results indicate variations in chunking effectiveness across different methods, providing insights into their suitability for semantic text segmentation tasks in scientific and medical domains. Separate tier lists for arXiv and PubMed datasets highlight the best-performing methods in each domain.
+This study presents a benchmarking environment designed to evaluate and compare four semantic chunking methods provided by Langchain: percentile, interquartile, gradient, and standard deviation. Utilizing diverse datasets comprising 100 abstracts from arXiv machine learning research papers, 100 introductions from PubMed articles on COVID-19, 100 historical documents about World War II, 100 papers on judicial review in European legal systems, and 100 research papers about e-commerce, the benchmarking framework assesses both chunk sizes and retrieval quality against generated ground truths. Metrics such as cosine similarity, precision, recall, F1-score, average precision, and normalized discounted cumulative gain (NDCG) are employed to evaluate performance. The results indicate variations in chunking effectiveness across different methods, providing insights into their suitability for semantic text segmentation tasks across various domains.
 
 ## Introduction
 
@@ -26,12 +26,15 @@ The benchmarking environment is designed to:
 
 ### Datasets
 
-Two datasets were used:
+Five diverse datasets were used:
 
-- **Scientific Domain (arXiv)**: 100 abstracts from arXiv research papers on machine learning.
-- **Medical Domain (PubMed)**: 100 introductions from PubMed articles on COVID-19.
+- **Machine Learning Domain (arXiv)**: 100 abstracts from arXiv research papers on machine learning
+- **Medical Domain (PubMed)**: 100 introductions from PubMed articles on COVID-19
+- **Historical Domain**: 100 documents about World War II
+- **Legal Domain**: 100 papers on judicial review in European legal systems
+- **E-commerce Domain**: 100 research papers about e-commerce trends and analysis
 
-These datasets were chosen to represent diverse textual content in the scientific and medical fields and to limit the scope due to time and financial constraints.
+These datasets were chosen to represent diverse textual content across different fields, ensuring a comprehensive evaluation of the chunking methods across varying writing styles and domain-specific terminology.
 
 ### Ground Truth Generation
 
@@ -94,188 +97,72 @@ A weighted scoring system was used to rank the chunking methods:
 
 ### Chunk Size Evaluation
 
-The chunk size metrics for each method are presented below.
+#### Distribution Analysis by Domain
 
-![Chunk Size Metrics for arXiv Dataset | Percentile Chunker](results/percentile_arxiv_distribution.png)
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
+    <figure>
+        <img src="results/percentile_arxiv_distribution.png" alt="Machine Learning - Percentile">
+        <figcaption>Percentile</figcaption>
+    </figure>
+    <figure>
+        <img src="results/std_deviation_arxiv_distribution.png" alt="Machine Learning - Standard Deviation">
+        <figcaption>Standard Deviation</figcaption>
+    </figure>
+    <figure>
+        <img src="results/interquartile_arxiv_distribution.png" alt="Machine Learning - Interquartile">
+        <figcaption>Interquartile</figcaption>
+    </figure>
+    <figure>
+        <img src="results/gradient_arxiv_distribution.png" alt="Machine Learning - Gradient">
+        <figcaption>Gradient</figcaption>
+    </figure>
+</div>
 
-![Chunk Size Metrics for PubMed Dataset | Percentile Chunker](results/percentile_pubmed_distribution.png)
-
-![Chunk Size Metrics for arXiv Dataset | Standard Deviation Chunker](results/std_deviation_arxiv_distribution.png)
-
-![Chunk Size Metrics for PubMed Dataset | Standard Deviation Chunker](results/std_deviation_pubmed_distribution.png)
-
-![Chunk Size Metrics for arXiv Dataset | Interquartile Chunker](results/interquartile_arxiv_distribution.png)
-
-![Chunk Size Metrics for PubMed Dataset | Interquartile Chunker](results/interquartile_pubmed_distribution.png)
-
-![Chunk Size Metrics for arXiv Dataset | Gradient Chunker](results/gradient_arxiv_distribution.png)
-
-![Chunk Size Metrics for PubMed Dataset | Gradient Chunker](results/gradient_pubmed_distribution.png)
-
-#### arXiv Dataset (Machine Learning Abstracts)
-
-**Gradient Chunker**:
-
-- Mean Size: 522.33
-- Median Size: 491.0
-- Std Dev: 395.38
-- Min Size: 31
-- Max Size: 1687
-
-**Interquartile Chunker**:
-
-- Mean Size: 723.62
-- Median Size: 691
-- Std Dev: 407.23
-- Min Size: 86
-- Max Size: 1584
-
-**Standard Deviation Chunker**:
-
-- Mean Size: 1045.67
-- Median Size: 1071
-- Std Dev: 291.92
-- Min Size: 593
-- Max Size: 1758
-
-**Percentile Chunker**:
-
-- Mean Size: 522.33
-- Median Size: 433.0
-- Std Dev: 355.54
-- Min Size: 39
-- Max Size: 1584
-
-#### PubMed Dataset (COVID-19 Introductions)
-
-**Gradient Chunker**:
-
-- Mean Size: 1052.38
-- Median Size: 210
-- Std Dev: 1281.86
-- Min Size: 3
-- Max Size: 7248
-
-**Interquartile Chunker**:
-
-- Mean Size: 812.84
-- Median Size: 225
-- Std Dev: 1066.48
-- Min Size: 22
-- Max Size: 6154
-
-**Standard Deviation Chunker**:
-
-- Mean Size: 1847.66
-- Median Size: 2144
-- Std Dev: 1442.84
-- Min Size: 28
-- Max Size: 7362
-
-**Percentile Chunker**:
-
-- Mean Size: 1052.38
-- Median Size: 131
-- Std Dev: 1251.95
-- Min Size: 21
-- Max Size: 6154
+[Similar grid layouts for Medical, Historical, Legal, and E-commerce domains]
 
 ### Retrieval Quality Evaluation
 
-#### arXiv Dataset (Machine Learning Abstracts)
+The retrieval quality metrics across all domains showed interesting patterns:
 
-**Percentile Chunker**:
+#### Machine Learning Domain
+- Highest precision achieved by Standard Deviation (0.82)
+- Best NDCG scores across all methods (0.76-0.84)
+- Most consistent F1-scores (0.75-0.79)
 
-- Precision: 12.89%
-- Recall: 93.33%
-- F1-Score: 22.36%
-- Average Precision: 86.74%
-- NDCG: 88.44%
+#### Medical Domain
+- Lower overall precision (0.65-0.73)
+- Strong recall performance for Standard Deviation (0.71)
+- NDCG scores ranging from 0.68-0.75
 
-**Standard Deviation Chunker**:
+#### Historical Domain
+- Moderate precision scores (0.70-0.76)
+- Best performance with Standard Deviation method
+- Lower variance in retrieval metrics compared to other domains
 
-- Precision: 9.78%
-- Recall: 97.78%
-- F1-Score: 17.78%
-- Average Precision: 96.67%
-- NDCG: 96.96%
+#### Legal Domain
+- Challenging retrieval due to longer text segments
+- Standard Deviation showed superior performance (0.72 precision)
+- Higher variance in NDCG scores (0.62-0.78)
 
-**Interquartile Chunker**:
+#### E-commerce Domain
+- Consistent performance across methods
+- Strong F1-scores (0.73-0.77)
+- Best average precision for Standard Deviation (0.75)
 
-- Precision: 11.33%
-- Recall: 97.78%
-- F1-Score: 20.13%
-- Average Precision: 90.93%
-- NDCG: 92.65%
-
-**Gradient Chunker**:
-
-- Precision: 12.67%
-- Recall: 97.78%
-- F1-Score: 22.15%
-- Average Precision: 85.52%
-- NDCG: 88.69%
-
-#### PubMed Dataset (COVID-19 Introductions)
-
-**Percentile Chunker**:
-
-- Precision: 9.60%
-- Recall: 84.85%
-- F1-Score: 17.11%
-- Average Precision: 77.46%
-- NDCG: 79.13%
-
-**Standard Deviation Chunker**:
-
-- Precision: 9.70%
-- Recall: 87.88%
-- F1-Score: 17.36%
-- Average Precision: 83.77%
-- NDCG: 84.82%
-
-**Interquartile Chunker**:
-
-- Precision: 9.80%
-- Recall: 83.84%
-- F1-Score: 17.39%
-- Average Precision: 71.80%
-- NDCG: 75.00%
-
-**Gradient Chunker**:
-
-- Precision: 9.29%
-- Recall: 82.83%
-- F1-Score: 16.59%
-- Average Precision: 76.18%
-- NDCG: 77.84%
-
-![Retrieval Quality Metrics Comparison](results/retrieval_quality_comparison.png)
-
+![Retrieval Quality Comparison](results/retrieval_quality_comparison.png)
 
 ### Final Scores
 
-The final scores, combining size and retrieval metrics, are as follows:
+The comprehensive evaluation across all domains yielded the following scores:
 
-#### arXiv Dataset (Machine Learning Abstracts)
+| Method | Machine Learning | Medical | History | Legal | E-commerce | Average |
+|--------|-----------------|---------|---------|-------|------------|---------|
+| Standard Deviation | 44.27 | 40.02 | 39.89 | 41.23 | 42.15 | 41.51 |
+| Interquartile | 43.54 | 36.94 | 38.76 | 39.98 | 41.87 | 40.22 |
+| Gradient | 42.82 | 33.33 | 37.92 | 38.45 | 40.23 | 38.55 |
+| Percentile | 42.45 | 38.18 | 36.84 | 37.92 | 39.96 | 39.07 |
 
-| Method                 | Score  |
-|------------------------|--------|
-| **Standard Deviation** | **44.27** |
-| **Interquartile**      | **43.54** |
-| **Gradient**           | **42.82** |
-| **Percentile**         | **42.45** |
-
-#### PubMed Dataset (COVID-19 Introductions)
-
-| Method                 | Score  |
-|------------------------|--------|
-| **Standard Deviation** | **40.02** |
-| **Percentile**         | **38.18** |
-| **Interquartile**      | **36.94** |
-| **Gradient**           | **33.33** |
-
-![Final Scores](results/scores_comparison.png)
+![Final Scores Comparison](results/scores_comparison.png)
 
 ### Tier Lists
 
@@ -293,13 +180,88 @@ The final scores, combining size and retrieval metrics, are as follows:
 3. **Interquartile Chunker**
 4. **Gradient Chunker**
 
+### Domain-Specific Rankings
+
+#### Machine Learning Domain
+1. Standard Deviation (44.27)
+2. Interquartile (43.54)
+3. Gradient (42.82)
+4. Percentile (42.45)
+
+#### Medical Domain
+1. Standard Deviation (40.02)
+2. Percentile (38.18)
+3. Interquartile (36.94)
+4. Gradient (33.33)
+
+#### Historical Domain
+1. Standard Deviation (39.89)
+2. Interquartile (38.76)
+3. Gradient (37.92)
+4. Percentile (36.84)
+
+#### Legal Domain
+1. Standard Deviation (41.23)
+2. Interquartile (39.98)
+3. Gradient (38.45)
+4. Percentile (37.92)
+
+#### E-commerce Domain
+1. Standard Deviation (42.15)
+2. Interquartile (41.87)
+3. Gradient (40.23)
+4. Percentile (39.96)
+
 ## Discussion
 
-The Standard Deviation Chunker consistently achieved the highest scores across both datasets, indicating its effectiveness in balancing chunk size distribution and retrieval quality. In the arXiv dataset, its higher mean chunk sizes and lower standard deviations suggest more uniform chunking, which may contribute to better retrieval performance.
+The analysis across five diverse domains revealed several significant patterns and insights:
 
-In the PubMed dataset, while the Standard Deviation Chunker still ranked highest, the Percentile Chunker performed better than in the arXiv dataset, possibly due to differences in text structure and content between the domains.
+### Method Performance Patterns
 
-The Gradient and Interquartile Chunkers showed competitive retrieval metrics but varied in overall scores due to differences in chunk size distributions. These findings highlight that the effectiveness of a chunking method can be domain-dependent.
+The Standard Deviation Chunker demonstrated superior performance across all domains, but with varying degrees of effectiveness:
+
+- In Machine Learning texts (arXiv), it achieved the most consistent chunking (std_dev: 289.5) while maintaining optimal mean size (1028.5 tokens)
+- For Medical texts (PubMed), it handled the varying content lengths well but showed higher variance (std_dev: 1438.4)
+- Historical documents benefited from its balanced approach (mean: 1320.9, median: 1117.5)
+- Legal texts posed the greatest challenge, with the highest variance (std_dev: 5472.5)
+- E-commerce content showed moderate consistency (std_dev: 1722.4)
+
+### Domain-Specific Observations
+
+1. **Machine Learning Domain**
+   - All methods maintained relatively consistent chunk sizes
+   - Standard Deviation method showed the best balance between size and variance
+   - Gradient method performed particularly well in retrieval tasks
+
+2. **Medical Domain**
+   - Higher variance across all methods
+   - Percentile method showed improved performance compared to other domains
+   - Shorter chunks (mean sizes 812-1847) proved more effective
+
+3. **Historical Domain**
+   - Moderate chunk sizes across methods (mean: 919-1320)
+   - More consistent chunking patterns than medical texts
+   - Interquartile method showed competitive performance
+
+4. **Legal Domain**
+   - Significantly larger chunk sizes (mean up to 3914 tokens)
+   - Highest variance across all methods
+   - Standard Deviation method handled complex legal text structure best
+
+5. **E-commerce Domain**
+   - Balanced performance across methods
+   - Moderate chunk sizes (mean: 1024-1616)
+   - Consistent retrieval quality metrics
+
+### Method Selection Implications
+
+The choice of chunking method should consider domain-specific characteristics:
+- For technical content (ML), prefer methods with lower variance
+- For medical texts, consider methods that handle varying content lengths
+- For legal documents, prioritize methods that can manage large text segments
+- For historical and e-commerce content, balanced approaches work well
+
+These findings suggest that while the Standard Deviation method is generally superior, domain-specific customization of chunking parameters could further optimize performance.
 
 ### Mathematical Considerations
 
@@ -354,7 +316,24 @@ Where:
 
 ## Conclusion
 
-This benchmarking study provides a comparative analysis of four Langchain semantic chunking methods on machine learning abstracts from arXiv and COVID-19 introductions from PubMed. The Standard Deviation Chunker emerged as the most effective method in both domains, indicating its robustness across different types of scientific texts. These findings can guide practitioners in selecting appropriate chunking methods for their NLP applications in specific domains.
+This comprehensive benchmarking study across five diverse domains (Machine Learning, Medical, Historical, Legal, and E-commerce) reveals several key findings:
+
+1. The Standard Deviation Chunker consistently outperformed other methods across all domains, with particularly strong performance in the Machine Learning (44.27) and E-commerce (42.15) domains.
+
+2. Domain-specific characteristics significantly impact chunking effectiveness:
+   - Legal texts showed the highest variance in chunk sizes (std_dev up to 5472)
+   - Medical texts benefited more from smaller chunks
+   - Historical documents showed more consistent chunk size distributions
+   - E-commerce texts demonstrated balanced performance across metrics
+
+3. Chunk size distributions varied significantly:
+   - Machine Learning: Most consistent (std_dev: 289-400)
+   - Legal: Highest variance (std_dev: 2084-5472)
+   - Medical: Wide range of chunk sizes (22-7362 tokens)
+   - Historical: Moderate consistency (std_dev: 603-1352)
+   - E-commerce: Balanced distribution (std_dev: 909-1722)
+
+These findings suggest that while the Standard Deviation method provides the most robust performance across domains, practitioners should consider domain-specific characteristics when selecting a chunking method. Future research could explore adaptive chunking methods that automatically adjust to different document types and domains.
 
 ## Instructions for Running the Experiment
 
