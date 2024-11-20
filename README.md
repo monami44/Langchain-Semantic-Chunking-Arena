@@ -97,6 +97,34 @@ A weighted scoring system was used to rank the chunking methods:
 
 ### Chunk Size Evaluation
 
+#### Comprehensive Metrics Analysis
+
+**Table 1: Chunk Size Metrics Across Domains and Methods**
+
+| Domain | Method | Mean Size | Median Size | Std Dev | Min Size | Max Size |
+|--------|---------|-----------|-------------|----------|-----------|-----------|
+| Machine Learning | Gradient | 513.75 | 482.0 | 388.12 | 31 | 1,687 |
+| | Interquartile | 704.14 | 682.0 | 400.54 | 86 | 1,584 |
+| | Std Deviation | 1,028.50 | 1,069.5 | 289.53 | 593 | 1,758 |
+| | Percentile | 513.75 | 432.5 | 350.71 | 39 | 1,584 |
+| Medical | Gradient | 1,052.38 | 210.0 | 1,279.64 | 3 | 7,248 |
+| | Interquartile | 812.84 | 225.0 | 1,065.07 | 22 | 6,154 |
+| | Std Deviation | 1,847.66 | 2,144.0 | 1,438.49 | 28 | 7,362 |
+| | Percentile | 1,052.38 | 131.0 | 1,249.80 | 21 | 6,154 |
+| Historical | Gradient | 668.54 | 552.5 | 619.92 | 4 | 5,075 |
+| | Interquartile | 919.62 | 821.0 | 603.10 | 42 | 4,226 |
+| | Std Deviation | 1,320.91 | 1,117.5 | 1,352.19 | 640 | 12,672 |
+| | Percentile | 643.43 | 523.5 | 537.77 | 4 | 4,226 |
+| Legal | Gradient | 1,640.57 | 927.0 | 2,325.69 | 4 | 18,480 |
+| | Interquartile | 1,822.27 | 1,187.0 | 2,084.94 | 4 | 11,057 |
+| | Std Deviation | 3,914.56 | 1,633.5 | 5,472.54 | 16 | 25,203 |
+| | Percentile | 1,634.95 | 828.0 | 2,110.59 | 2 | 12,420 |
+| E-commerce | Gradient | 816.92 | 661.5 | 859.82 | 56 | 8,283 |
+| | Interquartile | 1,024.28 | 917.0 | 909.26 | 37 | 8,217 |
+| | Std Deviation | 1,616.67 | 1,320.0 | 1,722.45 | 656 | 13,365 |
+| | Percentile | 812.35 | 581.0 | 824.14 | 72 | 8,217 |
+
+
 #### Machine Learning Domain Distribution Analysis
 ![Machine Learning Domain Chunk Size Distributions](results/combined_distribution_arxiv.png)
 *Figure 1: Comparison of chunking methods on arXiv machine learning papers showing Standard Deviation method's superior consistency (std_dev: 289.5) compared to other approaches.*
@@ -120,6 +148,31 @@ A weighted scoring system was used to rank the chunking methods:
 Each domain exhibits distinct chunking patterns, reflecting the varying nature of content structure and complexity across different fields. The Standard Deviation method consistently produces more balanced distributions, particularly evident in the Machine Learning and E-commerce domains.
 
 ### Retrieval Quality Evaluation
+
+**Table 2: Retrieval Quality Metrics Across Domains and Methods**
+
+| Domain | Method | Precision | Recall | F1-Score | Avg Precision | NDCG |
+|--------|---------|-----------|---------|-----------|---------------|-------|
+| Machine Learning | Gradient | 13.78% | 93.33% | 23.56% | 84.26% | 86.85% |
+| | Interquartile | 12.22% | 95.56% | 21.27% | 92.41% | 93.18% |
+| | Std Deviation | 10.44% | 95.56% | 18.72% | 93.33% | 93.92% |
+| | Percentile | 13.78% | 95.56% | 23.63% | 88.41% | 90.39% |
+| Medical | Gradient | 9.09% | 79.80% | 16.19% | 73.82% | 75.29% |
+| | Interquartile | 9.49% | 82.83% | 16.90% | 69.90% | 73.17% |
+| | Std Deviation | 9.60% | 86.87% | 17.17% | 82.53% | 83.62% |
+| | Percentile | 9.60% | 84.85% | 17.11% | 77.81% | 79.37% |
+| Historical | Gradient | 8.93% | 74.67% | 15.80% | 63.67% | 66.82% |
+| | Interquartile | 8.80% | 78.67% | 15.72% | 73.36% | 74.89% |
+| | Std Deviation | 8.00% | 80.00% | 14.55% | 79.33% | 79.51% |
+| | Percentile | 11.07% | 78.67% | 19.15% | 68.56% | 71.42% |
+| Legal | Gradient | 11.15% | 80.21% | 19.29% | 67.67% | 71.13% |
+| | Interquartile | 10.21% | 83.33% | 17.97% | 75.36% | 77.59% |
+| | Std Deviation | 9.38% | 84.38% | 16.71% | 79.60% | 81.06% |
+| | Percentile | 12.50% | 84.38% | 21.40% | 68.33% | 73.20% |
+| E-commerce | Gradient | 11.93% | 87.50% | 20.58% | 72.14% | 76.34% |
+| | Interquartile | 10.57% | 89.77% | 18.73% | 82.05% | 84.15% |
+| | Std Deviation | 9.32% | 90.91% | 16.87% | 88.64% | 89.15% |
+| | Percentile | 13.18% | 89.77% | 22.55% | 77.18% | 80.68% |
 
 The retrieval quality metrics across all domains showed interesting patterns:
 
