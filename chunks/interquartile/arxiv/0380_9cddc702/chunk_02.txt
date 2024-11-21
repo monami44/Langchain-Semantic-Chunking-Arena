@@ -1,1 +1,0 @@
-In this position paper, we first define interpretability and describe when interpretability is needed and when it is not. Next, we suggest a taxonomy for rigorous evaluation and expose open questions towards a more rigorous science of interpretable machine learning.

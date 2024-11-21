@@ -1,1 +1,0 @@
-Abstract There has been an increasing emphasis on big data analytics BDA in ecommerce in recent years. However, it remains poorlyexplored as a concept, which obstructs its theoretical and practical development.

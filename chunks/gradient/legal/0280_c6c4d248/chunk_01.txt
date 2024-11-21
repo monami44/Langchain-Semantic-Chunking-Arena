@@ -1,1 +1,0 @@
-As concerns about unfairness and discrimination in black box machine learning systems rise, a legal right to an explanation has emerged as a compellingly attractive approach for challenge and redress.

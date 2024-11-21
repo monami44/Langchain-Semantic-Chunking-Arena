@@ -1,1 +1,0 @@
-In recent years a substantial literature has emerged concerning bias, discrimination, and fairness in artificial intelligence AI and machine learning.

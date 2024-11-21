@@ -1,1 +1,0 @@
-This paper studies the stateoftheart of IoT and presents the key technological drivers, potential applications, challenges and future research areas in the domain of IoT. IoT definitions from different perspective in academic and industry communities are also discussed and compared. Finally some major issues of future research in IoT are identified and discussed briefly.

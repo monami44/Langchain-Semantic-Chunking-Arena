@@ -1,1 +1,0 @@
-Furthermore, all code in the form of Jupyter notebooks and Google Colaboratory notebooks used to make the examples in the paper is provided in an effort to catalyse the use of machine learning in meteorology.

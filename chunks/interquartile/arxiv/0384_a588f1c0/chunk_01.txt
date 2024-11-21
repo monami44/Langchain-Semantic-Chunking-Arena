@@ -1,1 +1,0 @@
-Security vulnerabilities play a vital role in network security system. Fuzzing technology is widely used as a vulnerability discovery technology to reduce damage in advance.

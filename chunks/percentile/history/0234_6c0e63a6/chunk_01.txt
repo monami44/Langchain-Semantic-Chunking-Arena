@@ -1,1 +1,0 @@
-To test the usefulness of the forensic PCRMPS approach to eye and hair color prediction for aged skeletons, a customized version of the PCRMPS HIrisPlex panel was used on two sets of samples. The first set contained 11 skeletons dated from the 3rd to the 18th centuries AD, and for each of them at least four bone types were analyzed for a total of 47 samples.

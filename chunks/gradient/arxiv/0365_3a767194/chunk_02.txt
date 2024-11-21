@@ -1,1 +1,0 @@
-We also observe that the proposed system produces better or comparable results with less runtime as compared to other approaches.

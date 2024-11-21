@@ -1,10 +1,7 @@
-Machine learning has more and more effect on our every day's life. This field
-keeps growing and expanding into new areas. Machine learning is based on the
-implementation of artificial intelligence that gives systems the capability to
-automatically learn and enhance from experiments without being explicitly
-programmed. Machine Learning algorithms apply mathematical equations to analyze
-datasets and predict values based on the dataset. In the field of
-cybersecurity, machine learning algorithms can be utilized to train and analyze
-the Intrusion Detection Systems (IDSs) on security-related datasets. In this
-paper, we tested different machine learning algorithms to analyze NSL-KDD
-dataset using KNIME analytics.
+The prediction of epileptic seizure has always been extremely challenging in
+medical domain. However, as the development of computer technology, the
+application of machine learning introduced new ideas for seizure forecasting.
+Applying machine learning model onto the predication of epileptic seizure could
+help us obtain a better result and there have been plenty of scientists who
+have been doing such works so that there are sufficient medical data provided
+for researchers to do training of machine learning models.

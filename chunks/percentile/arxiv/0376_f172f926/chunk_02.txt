@@ -1,1 +1,0 @@
-Emphasis is put on ease of use, performance, documentation, and API consistency.

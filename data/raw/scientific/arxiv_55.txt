@@ -1,9 +1,9 @@
-Uncertainty in machine learning is not generally taught as general knowledge
-in Machine Learning course curricula. In this paper we propose a short
-curriculum for a course about uncertainty in machine learning, and complement
-the course with a selection of use cases, aimed to trigger discussion and let
-students play with the concepts of uncertainty in a programming setting. Our
-use cases cover the concept of output uncertainty, Bayesian neural networks and
-weight distributions, sources of uncertainty, and out of distribution
-detection. We expect that this curriculum and set of use cases motivates the
-community to adopt these important concepts into courses for safety in AI.
+As machine learning has become increasingly popular over the last few
+decades, so too has the number of machine learning interfaces for implementing
+these models. Whilst many R libraries exist for machine learning, very few
+offer extended support for survival analysis. This is problematic considering
+its importance in fields like medicine, bioinformatics, economics, engineering,
+and more. mlr3proba provides a comprehensive machine learning interface for
+survival analysis and connects with mlr3's general model tuning and
+benchmarking facilities to provide a systematic infrastructure for survival
+modeling and evaluation.

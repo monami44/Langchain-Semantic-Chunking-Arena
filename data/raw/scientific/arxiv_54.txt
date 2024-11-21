@@ -1,9 +1,10 @@
-As machine learning has become increasingly popular over the last few
-decades, so too has the number of machine learning interfaces for implementing
-these models. Whilst many R libraries exist for machine learning, very few
-offer extended support for survival analysis. This is problematic considering
-its importance in fields like medicine, bioinformatics, economics, engineering,
-and more. mlr3proba provides a comprehensive machine learning interface for
-survival analysis and connects with mlr3's general model tuning and
-benchmarking facilities to provide a systematic infrastructure for survival
-modeling and evaluation.
+When deployed in the wild, machine learning models are usually confronted
+with data and requirements that constantly vary, either because of changes in
+the generating distribution or because external constraints change the
+environment where the model operates. To survive in such an ecosystem, machine
+learning models need to adapt to new conditions by evolving over time. The idea
+of model adaptability has been studied from different perspectives. In this
+paper, we propose a solution based on reusing the knowledge acquired by the
+already deployed machine learning models and leveraging it to train future
+generations. This is the idea behind differential replication of machine
+learning models.

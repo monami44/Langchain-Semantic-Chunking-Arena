@@ -1,9 +1,7 @@
-Interpretable machine learning tackles the important problem that humans
-cannot understand the behaviors of complex machine learning models and how
-these models arrive at a particular decision. Although many approaches have
-been proposed, a comprehensive understanding of the achievements and challenges
-is still lacking. We provide a survey covering existing techniques to increase
-the interpretability of machine learning models. We also discuss crucial issues
-that the community should consider in future work such as designing
-user-friendly explanations and developing comprehensive evaluation metrics to
-further push forward the area of interpretable machine learning.
+Classical optimization algorithms in machine learning often take a long time
+to compute when applied to a multi-dimensional problem and require a huge
+amount of CPU and GPU resource. Quantum parallelism has a potential to speed up
+machine learning algorithms. We describe a generic mathematical model to
+leverage quantum parallelism to speed-up machine learning algorithms. We also
+apply quantum machine learning and quantum parallelism applied to a
+$3$-dimensional image that vary with time.

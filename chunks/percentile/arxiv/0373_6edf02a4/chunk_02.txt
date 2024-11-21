@@ -1,1 +1,0 @@
-Using the SELM framework, we can improve a machine learning process efficiency and provide more accuracy in learning with less processing hardware resources and a smaller training dataset. This issue highlights the importance of an interdisciplinary approach to machine learning. Therefore, in this article, we have provided interdisciplinary teams proposals for machine learning.

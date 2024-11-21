@@ -1,30 +1,30 @@
 {
     "gradient": {
-        "arxiv": 42.21,
+        "arxiv": 42.5,
         "pubmed": 32.3,
-        "history": 38.61,
-        "legal": 38.61,
-        "ecommerce": 42.21
+        "history": 38.9,
+        "legal": 38.9,
+        "ecommerce": 42.5
     },
     "interquartile": {
-        "arxiv": 43.76,
+        "arxiv": 43.97,
         "pubmed": 36.27,
-        "history": 43.76,
-        "legal": 40.16,
-        "ecommerce": 43.76
+        "history": 43.97,
+        "legal": 40.37,
+        "ecommerce": 43.97
     },
     "std_deviation": {
-        "arxiv": 43.44,
+        "arxiv": 43.56,
         "pubmed": 39.57,
-        "history": 43.44,
-        "legal": 43.44,
-        "ecommerce": 43.44
+        "history": 43.56,
+        "legal": 43.56,
+        "ecommerce": 43.56
     },
     "percentile": {
-        "arxiv": 43.41,
+        "arxiv": 43.72,
         "pubmed": 38.25,
-        "history": 39.81,
-        "legal": 38.61,
-        "ecommerce": 43.41
+        "history": 40.12,
+        "legal": 38.92,
+        "ecommerce": 43.72
     }
 }

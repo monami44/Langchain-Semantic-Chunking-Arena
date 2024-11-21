@@ -1,1 +1,0 @@
-The experimental results show that the model can effectively improve the performance of text sentiment analysis.

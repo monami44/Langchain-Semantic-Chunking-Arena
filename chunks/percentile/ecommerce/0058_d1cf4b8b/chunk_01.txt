@@ -1,1 +1,0 @@
-Deep learning based methods have been widely used in industrial recommendation systems RSs. Previous works adopt an EmbeddingMLP paradigm raw features are embedded into lowdimensional vectors, which are then fed on to MLP for final recommendations.
