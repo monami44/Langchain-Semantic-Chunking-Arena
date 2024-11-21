@@ -1,7 +1,3 @@
-**Disclaimer:** I am not a professional scientist and do not pretend to be one. This is an experiment I conducted in my free time, literally in 12 hours, and I had a lot of fun playing with it. Everyone is welcome to critique this work or take it and improve it to a real scientific level.
-
----
-
 # Benchmarking LangChain Semantic Chunking Methods: A Comparative Analysis
 
 ## Abstract
