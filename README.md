@@ -24,7 +24,7 @@ The benchmarking environment is designed to:
 2. **Assess Retrieval Quality**: Measure how well the chunks facilitate the retrieval of relevant information compared to ground truths.
 3. **Rank Methods**: Provide a scoring system to rank the chunking methods based on their performance in chunk size distribution and retrieval quality.
 
-![Benchmarking Environment Flowchart](benchmarking_flowchart.png)
+![Benchmarking Environment Flowchart](src/visualization/benchmarking_flowchart.png)
 *Figure 1: Complete flowchart of the benchmarking process, from data collection through evaluation metrics calculation*
 
 ### Datasets
