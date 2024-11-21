@@ -24,8 +24,8 @@ The benchmarking environment is designed to:
 2. **Assess Retrieval Quality**: Measure how well the chunks facilitate the retrieval of relevant information compared to ground truths.
 3. **Rank Methods**: Provide a scoring system to rank the chunking methods based on their performance in chunk size distribution and retrieval quality.
 
-![Benchmarking Environment Flowchart](src/visualization/benchmarking_flowchart.png)
-*Figure: Complete flowchart of the benchmarking process, from data collection through evaluation metrics calculation*
+![Benchmarking Environment Flowchart](benchmarking_flowchart.png)
+*Figure 1: Complete flowchart of the benchmarking process, from data collection through evaluation metrics calculation*
 
 ### Datasets
 
@@ -136,32 +136,27 @@ This approach aligns with methodologies discussed in large-scale retrieval evalu
 #### Machine Learning Domain Distribution Analysis
 
 ![Machine Learning Domain Chunk Size Distributions](results/combined_distribution_arxiv.png)
-
-*Figure 1: Comparison of chunking methods on arXiv machine learning papers showing Standard Deviation method's superior consistency (std_dev: 295.04) compared to other approaches.*
+*Figure 2: Comparison of chunking methods on arXiv machine learning papers showing Standard Deviation method's superior consistency (std_dev: 295.04) compared to other approaches.*
 
 #### Medical Domain Distribution Analysis
 
 ![Medical Domain Chunk Size Distributions](results/combined_distribution_pubmed.png)
-
-*Figure 2: Distribution patterns across methods for PubMed medical articles, highlighting wider variance in chunk sizes (min: 3 tokens, max: 7,362 tokens).*
+*Figure 3: Distribution patterns across methods for PubMed medical articles, highlighting wider variance in chunk sizes (min: 3 tokens, max: 7,362 tokens).*
 
 #### Historical Domain Distribution Analysis
 
 ![Historical Domain Chunk Size Distributions](results/combined_distribution_history.png)
-
-*Figure 3: Chunk size distributions for World War II historical documents, demonstrating moderate consistency across methods (std_dev: 539.35–1,360.36).*
+*Figure 4: Chunk size distributions for World War II historical documents, demonstrating moderate consistency across methods (std_dev: 539.35–1,360.36).*
 
 #### Legal Domain Distribution Analysis
 
 ![Legal Domain Chunk Size Distributions](results/combined_distribution_legal.png)
-
-*Figure 4: Analysis of chunking patterns in legal documents, showing the highest variance among all domains (std_dev: 2,088.66–5,493.61).*
+*Figure 5: Analysis of chunking patterns in legal documents, showing the highest variance among all domains (std_dev: 2,088.66–5,493.61).*
 
 #### E-commerce Domain Distribution Analysis
 
 ![E-commerce Domain Chunk Size Distributions](results/combined_distribution_ecommerce.png)
-
-*Figure 5: Distribution comparison for e-commerce research papers, displaying balanced chunk sizes (mean: 812.35–1,616.67 tokens).*
+*Figure 6: Distribution comparison for e-commerce research papers, displaying balanced chunk sizes (mean: 812.35–1,616.67 tokens).*
 
 Each domain exhibits distinct chunking patterns, reflecting the varying nature of content structure and complexity across different fields. The Standard Deviation method consistently produces more balanced distributions, particularly evident in the Machine Learning and E-commerce domains.
 
@@ -225,7 +220,7 @@ The retrieval quality metrics across all domains showed interesting patterns:
 - **Best average precision** for Std Deviation method (88.64%).
 
 ![Retrieval Quality Comparison](results/retrieval_quality_comparison.png)
-
+*Figure 7: Comparison of retrieval quality metrics across domains and methods, highlighting the Standard Deviation method's superior performance in most domains.*
 ### Final Scores
 
 **Table 3: Final Scores Across All Domains**
@@ -238,6 +233,7 @@ The retrieval quality metrics across all domains showed interesting patterns:
 | Gradient          | 42.50            | 32.30   | 38.90   | 38.90 | 42.50      | 39.02   |
 
 ![Final Scores Comparison](results/scores_comparison.png)
+*Figure 8: Comparison of final scores across all domains and methods, with the Standard Deviation method leading in overall performance.*
 
 ### Tier Lists
 
